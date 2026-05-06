@@ -1,0 +1,4 @@
+# python git ignore file
+
+*.pyc
+__pycache__/

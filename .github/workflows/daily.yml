@@ -1,0 +1,101 @@
+name: Daily bulletin
+
+# Runs the fetch -> build pipeline at 07:00 Melbourne time, commits the
+# updated state (content/, docs/, seen.json, editions.json) back to the
+# default branch, then publishes docs/ to GitHub Pages.
+#
+# GitHub Actions cron only accepts UTC, and Melbourne shifts between
+# AEST (UTC+10) and AEDT (UTC+11) twice a year. We schedule both possible
+# UTC times for "07:00 Melbourne" and let a gate step skip the wrong one
+# for the current DST state.
+
+on:
+  schedule:
+    - cron: '0 20 * * *'   # 07:00 AEDT (Melbourne summer, ~Oct–Apr)
+    - cron: '0 21 * * *'   # 07:00 AEST (Melbourne winter, ~Apr–Oct)
+  workflow_dispatch: {}    # manual trigger; bypasses the DST gate
+
+permissions:
+  contents: write   # push the daily commit back to the repo
+  pages: write      # publish to GitHub Pages
+  id-token: write   # required by actions/deploy-pages
+
+concurrency:
+  group: daily-bulletin
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.gate.outputs.skip }}
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gate to 07:00 Melbourne (scheduled runs only)
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            HOUR=$(TZ=Australia/Melbourne date +%H)
+            echo "Melbourne local hour: ${HOUR}"
+            if [ "$HOUR" != "07" ]; then
+              echo "Not 07:00 Melbourne — skipping this scheduled run."
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Set up Python
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        if: steps.gate.outputs.skip != 'true'
+        run: pip install feedparser
+
+      - name: Fetch news
+        if: steps.gate.outputs.skip != 'true'
+        run: python3 fetch_news.py
+
+      - name: Build site
+        if: steps.gate.outputs.skip != 'true'
+        run: python3 build_site.py
+
+      - name: Commit updated state
+        id: commit
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/ docs/ seen.json editions.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            DATE=$(TZ=Australia/Melbourne date +%Y-%m-%d)
+            git commit -m "Daily bulletin — ${DATE}"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload Pages artifact
+        if: steps.gate.outputs.skip != 'true' && steps.commit.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.skip != 'true' && needs.build.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

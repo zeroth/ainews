@@ -1,0 +1,127 @@
+{
+  "1f7f62213a": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01123",
+    "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs"
+  },
+  "2b4818ec07": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
+    "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats"
+  },
+  "2ba6a66fdd": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.00841",
+    "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework"
+  },
+  "428b1352cc": {
+    "first_seen": "2026-05-06",
+    "link": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm",
+    "title": "Our AI started a cafe in Stockholm"
+  },
+  "467fc68201": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01130",
+    "title": "Iterative Finetuning is Mostly Idempotent"
+  },
+  "481dbb7814": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.00839",
+    "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing"
+  },
+  "56b1239859": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01032",
+    "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries"
+  },
+  "6883709f33": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01134",
+    "title": "To Use AI as Dice of Possibilities with Timing Computation"
+  },
+  "783a0d4c03": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01120",
+    "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search"
+  },
+  "8032662f29": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/openai-gpt-5-5-instant-launch",
+    "title": "OpenAI rolls out GPT-5.5 Instant as default ChatGPT model, promises more accurate responses"
+  },
+  "9d72dac4da": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.00846",
+    "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations"
+  },
+  "a11bb4f781": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm",
+    "title": "Grafana's Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes"
+  },
+  "a388403f93": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.latent.space/p/lupsasca",
+    "title": "\ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI"
+  },
+  "ab4bdc76e2": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "title": "[AINews] Silicon Valley gets Serious about Services"
+  },
+  "b06f09a4fc": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01143",
+    "title": "A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents"
+  },
+  "b665bf9832": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.00909",
+    "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat"
+  },
+  "bfb98a1c09": {
+    "first_seen": "2026-05-06",
+    "link": "https://blog.dailydoseofds.com/p/train-classical-ml-models-on-large-f9c",
+    "title": "Train Classical ML Models on Large Datasets"
+  },
+  "c1bec34286": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/amazon-coding-agents-developers",
+    "title": "AI and Claude: The internal rebellion that changed Amazon\u2019s rules"
+  },
+  "c20664dab4": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.00842",
+    "title": "Understanding Emergent Misalignment via Feature Superposition Geometry"
+  },
+  "cdfeb6a657": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01102",
+    "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics"
+  },
+  "dbd180151d": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
+    "title": "Middle East Cyber Battle Field Broadens \u2014 Especially in UAE"
+  },
+  "e2f19219c5": {
+    "first_seen": "2026-05-06",
+    "link": "https://simonwillison.net/2026/May/5/datasette-referrer-policy",
+    "title": "datasette-referrer-policy 0.1"
+  },
+  "e664e87ef9": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01030",
+    "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries"
+  },
+  "eac8095c2b": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01101",
+    "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy"
+  },
+  "f7877a17e1": {
+    "first_seen": "2026-05-06",
+    "link": "https://arxiv.org/abs/2605.01100",
+    "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion"
+  }
+}

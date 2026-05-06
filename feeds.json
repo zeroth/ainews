@@ -1,0 +1,284 @@
+[
+  {
+    "name": "StepSecurity Blog",
+    "feed_url": "https://www.stepsecurity.io/blog/rss.xml",
+    "website": "https://www.stepsecurity.io/blog",
+    "category": "Security"
+  },
+  {
+    "name": "Dark Reading",
+    "feed_url": "https://www.darkreading.com/rss.xml",
+    "website": "https://www.darkreading.com/",
+    "category": "Security"
+  },
+  {
+    "name": "The Batch (DeepLearning.AI)",
+    "feed_url": "https://www.deeplearning.ai/the-batch/feed/",
+    "website": "https://www.deeplearning.ai/the-batch/",
+    "category": "AI Tools & Models"
+  },
+  {
+    "name": "Simon Willison's Weblog",
+    "feed_url": "https://simonwillison.net/atom/everything/",
+    "website": "https://simonwillison.net/",
+    "category": "AI Tools & Models"
+  },
+  {
+    "name": "TLDR AI",
+    "feed_url": "https://tldr.tech/ai/rss",
+    "website": "https://tldr.tech/ai",
+    "category": "AI Tools & Models"
+  },
+  {
+    "name": "Import AI",
+    "feed_url": "https://importai.substack.com/feed",
+    "website": "https://importai.substack.com/",
+    "category": "AI Tools & Models"
+  },
+  {
+    "name": "AI++ Newsletter",
+    "feed_url": "https://aiplusplus.substack.com/feed",
+    "website": "https://aiplusplus.substack.com/",
+    "category": "AI Agents"
+  },
+  {
+    "name": "Latent Space",
+    "feed_url": "https://www.latent.space/feed",
+    "website": "https://www.latent.space/",
+    "category": "AI Agents"
+  },
+  {
+    "name": "Ahead of AI",
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "website": "https://magazine.sebastianraschka.com/",
+    "category": "ML & Model Development"
+  },
+  {
+    "name": "Daily Dose of Data Science",
+    "feed_url": "https://blog.dailydoseofds.com/feed",
+    "website": "https://blog.dailydoseofds.com/",
+    "category": "ML & Model Development"
+  },
+  {
+    "name": "ByteByteGo",
+    "feed_url": "https://blog.bytebytego.com/feed",
+    "website": "https://blog.bytebytego.com/",
+    "category": "Building AI Agents & Architecture"
+  },
+  {
+    "name": "Semi Analysis",
+    "feed_url": "https://semianalysis.com/feed",
+    "website": "https://semianalysis.com/",
+    "category": "AI Infrastructure"
+  },
+  {
+    "name": "The Pragmatic Engineer",
+    "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+    "website": "https://blog.pragmaticengineer.com/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "InfoQ",
+    "feed_url": "https://feed.infoq.com/",
+    "website": "https://www.infoq.com/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "O'Reilly Radar",
+    "feed_url": "https://www.oreilly.com/radar/feed/",
+    "website": "https://www.oreilly.com/radar/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "Architecture Weekly",
+    "feed_url": "https://www.architecture-weekly.com/feed",
+    "website": "https://www.architecture-weekly.com/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "The New Stack",
+    "feed_url": "https://thenewstack.io/feed/",
+    "website": "https://thenewstack.io/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "AI Safety Newsletter",
+    "feed_url": "https://newsletter.safe.ai/feed",
+    "website": "https://safe.ai/newsletter",
+    "category": "AI Policy & Safety"
+  },
+  {
+    "name": "AI Policy Bulletin",
+    "feed_url": "https://newsletter.aipolicybulletin.org/feed",
+    "website": "https://newsletter.aipolicybulletin.org/",
+    "category": "AI Policy & Safety"
+  },
+  {
+    "name": "EU AI Act Newsletter",
+    "feed_url": "https://artificialintelligenceact.substack.com/feed",
+    "website": "https://artificialintelligenceact.substack.com/",
+    "category": "AI Policy & Safety"
+  },
+  {
+    "name": "TechPolicy.Press",
+    "feed_url": "https://www.techpolicy.press/feed/",
+    "website": "https://www.techpolicy.press/",
+    "category": "AI Policy & Safety"
+  },
+  {
+    "name": "Lakera AI Blog",
+    "feed_url": "https://www.lakera.ai/blog/rss.xml",
+    "website": "https://www.lakera.ai/blog",
+    "category": "AI Security"
+  },
+  {
+    "name": "Adversa AI Blog",
+    "feed_url": "https://adversa.ai/feed/",
+    "website": "https://adversa.ai/blog",
+    "category": "AI Security"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "feed_url": "https://huggingface.co/blog/feed.xml",
+    "website": "https://huggingface.co/blog",
+    "category": "Open Source AI"
+  },
+  {
+    "name": "LogRocket Blog",
+    "feed_url": "https://blog.logrocket.com/feed/",
+    "website": "https://blog.logrocket.com/",
+    "category": "AI Coding Tools"
+  },
+  {
+    "name": "Data Engineering Weekly",
+    "feed_url": "https://www.dataengineeringweekly.com/feed",
+    "website": "https://www.dataengineeringweekly.com/",
+    "category": "Data Engineering for AI"
+  },
+  {
+    "name": "SwirlAI Newsletter",
+    "feed_url": "https://www.newsletter.swirlai.com/feed",
+    "website": "https://www.newsletter.swirlai.com/",
+    "category": "Prompt & Context Engineering"
+  },
+  {
+    "name": "KDnuggets",
+    "feed_url": "https://www.kdnuggets.com/feed",
+    "website": "https://www.kdnuggets.com/",
+    "category": "Enterprise AI & MLOps"
+  },
+  {
+    "name": "Shape of AI",
+    "feed_url": "https://www.shapeof.ai/feed",
+    "website": "https://www.shapeof.ai/",
+    "category": "AI Product & UX"
+  },
+  {
+    "name": "Turing Post",
+    "feed_url": "https://www.turingpost.com/feed",
+    "website": "https://www.turingpost.com/",
+    "category": "AI Tools & Models"
+  },
+  {
+    "name": "Anthropic Blog",
+    "feed_url": "https://www.anthropic.com/feed.xml",
+    "website": "https://www.anthropic.com/news",
+    "category": "AI Labs"
+  },
+  {
+    "name": "OpenAI Blog",
+    "feed_url": "https://openai.com/blog/rss.xml",
+    "website": "https://openai.com/blog",
+    "category": "AI Labs"
+  },
+  {
+    "name": "Perplexity Blog",
+    "feed_url": "https://www.perplexity.ai/hub/blog/feed",
+    "website": "https://www.perplexity.ai/hub/blog",
+    "category": "AI Labs"
+  },
+  {
+    "name": "Google AI Blog",
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "website": "https://blog.google/technology/ai/",
+    "category": "AI Labs"
+  },
+  {
+    "name": "Microsoft AI Blog",
+    "feed_url": "https://blogs.microsoft.com/ai/feed/",
+    "website": "https://blogs.microsoft.com/ai/",
+    "category": "AI Labs"
+  },
+  {
+    "name": "Letters from Andrew Ng",
+    "feed_url": "https://www.deeplearning.ai/the-batch/tag/letters/feed/",
+    "website": "https://www.deeplearning.ai/the-batch/tag/letters/",
+    "category": "AI Strategy & Leadership"
+  },
+  {
+    "name": "Landing AI Blog",
+    "feed_url": "https://landing.ai/feed/",
+    "website": "https://landing.ai/blog",
+    "category": "Enterprise AI & Vision"
+  },
+  {
+    "name": "Netflix TechBlog",
+    "feed_url": "https://netflixtechblog.com/feed",
+    "website": "https://netflixtechblog.com/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "GitHub Engineering",
+    "feed_url": "https://github.blog/category/engineering/feed/",
+    "website": "https://github.blog/category/engineering/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "Cloudflare Blog",
+    "feed_url": "https://blog.cloudflare.com/rss/",
+    "website": "https://blog.cloudflare.com/",
+    "category": "Infrastructure & Security"
+  },
+  {
+    "name": "Uber Engineering",
+    "feed_url": "https://www.uber.com/blog/engineering/rss/",
+    "website": "https://www.uber.com/blog/engineering/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "CNCF Blog",
+    "feed_url": "https://www.cncf.io/blog/feed/",
+    "website": "https://www.cncf.io/blog/",
+    "category": "AI Infrastructure"
+  },
+  {
+    "name": "AWS Architecture Blog",
+    "feed_url": "https://aws.amazon.com/blogs/architecture/feed/",
+    "website": "https://aws.amazon.com/blogs/architecture/",
+    "category": "Software Architecture"
+  },
+  {
+    "name": "arXiv Artificial Intelligence (cs.AI)",
+    "feed_url": "https://rss.arxiv.org/rss/cs.AI",
+    "website": "https://arxiv.org/list/cs.AI/recent",
+    "category": "ML & Model Development"
+  },
+  {
+    "name": "Giskard AI Blog",
+    "feed_url": "https://www.giskard.ai/blog/rss.xml",
+    "website": "https://www.giskard.ai/blog",
+    "category": "AI Security"
+  },
+  {
+    "name": "Hacker News (Best)",
+    "feed_url": "https://news.ycombinator.com/bestrss",
+    "website": "https://news.ycombinator.com/best",
+    "category": "Tech General"
+  },
+  {
+    "name": "Distill.pub",
+    "feed_url": "https://distill.pub/rss.xml",
+    "website": "https://distill.pub/",
+    "category": "ML & Model Development"
+  }
+]
