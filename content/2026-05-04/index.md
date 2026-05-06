@@ -1,8 +1,8 @@
 ---
 date: 2026-05-04
 title: Daily Bulletin — Monday, May 4, 2026
-article_count: 49
-fetched_at: 2026-05-06T09:40:08+00:00
+article_count: 44
+fetched_at: 2026-05-06T09:43:41+00:00
 ---
 
 ## Security
@@ -109,6 +109,13 @@ Explore this month's top of 29 critical resources to understand active in-the-wi
 
 ## AI Labs
 
+### [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale)
+*OpenAI Blog*
+
+How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
+
+---
+
 ### [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks)
 *Google AI Blog*
 
@@ -130,21 +137,7 @@ OpenAI and PwC are partnering to help enterprises use AI agents to automate fina
 
 ---
 
-### [New ways to buy ChatGPT ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads)
-*OpenAI Blog*
-
-OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.
-
----
-
 ## AI Tools & Models
-
-### [Import AI 455: AI systems are about to start building themselves.](https://importai.substack.com/p/import-ai-455-automating-ai-research)
-*Import AI*
-
-The first step towards recursive self improvement
-
----
 
 ### [Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array)
 *Simon Willison's Weblog*
@@ -178,27 +171,6 @@ I just sent out the April edition of my sponsors-only monthly newsletter. If you
 *Simon Willison's Weblog*
 
 Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail. Unsloth released the...
-
----
-
-### [Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber)
-*Simon Willison's Weblog*
-
-So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At...
-
----
-
-### [llm-echo 0.5a0](https://simonwillison.net/2026/May/5/llm-echo)
-*Simon Willison's Weblog*
-
-Release: llm-echo 0.5a0 New -o thinking 1 option to help test against LLM 0.32a0 and higher. This plugin provides a fake model called "echo" for LLM which doesn't run an LLM at all - it's useful for writing automated tests. You can now do this: uvx --with llm==0.32a1 --with llm-echo==0.5a0 llm -m...
-
----
-
-### [datasette-llm 0.1a7](https://simonwillison.net/2026/May/5/datasette-llm)
-*Simon Willison's Weblog*
-
-Release: datasette-llm 0.1a7 Mechanism for configuring default options for specific models. Part of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to configure a model with default options, e.g. to say all enrichment operations should use a specific model with...
 
 ---
 
@@ -238,6 +210,15 @@ In this article, we will look at this progression that has happened from basic t
 
 ---
 
+## Data Engineering for AI
+
+### [Data Engineering Weekly #268](https://www.dataengineeringweekly.com/p/data-engineering-weekly-268)
+*Data Engineering Weekly*
+
+The Weekly Data Engineering Newsletter
+
+---
+
 ## Enterprise AI & MLOps
 
 ### [7 Practical Ways to Reduce Claude Code Token Usage](https://www.kdnuggets.com/7-practical-ways-to-reduce-claude-code-token-usage)
@@ -262,6 +243,13 @@ How to turn an interview-style SQL query into a production-ready, testable, vers
 ---
 
 ## Software Architecture
+
+### [Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle](https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026)
+*InfoQ*
+
+This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI 2.0; the second milestone release of GlassFish 9.0; point releases of Quarkus, JReleaser, Gradle, LangChain4j and Google ADK for Java; the second beta release...
+
+---
 
 ### [DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing](https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing)
 *InfoQ*
@@ -344,26 +332,5 @@ In the history of software, few milestones are as staggering as 900 million week
 *The New Stack*
 
 In my formative years, I had a Labrador/Whippet cross called Barclay. We did almost everything together. If I were digging The post AI won&#8217;t speed up software delivery — nothing has appeared first on The New Stack.
-
----
-
-### [Cloudflare Introduces Flagship: an Edge-Native Feature Flag Service Built on OpenFeature](https://www.infoq.com/news/2026/05/cloudflare-flagship-openfeature)
-*InfoQ*
-
-Cloudflare recently announced the closed beta of Flagship, a new feature flag service built directly into its global edge platform. The service lets teams control feature rollouts and experiment with changes without redeploying code, while evaluating flags locally in Cloudflare Workers rather than...
-
----
-
-### [Figma Builds In-House Redis Proxy to Hit Six Nines Uptime](https://www.infoq.com/news/2026/05/figma-redis-figcache)
-*InfoQ*
-
-Figma has published a detailed account of how it built an in-house Redis proxy service called FigCache, replacing a fragmented caching stack that had become a liability for site availability. The system, described in a post by Kevin Lin, has been in production since the second half of 2025 and has...
-
----
-
-### [Article: Three Pillars of Platform Engineering: a Virtuous Cycle](https://www.infoq.com/articles/platform-reliability-cycle)
-*InfoQ*
-
-Platform engineering succeeds when reliability and ergonomics reinforce each other rather than compete. This article explores three foundational pillars: automated reliability, developer ergonomics, and operator ergonomics. Together, they establish a virtuous cycle that strengthens system...
 
 ---

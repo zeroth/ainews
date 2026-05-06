@@ -1,42 +1,47 @@
 ---
 date: 2026-05-03
 title: Daily Bulletin — Sunday, May 3, 2026
-article_count: 4
-fetched_at: 2026-05-06T09:40:08+00:00
+article_count: 5
+fetched_at: 2026-05-06T09:43:41+00:00
 ---
 
-## AI Labs
+## AI Tools & Models
 
-### [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale)
-*OpenAI Blog*
+### [Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic)
+*Simon Willison's Weblog*
 
-How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
-
----
-
-## AI Policy & Safety
-
-### [The EU AI Act Newsletter #101: Trilogue Breakdown](https://artificialintelligenceact.substack.com/p/the-eu-ai-act-newsletter-101-trilogue)
-*EU AI Act Newsletter*
-
-Talks on delaying the AI Act collapse over industrial AI, Merz diverges from his coalition partner, and Parliament invites Anthropic to a hearing on the Mythos model.
+We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these...
 
 ---
 
-## Data Engineering for AI
+## ML & Model Development
 
-### [Data Engineering Weekly #268](https://www.dataengineeringweekly.com/p/data-engineering-weekly-268)
-*Data Engineering Weekly*
+### [Markov Decision Processes and Value Functions in RL](https://blog.dailydoseofds.com/p/markov-decision-processes-and-value)
+*Daily Dose of Data Science*
 
-The Weekly Data Engineering Newsletter
+The full RL nanodegree, covered with implementation.
 
 ---
 
 ## Software Architecture
 
-### [Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle](https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026)
-*InfoQ*
+### [Most AI coding is “like taking your Ferrari to buy milk”: IBM’s Neel Sundaresan](https://thenewstack.io/ibm-bob-agentic-coding)
+*The New Stack*
 
-This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI 2.0; the second milestone release of GlassFish 9.0; point releases of Quarkus, JReleaser, Gradle, LangChain4j and Google ADK for Java; the second beta release...
+Neel Sundaresan doesn&#8217;t answer three questions. One of them, he says with some amusement, is why IBM Bob is named The post Most AI coding is &#8220;like taking your Ferrari to buy milk&#8221;: IBM&#8217;s Neel Sundaresan appeared first on The New Stack.
+
+---
+
+### [Mainframe modernization is no longer optional for the AI-driven enterprise](https://thenewstack.io/open-mainframe-enterprise-modernization)
+*The New Stack*
+
+As old-guard mainframers give way to a younger generation of mainframe professionals, this new cadre brings modern ways of thinking The post Mainframe modernization is no longer optional for the AI-driven enterprise appeared first on The New Stack.
+
+---
+
+### [“To us, it’s just a tool”: How SAS is selling AI to the Fortune 500](https://thenewstack.io/sas-innovate-agentic-ai-governance)
+*The New Stack*
+
+For this 50-year-old company, AI is &#8220;just a tool.&#8221; At SAS Innovate 2026 in Grapevine, Texas, the 50-year-old, privately held The post &#8220;To us, it&#8217;s just a tool&#8221;: How SAS is selling AI to the Fortune 500 appeared first on The New Stack.
 
 ---
