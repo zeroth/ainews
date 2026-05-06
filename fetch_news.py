@@ -25,7 +25,7 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 FEEDS_FILE = SCRIPT_DIR / "feeds.json"
 CONTENT_DIR = SCRIPT_DIR / "content"
 SEEN_FILE = SCRIPT_DIR / "seen.json"
-MAX_ARTICLE_AGE_DAYS = 1  # fetch articles from last N days
+MAX_ARTICLE_AGE_DAYS = 3  # fetch articles from last N days
 
 # Tracking params dropped during link normalization (so the same article shared
 # from multiple sources dedupes to one ID).
