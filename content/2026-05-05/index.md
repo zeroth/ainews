@@ -1,7 +1,7 @@
 ---
 date: 2026-05-05
 title: Daily Bulletin — Tuesday, May 5, 2026
-article_count: 28
+article_count: 34
 ---
 
 ## Security
@@ -29,6 +29,13 @@ Info is scant, but such breaches can reveal where a security product's controls 
 
 ## AI Labs
 
+### [New ways to buy ChatGPT ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads)
+*OpenAI Blog*
+
+OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.
+
+---
+
 ### [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant)
 *OpenAI Blog*
 
@@ -49,6 +56,27 @@ Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Fu
 ---
 
 ## AI Tools & Models
+
+### [Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber)
+*Simon Willison's Weblog*
+
+So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At...
+
+---
+
+### [llm-echo 0.5a0](https://simonwillison.net/2026/May/5/llm-echo)
+*Simon Willison's Weblog*
+
+Release: llm-echo 0.5a0 New -o thinking 1 option to help test against LLM 0.32a0 and higher. This plugin provides a fake model called "echo" for LLM which doesn't run an LLM at all - it's useful for writing automated tests. You can now do this: uvx --with llm==0.32a1 --with llm-echo==0.5a0 llm -m...
+
+---
+
+### [datasette-llm 0.1a7](https://simonwillison.net/2026/May/5/datasette-llm)
+*Simon Willison's Weblog*
+
+Release: datasette-llm 0.1a7 Mechanism for configuring default options for specific models. Part of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to configure a model with default options, e.g. to say all enrichment operations should use a specific model with...
+
+---
 
 ### [Our AI started a cafe in Stockholm](https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm)
 *Simon Willison's Weblog*
@@ -117,6 +145,20 @@ One is genuine curiosity. The other is someone who already knows what they want 
 ---
 
 ## Software Architecture
+
+### [Cloudflare Introduces Flagship: an Edge-Native Feature Flag Service Built on OpenFeature](https://www.infoq.com/news/2026/05/cloudflare-flagship-openfeature)
+*InfoQ*
+
+Cloudflare recently announced the closed beta of Flagship, a new feature flag service built directly into its global edge platform. The service lets teams control feature rollouts and experiment with changes without redeploying code, while evaluating flags locally in Cloudflare Workers rather than...
+
+---
+
+### [Figma Builds In-House Redis Proxy to Hit Six Nines Uptime](https://www.infoq.com/news/2026/05/figma-redis-figcache)
+*InfoQ*
+
+Figma has published a detailed account of how it built an in-house Redis proxy service called FigCache, replacing a fragmented caching stack that had become a liability for site availability. The system, described in a post by Kevin Lin, has been in production since the second half of 2025 and has...
+
+---
 
 ### [Article: Three Pillars of Platform Engineering: a Virtuous Cycle](https://www.infoq.com/articles/platform-reliability-cycle)
 *InfoQ*

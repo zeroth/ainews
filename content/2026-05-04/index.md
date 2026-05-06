@@ -1,7 +1,7 @@
 ---
 date: 2026-05-04
 title: Daily Bulletin — Monday, May 4, 2026
-article_count: 46
+article_count: 44
 ---
 
 ## Security
@@ -99,7 +99,7 @@ Cargo theft is no longer about small groups of criminals operating on the ground
 
 ## AI Security
 
-### [Top Agentic AI security resources — May 2026](https://adversa.ai/blog/top-agentic-ai-security-resources-may-2026/?utm_source=rss&utm_medium=rss&utm_campaign=top-agentic-ai-security-resources-may-2026)
+### [Top Agentic AI security resources — May 2026](https://adversa.ai/blog/top-agentic-ai-security-resources-may-2026)
 *Adversa AI Blog*
 
 Explore this month's top of 29 critical resources to understand active in-the-wild exploits, learn why top vendors are quietly patching their AI agents, and discover actionable frameworks to secure your digital workforce. The post Top Agentic AI security resources — May 2026 first appeared on...
@@ -115,14 +115,14 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 ---
 
-### [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/)
+### [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks)
 *Google AI Blog*
 
 Gemini API
 
 ---
 
-### [The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/)
+### [The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026)
 *Google AI Blog*
 
 mp4 featuring an underwater video and a mobile AI video mockup.
@@ -136,53 +136,37 @@ OpenAI and PwC are partnering to help enterprises use AI agents to automate fina
 
 ---
 
-## AI Policy & Safety
-
-### [The EU AI Act Newsletter #101: Trilogue Breakdown](https://artificialintelligenceact.substack.com/p/the-eu-ai-act-newsletter-101-trilogue)
-*EU AI Act Newsletter*
-
-Talks on delaying the AI Act collapse over industrial AI, Merz diverges from his coalition partner, and Parliament invites Anthropic to a hearing on the Mythos model.
-
----
-
 ## AI Tools & Models
 
-### [Import AI 455: AI systems are about to start building themselves.](https://importai.substack.com/p/import-ai-455-automating-ai-research)
-*Import AI*
-
-The first step towards recursive self improvement
-
----
-
-### [Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything)
+### [Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array)
 *Simon Willison's Weblog*
 
 Tool: Redis Array Playground Salvatore Sanfilippo submitted a PR adding a new data type - arrays - to Redis. The new commands are ARCOUNT, ARDEL, ARDELRANGE, ARGET, ARGETRANGE, ARGREP, ARINFO, ARINSERT, ARLASTITEMS, ARLEN, ARMGET, ARMSET, ARNEXT, AROP, ARRING, ARSCAN, ARSEEK, ARSET. The...
 
 ---
 
-### [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything)
+### [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding)
 *Simon Willison's Weblog*
 
 Research: TRE Python binding — ReDoS robustness demo If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail. I had Claude Code build an experimental Python binding (it used ctypes) and try some malicious...
 
 ---
 
-### [April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything)
+### [April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter)
 *Simon Willison's Weblog*
 
 I just sent out the April edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: Opus 4.7 and GPT-5.5, both with price increases Claude Mythos and LLM security research ChatGPT Images 2.0 More...
 
 ---
 
-### [Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything)
+### [Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley)
 *Simon Willison's Weblog*
 
 [...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their own, 77 times all land on data center property in 2028, and grew more food than ever on what was left. None of this caused any problems for US food access. And then, in the middle of all this, a farmer in...
 
 ---
 
-### [Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything)
+### [Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery)
 *Simon Willison's Weblog*
 
 Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail. Unsloth released the...
@@ -207,21 +191,21 @@ a quiet day lets us reflect on the nature of AI "character" in the Clippy vs Ant
 
 ---
 
+## AI Infrastructure
+
+### [Securing GitHub Actions CI dependencies: Recipe card](https://www.cncf.io/blog/2026/05/04/securing-github-actions-ci-dependencies-recipe-card)
+*CNCF Blog*
+
+Recipe GitHub Actions CI dependencies Target audience (the chef) Project maintainers and developers who need practical, concrete steps to efficiently secure CI dependencies within their GitHub Actions workflows Scope (ingredients) Dependencies within the GitHub Actions, Github...
+
+---
+
 ## Building AI Agents & Architecture
 
 ### [Connecting LLMs to the Real World: Tool Use, Function Calling, and MCP](https://blog.bytebytego.com/p/connecting-llms-to-the-real-world)
 *ByteByteGo*
 
 In this article, we will look at this progression that has happened from basic tool use to function calling to the Model Context Protocol, allowing the LLMs to go from isolated text generation tools to assistants that can do interesting stuff for the end users.
-
----
-
-## AI Infrastructure
-
-### [Securing GitHub Actions CI dependencies: Recipe card](https://www.cncf.io/blog/2026/05/04/securing-github-actions-ci-dependencies-recipe-card/)
-*CNCF Blog*
-
-Recipe GitHub Actions CI dependencies Target audience (the chef) Project maintainers and developers who need practical, concrete steps to efficiently secure CI dependencies within their GitHub Actions workflows Scope (ingredients) Dependencies within the GitHub Actions, Github...
 
 ---
 
@@ -259,56 +243,56 @@ How to turn an interview-style SQL query into a production-ready, testable, vers
 
 ## Software Architecture
 
-### [Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle](https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+### [Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle](https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026)
 *InfoQ*
 
 This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI 2.0; the second milestone release of GlassFish 9.0; point releases of Quarkus, JReleaser, Gradle, LangChain4j and Google ADK for Java; the second beta release...
 
 ---
 
-### [DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing](https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+### [DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing](https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing)
 *InfoQ*
 
 Using Copilot along with strong reliability safeguards, DoorDash migrated their iOS XCTest-based test suite to Swift Testing, thus modernizing a large test suite quickly, safely, and with measurable performance gains, says DoorDash engineer Matheus Gois. By Sergio De Simone
 
 ---
 
-### [Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline](https://www.infoq.com/articles/micro-batch-streaming-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+### [Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline](https://www.infoq.com/articles/micro-batch-streaming-lessons-learned)
 *InfoQ*
 
 This article describes how a production delta-index pipeline migrated from scheduled batch to micro-batch Spark Structured Streaming. It covers why record-level streaming was rejected, how partition-based watermarks replaced fragile S3 completion markers, overlap-window correctness, and...
 
 ---
 
-### [Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go](https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+### [Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go](https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites)
 *InfoQ*
 
 Andy Damevin, a developer who worked on Quarkus for almost a decade, talks about Roq. A project that started as an experiment to try to see if it’s possible to build a static web site generator on top of quarkus. He touches on the rationale for choosing Java and Quarkus, how to migrate to Roq, and...
 
 ---
 
-### [How AI Swarms Are Disrupting Democracy](https://www.oreilly.com/radar/how-ai-swarms-are-disrupting-democracy/)
+### [How AI Swarms Are Disrupting Democracy](https://www.oreilly.com/radar/how-ai-swarms-are-disrupting-democracy)
 *O'Reilly Radar*
 
 Every day, millions of pieces of fake content are produced. Videos, audio clips, posts, articles, generated by artificial intelligence, distributed at industrial scale, aimed at shifting public opinion across entire countries. The people producing them are often outside the country being targeted....
 
 ---
 
-### [Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code](https://www.infoq.com/presentations/human-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+### [Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code](https://www.infoq.com/presentations/human-scalability)
 *InfoQ*
 
 Charlotte de Jong Schouwenburg discusses the "human bottlenecks" of hyper-growth. While systems scale, human cooperation often breaks down due to communication overload and lost context. She shares proven tools for behavioral scalability - including communication architecture and "engineering...
 
 ---
 
-### [The agent code explosion is here. We need to rethink our pipelines, fast.](https://thenewstack.io/agent-code-validation-bottleneck/)
+### [The agent code explosion is here. We need to rethink our pipelines, fast.](https://thenewstack.io/agent-code-validation-bottleneck)
 *The New Stack*
 
 GitHub recently published an update on availability following a couple of rough incidents in April. The article opened with a The post The agent code explosion is here. We need to rethink our pipelines, fast. appeared first on The New Stack.
 
 ---
 
-### [Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard](https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+### [Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard](https://www.infoq.com/news/2026/05/cloudflare-security-dashboard)
 *InfoQ*
 
 Cloudflare has launched a Security Overview dashboard that consolidates security signals into prioritized action items. It surfaces millions of daily insights, helping teams identify and remediate critical risks faster. Built on distributed checkers and real-time event processing, it integrates...
@@ -322,28 +306,28 @@ A nostalgic essay on (not) setting and (not) achieving personal goals
 
 ---
 
-### [Palo Alto Networks makes a $700M-class AI bet on Portkey gateway](https://thenewstack.io/palo-alto-portkey-ai-gateway/)
+### [Palo Alto Networks makes a $700M-class AI bet on Portkey gateway](https://thenewstack.io/palo-alto-portkey-ai-gateway)
 *The New Stack*
 
 For the first three years of the LLM era, the AI gateway was a developer&#8217;s problem. You had 10 model The post Palo Alto Networks makes a $700M-class AI bet on Portkey gateway appeared first on The New Stack.
 
 ---
 
-### [Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check](https://thenewstack.io/ai-agent-telemetry-standardization/)
+### [Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check](https://thenewstack.io/ai-agent-telemetry-standardization)
 *The New Stack*
 
 The essentially composable nature of modern enterprise software stacks enables architectural freedom. Software developers are able to take advantage of The post Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check appeared first on The New Stack.
 
 ---
 
-### [How OpenAI scaled to 900 million weekly users with Ory](https://thenewstack.io/openai-ory-identity-scale/)
+### [How OpenAI scaled to 900 million weekly users with Ory](https://thenewstack.io/openai-ory-identity-scale)
 *The New Stack*
 
 In the history of software, few milestones are as staggering as 900 million weekly active users. To put that in The post How OpenAI scaled to 900 million weekly users with Ory appeared first on The New Stack.
 
 ---
 
-### [AI won’t speed up software delivery — nothing has](https://thenewstack.io/feedback-driven-ai-adoption/)
+### [AI won’t speed up software delivery — nothing has](https://thenewstack.io/feedback-driven-ai-adoption)
 *The New Stack*
 
 In my formative years, I had a Labrador/Whippet cross called Barclay. We did almost everything together. If I were digging The post AI won&#8217;t speed up software delivery — nothing has appeared first on The New Stack.
