@@ -1,8 +1,18 @@
 {
+  "0c33c2e5f7": {
+    "first_seen": "2026-05-06",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized"
+  },
   "1f7f62213a": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01123",
     "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs"
+  },
+  "1fc056b802": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
+    "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk"
   },
   "2b4818ec07": {
     "first_seen": "2026-05-06",
@@ -24,6 +34,11 @@
     "link": "https://arxiv.org/abs/2605.01130",
     "title": "Iterative Finetuning is Mostly Idempotent"
   },
+  "46ae5e0c32": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/airbyte-agents-context-store",
+    "title": "AI has a sprawling data problem. Airbyte has just  launched a tool to fix it."
+  },
   "481dbb7814": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.00839",
@@ -34,15 +49,50 @@
     "link": "https://arxiv.org/abs/2605.01032",
     "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries"
   },
+  "5fee75fe60": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.cncf.io/blog/2026/05/05/announcing-kyverno-release-1-18",
+    "title": "Announcing Kyverno release 1.18!"
+  },
+  "63932a3b8e": {
+    "first_seen": "2026-05-06",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize",
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition."
+  },
+  "639f6bb602": {
+    "first_seen": "2026-05-06",
+    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "title": "GPT-5.5 Instant System Card"
+  },
+  "673c6a4a4f": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/news/2026/05/mistral-agents-lechat",
+    "title": "Mistral Adds Remote Agents and Work Mode to Le Chat"
+  },
   "6883709f33": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01134",
     "title": "To Use AI as Dice of Possibilities with Timing Computation"
   },
+  "6bfc2020b3": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.oreilly.com/radar/radar-trends-to-watch-may-2026",
+    "title": "Radar Trends to Watch: May 2026"
+  },
+  "744f6f2b3b": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.kdnuggets.com/baptists-and-bootleggers-the-hidden-coalition-behind-data-driven-decisions",
+    "title": "Baptists and Bootleggers: The Hidden Coalition Behind \u2018Data-Driven\u2019 Decisions"
+  },
   "783a0d4c03": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01120",
     "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search"
+  },
+  "7bc52e94f6": {
+    "first_seen": "2026-05-06",
+    "link": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt",
+    "title": "Designing Data-Intensive Applications: The Cloud & Doing the Right Thing"
   },
   "8032662f29": {
     "first_seen": "2026-05-06",
@@ -54,15 +104,45 @@
     "link": "https://arxiv.org/abs/2605.00846",
     "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations"
   },
+  "9decff6690": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/presentations/strategy-workload-hardware",
+    "title": "Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability"
+  },
+  "a08c74677f": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/bun-developers-complaints-anthropic",
+    "title": "\u201cReal maturity problems\u201d: Not every developer is thrilled with Bun after Anthropic acquisition"
+  },
   "a11bb4f781": {
     "first_seen": "2026-05-06",
     "link": "https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm",
     "title": "Grafana's Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes"
   },
+  "a355ba42f7": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/sprig-postgres-scylladb-migration",
+    "title": "ScyllaDB cut Sprig\u2019s read latency 4X after Redis and ClickHouse hit a wall"
+  },
   "a388403f93": {
     "first_seen": "2026-05-06",
     "link": "https://www.latent.space/p/lupsasca",
     "title": "\ud83d\udd2cDoing Vibe Physics \u2014 Alex Lupsasca, OpenAI"
+  },
+  "a4b083ede9": {
+    "first_seen": "2026-05-06",
+    "link": "https://blog.bytebytego.com/p/how-instacart-built-a-search-for",
+    "title": "How Instacart Built a Search for Billions of Products"
+  },
+  "a7daf67ef9": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/articles/platform-reliability-cycle",
+    "title": "Article: Three Pillars of Platform Engineering: a Virtuous Cycle"
+  },
+  "aa58a8d17a": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/subquadratic-12-million-context-window",
+    "title": "The context window has been shattered: Subquadratic debuts a 12-million-token window"
   },
   "ab4bdc76e2": {
     "first_seen": "2026-05-06",
@@ -84,6 +164,11 @@
     "link": "https://blog.dailydoseofds.com/p/train-classical-ml-models-on-large-f9c",
     "title": "Train Classical ML Models on Large Datasets"
   },
+  "c138b886ff": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/news/2026/05/github-codeql-security-modeling",
+    "title": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis"
+  },
   "c1bec34286": {
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/amazon-coding-agents-developers",
@@ -94,15 +179,30 @@
     "link": "https://arxiv.org/abs/2605.00842",
     "title": "Understanding Emergent Misalignment via Feature Superposition Geometry"
   },
+  "c99b7df7e6": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode",
+    "title": "Inside Claude Code Auto Mode: Anthropic\u2019s Autonomous Coding System with Human Approval Gates"
+  },
   "cdfeb6a657": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01102",
     "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics"
   },
+  "d9f8c99b3c": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.kdnuggets.com/5-fun-projects-using-claude-code",
+    "title": "5 Fun Projects Using Claude Code"
+  },
   "dbd180151d": {
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
     "title": "Middle East Cyber Battle Field Broadens \u2014 Especially in UAE"
+  },
+  "dca577167f": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
+    "title": "How the Story of a USB Penetration Test Went Viral"
   },
   "e2f19219c5": {
     "first_seen": "2026-05-06",
@@ -123,5 +223,10 @@
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01100",
     "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion"
+  },
+  "ff6c7799c8": {
+    "first_seen": "2026-05-06",
+    "link": "https://thenewstack.io/ai-agent-payment-protocols",
+    "title": "AI agents need to spend money \u2014 Stripe and iWallet are building the rails"
   }
 }
