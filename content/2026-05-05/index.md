@@ -2,7 +2,7 @@
 date: 2026-05-05
 title: Daily Bulletin — Tuesday, May 5, 2026
 article_count: 34
-fetched_at: 2026-05-06T09:43:41+00:00
+fetched_at: 2026-05-06T21:25:51+00:00
 ---
 
 ## Security
@@ -18,6 +18,20 @@ Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling r
 *Dark Reading*
 
 A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.
+
+---
+
+### [Why Security Leadership Makes or Breaks a Pen Test](https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests)
+*Dark Reading*
+
+Well-run security drills go beyond checking audit boxes to identify and address trouble spots. Effective leaders can ensure proper scope, access, and follow-through, but it’s not easy.
+
+---
+
+### [Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations](https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations)
+*Dark Reading*
+
+The UC Berkeley Center for Long-Term Cybersecurity (CLTC) offers tools and support to schools, local governments, and non-profits as they defend themselves against a growing volume of cyberattacks.
 
 ---
 
@@ -37,6 +51,11 @@ OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and 
 
 ---
 
+### [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card)
+*OpenAI Blog*
+
+---
+
 ### [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant)
 *OpenAI Blog*
 
@@ -44,8 +63,10 @@ GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate an
 
 ---
 
-### [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card)
+### [Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)](https://openai.com/index/mrc-supercomputer-networking)
 *OpenAI Blog*
+
+OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.
 
 ---
 
@@ -175,24 +196,10 @@ Mistral has released Mistral Medium 3.5, a 128-billion parameter model designed 
 
 ---
 
-### [ScyllaDB cut Sprig’s read latency 4X after Redis and ClickHouse hit a wall](https://thenewstack.io/sprig-postgres-scylladb-migration)
-*The New Stack*
-
-&#8220;Just use Postgres&#8221; is the logical path for a startup figuring out product-market fit. But Sprig &#8211; an AI-powered product The post ScyllaDB cut Sprig&#8217;s read latency 4X after Redis and ClickHouse hit a wall appeared first on The New Stack.
-
----
-
 ### [Radar Trends to Watch: May 2026](https://www.oreilly.com/radar/radar-trends-to-watch-may-2026)
 *O'Reilly Radar*
 
 The most significant tension in this issue is between two companies making different decisions about how to handle AI with frontier security capabilities. Anthropic restricted Claude Mythos to a small corporate cohort through Project Glasswing. OpenAI released GPT-5.5 to general availability, and...
-
----
-
-### [AI agents need to spend money — Stripe and iWallet are building the rails](https://thenewstack.io/ai-agent-payment-protocols)
-*The New Stack*
-
-Two new protocols, one from Stripe and one from a fintech startup called iWallet, are attempting to solve the same The post AI agents need to spend money — Stripe and iWallet are building the rails appeared first on The New Stack.
 
 ---
 
@@ -221,13 +228,6 @@ Anthropic has introduced auto mode in Claude Code, enabling multi-step software 
 *The Pragmatic Engineer*
 
 How the cloud changes the way we build applications, and why engineers&#8217; ethical choices matter more than ever. Excerpt from the book, &#8216;Designing Data-Intensive Applications&#8217;, 2nd edition
-
----
-
-### [“Real maturity problems”: Not every developer is thrilled with Bun after Anthropic acquisition](https://thenewstack.io/bun-developers-complaints-anthropic)
-*The New Stack*
-
-Growing and emerging software toolsets and standards are prone to love-it-or-hate-it reactions. Bun, an all-in-one JavaScript, TypeScript &#38; JSX runtime The post &#8220;Real maturity problems&#8221;: Not every developer is thrilled with Bun after Anthropic acquisition appeared first on The New...
 
 ---
 

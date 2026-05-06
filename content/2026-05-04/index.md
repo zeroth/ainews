@@ -1,8 +1,8 @@
 ---
 date: 2026-05-04
 title: Daily Bulletin — Monday, May 4, 2026
-article_count: 44
-fetched_at: 2026-05-06T09:43:41+00:00
+article_count: 35
+fetched_at: 2026-05-06T21:25:51+00:00
 ---
 
 ## Security
@@ -244,34 +244,6 @@ How to turn an interview-style SQL query into a production-ready, testable, vers
 
 ## Software Architecture
 
-### [Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle](https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026)
-*InfoQ*
-
-This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI 2.0; the second milestone release of GlassFish 9.0; point releases of Quarkus, JReleaser, Gradle, LangChain4j and Google ADK for Java; the second beta release...
-
----
-
-### [DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing](https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing)
-*InfoQ*
-
-Using Copilot along with strong reliability safeguards, DoorDash migrated their iOS XCTest-based test suite to Swift Testing, thus modernizing a large test suite quickly, safely, and with measurable performance gains, says DoorDash engineer Matheus Gois. By Sergio De Simone
-
----
-
-### [Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline](https://www.infoq.com/articles/micro-batch-streaming-lessons-learned)
-*InfoQ*
-
-This article describes how a production delta-index pipeline migrated from scheduled batch to micro-batch Spark Structured Streaming. It covers why record-level streaming was rejected, how partition-based watermarks replaced fragile S3 completion markers, overlap-window correctness, and...
-
----
-
-### [Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go](https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites)
-*InfoQ*
-
-Andy Damevin, a developer who worked on Quarkus for almost a decade, talks about Roq. A project that started as an experiment to try to see if it’s possible to build a static web site generator on top of quarkus. He touches on the rationale for choosing Java and Quarkus, how to migrate to Roq, and...
-
----
-
 ### [How AI Swarms Are Disrupting Democracy](https://www.oreilly.com/radar/how-ai-swarms-are-disrupting-democracy)
 *O'Reilly Radar*
 
@@ -286,13 +258,6 @@ Charlotte de Jong Schouwenburg discusses the "human bottlenecks" of hyper-growth
 
 ---
 
-### [The agent code explosion is here. We need to rethink our pipelines, fast.](https://thenewstack.io/agent-code-validation-bottleneck)
-*The New Stack*
-
-GitHub recently published an update on availability following a couple of rough incidents in April. The article opened with a The post The agent code explosion is here. We need to rethink our pipelines, fast. appeared first on The New Stack.
-
----
-
 ### [Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard](https://www.infoq.com/news/2026/05/cloudflare-security-dashboard)
 *InfoQ*
 
@@ -304,33 +269,5 @@ Cloudflare has launched a Security Overview dashboard that consolidates security
 *Architecture Weekly*
 
 A nostalgic essay on (not) setting and (not) achieving personal goals
-
----
-
-### [Palo Alto Networks makes a $700M-class AI bet on Portkey gateway](https://thenewstack.io/palo-alto-portkey-ai-gateway)
-*The New Stack*
-
-For the first three years of the LLM era, the AI gateway was a developer&#8217;s problem. You had 10 model The post Palo Alto Networks makes a $700M-class AI bet on Portkey gateway appeared first on The New Stack.
-
----
-
-### [Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check](https://thenewstack.io/ai-agent-telemetry-standardization)
-*The New Stack*
-
-The essentially composable nature of modern enterprise software stacks enables architectural freedom. Software developers are able to take advantage of The post Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check appeared first on The New Stack.
-
----
-
-### [How OpenAI scaled to 900 million weekly users with Ory](https://thenewstack.io/openai-ory-identity-scale)
-*The New Stack*
-
-In the history of software, few milestones are as staggering as 900 million weekly active users. To put that in The post How OpenAI scaled to 900 million weekly users with Ory appeared first on The New Stack.
-
----
-
-### [AI won’t speed up software delivery — nothing has](https://thenewstack.io/feedback-driven-ai-adoption)
-*The New Stack*
-
-In my formative years, I had a Labrador/Whippet cross called Barclay. We did almost everything together. If I were digging The post AI won&#8217;t speed up software delivery — nothing has appeared first on The New Stack.
 
 ---
