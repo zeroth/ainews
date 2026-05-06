@@ -207,8 +207,14 @@ def fetch_all(feeds, cutoff, seen, today_str):
     return articles
 
 
-def save_daily_markdown(articles):
-    """Group articles by date and save as markdown files."""
+def save_daily_markdown(articles, fetched_at):
+    """Group articles by their published date and save as markdown files.
+
+    Note: an article's `pub_date` (from RSS) determines which dated bulletin
+    it lands in — NOT the run time. So one fetch may write into several
+    dated files. The per-date summary printed by main() is the source of
+    truth for what each bulletin actually contains.
+    """
     by_date = {}
     for a in articles:
         by_date.setdefault(a["date"], []).append(a)
@@ -230,6 +236,7 @@ def save_daily_markdown(articles):
             f"date: {date_str}",
             f"title: Daily Bulletin — {dt.strftime('%A, %B %-d, %Y')}",
             f"article_count: {len(day_articles)}",
+            f"fetched_at: {fetched_at}",
             f"---",
             f"",
         ]
@@ -263,19 +270,28 @@ def main():
     feeds = load_feeds()
     print(f"\nLoaded {len(feeds)} feeds from {FEEDS_FILE.name}")
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_ARTICLE_AGE_DAYS)
-    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=MAX_ARTICLE_AGE_DAYS)
+    today_str = now.strftime("%Y-%m-%d")
+    fetched_at = now.replace(microsecond=0).isoformat()
     seen = load_seen()
     print(f"Fetching articles since {cutoff.strftime('%Y-%m-%d')}...")
     print(f"Seen index: {len(seen)} articles tracked\n")
 
     articles = fetch_all(feeds, cutoff, seen, today_str)
-    print(f"\nTotal articles fetched: {len(articles)}")
+    print(f"\nTotal articles fetched this run: {len(articles)}")
 
     save_seen(seen)
 
     if articles:
-        save_daily_markdown(articles)
+        save_daily_markdown(articles, fetched_at)
+        # Per-date breakdown — this is what each bulletin will actually show.
+        from collections import Counter
+        counts = Counter(a["date"] for a in articles)
+        print("\nPer-bulletin breakdown (article pub_date → count):")
+        for date_str, n in sorted(counts.items()):
+            marker = "  ← today" if date_str == today_str else ""
+            print(f"  {date_str}: {n} articles{marker}")
     else:
         print("No new articles.")
 

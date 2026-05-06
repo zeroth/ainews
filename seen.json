@@ -24,6 +24,11 @@
     "link": "https://simonwillison.net/2026/May/4/redis-array",
     "title": "Redis Array Playground"
   },
+  "1e70e4c3ad": {
+    "first_seen": "2026-05-06",
+    "link": "https://landing.ai/developers/reinsurance-document-extraction-re-ink",
+    "title": "Reinsurance Document Extraction: Automating Treaty Intake with Human-in-the-Loop AI"
+  },
   "1f7f62213a": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01123",
@@ -68,6 +73,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud",
     "title": "How to Deploy Your First App on FastAPI Cloud"
+  },
+  "32a8e2e353": {
+    "first_seen": "2026-05-06",
+    "link": "https://www.infoq.com/articles/metrics-driven-approach-ios-performance",
+    "title": "Article: Beyond the Benchmark: A Metrics-Driven Approach to Sustained iOS Performance on Real Devices"
   },
   "34708b3ad2": {
     "first_seen": "2026-05-06",
@@ -234,6 +244,11 @@
     "link": "https://simonwillison.net/2026/May/3/anthropic",
     "title": "Quoting Anthropic"
   },
+  "915cee8978": {
+    "first_seen": "2026-05-06",
+    "link": "https://artificialintelligenceact.substack.com/p/the-eu-ai-act-newsletter-101-trilogue",
+    "title": "The EU AI Act Newsletter #101: Trilogue Breakdown"
+  },
   "96d98e1295": {
     "first_seen": "2026-05-06",
     "link": "https://www.stepsecurity.io/blog/a-mini-shai-hulud-has-appeared",
@@ -399,6 +414,11 @@
     "link": "https://arxiv.org/abs/2605.01102",
     "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics"
   },
+  "d12d023076": {
+    "first_seen": "2026-05-06",
+    "link": "https://importai.substack.com/p/import-ai-455-automating-ai-research",
+    "title": "Import AI 455: AI systems are about to start building themselves."
+  },
   "d3d3106113": {
     "first_seen": "2026-05-06",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
@@ -423,6 +443,11 @@
     "first_seen": "2026-05-06",
     "link": "https://simonwillison.net/2026/May/5/datasette-referrer-policy",
     "title": "datasette-referrer-policy 0.1"
+  },
+  "e39210d6c5": {
+    "first_seen": "2026-05-06",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard"
   },
   "e509bce123": {
     "first_seen": "2026-05-06",

@@ -467,7 +467,8 @@ def section_link(href: str, label: str, active_path: str) -> str:
 
 def html_page(title: str, body_html: str, date_str: str = "",
               edition: str = "", section_names: list = None,
-              article_count: str = "0", active_page: str = "today") -> str:
+              article_count: str = "0", active_page: str = "today",
+              fetched_at: str = "") -> str:
     """Render a full page with masthead + main + footer."""
     section_names = section_names or []
     if active_page == "today":
@@ -483,8 +484,15 @@ def html_page(title: str, body_html: str, date_str: str = "",
     archive_href = "archive.html"
     today_active = "tab active" if active_page == "today" else "tab"
     archive_active = "tab active" if active_page == "archive" else "tab"
+    fetched_label = FETCH_TIME_LABEL
+    if fetched_at:
+        try:
+            fetched_dt = datetime.fromisoformat(fetched_at)
+            fetched_label = fetched_dt.strftime("%H:%M UTC")
+        except Exception:
+            pass
     stats_line = (
-        f"{esc(article_count)} stories · fetched {FETCH_TIME_LABEL}"
+        f"{esc(article_count)} stories · fetched {fetched_label}"
         if active_page == "today" else "All editions"
     )
     edition_block = (
@@ -716,6 +724,7 @@ def build_daily_page(md_path: Path, edition: str):
         section_names=section_names,
         article_count=str(article_count or total_articles),
         active_page="today",
+        fetched_at=meta.get("fetched_at", ""),
     )
     return page, date_str, article_count or total_articles
 
