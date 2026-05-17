@@ -194,6 +194,11 @@
     "link": "https://arxiv.org/abs/2605.12674",
     "title": "Revealing Interpretable Failure Modes of VLMs"
   },
+  "1289f55e7f": {
+    "first_seen": "2026-05-17",
+    "link": "https://www.infoq.com/news/2026/05/monzo-data-mesh",
+    "title": "Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models"
+  },
   "12cdbb98f7": {
     "first_seen": "2026-05-16",
     "link": "https://arxiv.org/abs/2605.14048",
@@ -859,6 +864,11 @@
     "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-a88",
     "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 6"
   },
+  "48cf97314e": {
+    "first_seen": "2026-05-17",
+    "link": "https://blog.dailydoseofds.com/p/model-free-learning-in-rl",
+    "title": "Model-Free Learning in RL"
+  },
   "49844c8ec8": {
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05379",
@@ -933,6 +943,11 @@
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05475",
     "title": "Intentionality is a Design Decision: Measuring Functional Intentionality for Accountable AI Systems"
+  },
+  "517a8af1af": {
+    "first_seen": "2026-05-17",
+    "link": "https://thenewstack.io/mac-mini-agent-infrastructure",
+    "title": "The Mac mini just became infrastructure"
   },
   "51afa32ab9": {
     "first_seen": "2026-05-16",
@@ -1539,6 +1554,11 @@
     "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
     "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models"
   },
+  "88d66873e1": {
+    "first_seen": "2026-05-17",
+    "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+    "title": "The Boring Stuff is Dangerous Now"
+  },
   "894d8462d2": {
     "first_seen": "2026-05-14",
     "link": "https://thenewstack.io/anthropic-agent-sdk-credits",
@@ -1823,6 +1843,11 @@
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/ai-agent-telemetry-standardization",
     "title": "Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check"
+  },
+  "a2de94a406": {
+    "first_seen": "2026-05-17",
+    "link": "https://www.infoq.com/news/2026/05/openai-symphony-agents",
+    "title": "OpenAI Open-Sources Symphony, a SPEC.md for Autonomous Coding Agent Orchestration"
   },
   "a355ba42f7": {
     "first_seen": "2026-05-06",
@@ -2503,6 +2528,11 @@
     "first_seen": "2026-05-07",
     "link": "https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster",
     "title": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent"
+  },
+  "e5a22872b0": {
+    "first_seen": "2026-05-17",
+    "link": "https://simonwillison.net/2026/May/17/gds-weighs-in",
+    "title": "GDS weighs in on the NHS's decision to retreat from Open Source"
   },
   "e616db9e4a": {
     "first_seen": "2026-05-14",
