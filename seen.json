@@ -459,6 +459,11 @@
     "link": "https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026",
     "title": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK"
   },
+  "1bd17854df": {
+    "first_seen": "2026-05-24",
+    "link": "https://blog.dailydoseofds.com/p/function-approximation-in-rl",
+    "title": "Function Approximation in RL"
+  },
   "1c4e1f71ce": {
     "first_seen": "2026-05-23",
     "link": "https://thenewstack.io/agentic-ai-data-governance",
@@ -598,6 +603,11 @@
     "first_seen": "2026-05-20",
     "link": "https://simonwillison.net/2026/May/20/google-io",
     "title": "Google I/O, Gemini Spark, Antigravity"
+  },
+  "231a277fc9": {
+    "first_seen": "2026-05-24",
+    "link": "https://thenewstack.io/who-monitors-ai-agents",
+    "title": "Who\u2019s monitoring the agents?"
   },
   "236145cbc8": {
     "first_seen": "2026-05-22",
@@ -1569,6 +1579,11 @@
     "link": "https://www.latent.space/p/the-fourth-law",
     "title": "The Next War Is Already Here. The West Isn't Ready. \u2014 Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion"
   },
+  "5c3c9ad018": {
+    "first_seen": "2026-05-24",
+    "link": "https://simonwillison.net/2026/May/24/usborne-mad-house",
+    "title": "Mad House \u2014 Usborne Creepy Computer Games"
+  },
   "5cf7ec67a5": {
     "first_seen": "2026-05-20",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
@@ -1719,6 +1734,11 @@
     "link": "https://arxiv.org/abs/2605.04227",
     "title": "Pro$^2$Assist: Continuous Step-Aware Proactive Assistance with Multimodal Egocentric Perception for Long-Horizon Procedural Tasks"
   },
+  "65f756be40": {
+    "first_seen": "2026-05-24",
+    "link": "https://thenewstack.io/jaeger-clickhouse-storage-backend",
+    "title": "How Jaeger hit 8.6\u00d7 compression on 10 million spans with ClickHouse"
+  },
   "660f6cb620": {
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.19127",
@@ -1768,6 +1788,11 @@
     "first_seen": "2026-05-11",
     "link": "https://arxiv.org/abs/2605.06682",
     "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search"
+  },
+  "6959cf6119": {
+    "first_seen": "2026-05-24",
+    "link": "https://thenewstack.io/clickhouse-ai-coding-agents",
+    "title": "What ClickHouse learned from a year of coding with AI agents"
   },
   "69ddc2f269": {
     "first_seen": "2026-05-19",
@@ -2834,6 +2859,11 @@
     "link": "https://arxiv.org/abs/2605.04169",
     "title": "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs"
   },
+  "a6d570681e": {
+    "first_seen": "2026-05-24",
+    "link": "https://www.infoq.com/news/2026/05/google-genkit-middleware",
+    "title": "Google Introduces Middleware Architecture for Genkit Applications"
+  },
   "a6e950e866": {
     "first_seen": "2026-05-18",
     "link": "https://adversa.ai/blog/owasp-asi02-tool-misuse-and-exploitation-the-definitive-security-guide",
@@ -2973,6 +3003,11 @@
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05365",
     "title": "ZAYA1-8B Technical Report"
+  },
+  "ae6140e97d": {
+    "first_seen": "2026-05-24",
+    "link": "https://simonwillison.net/2026/May/24/armin-ronacher",
+    "title": "Quoting Armin Ronacher"
   },
   "ae627e4dce": {
     "first_seen": "2026-05-06",
@@ -3703,6 +3738,11 @@
     "first_seen": "2026-05-06",
     "link": "https://simonwillison.net/2026/May/5/datasette-referrer-policy",
     "title": "datasette-referrer-policy 0.1"
+  },
+  "e31041382b": {
+    "first_seen": "2026-05-24",
+    "link": "https://www.infoq.com/news/2026/05/aws-mcp-ga",
+    "title": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance"
   },
   "e39210d6c5": {
     "first_seen": "2026-05-06",
