@@ -139,6 +139,11 @@
     "link": "https://landing.ai/llms/contract-data-extraction-for-enterprise-legal-teams",
     "title": "Contract Data Extraction for Enterprise Legal Teams"
   },
+  "06f2483f5e": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23937",
+    "title": "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization"
+  },
   "06f9ca61be": {
     "first_seen": "2026-05-21",
     "link": "https://www.infoq.com/news/2026/05/opentofu-release-terraform",
@@ -168,6 +173,11 @@
     "first_seen": "2026-05-19",
     "link": "https://openai.com/index/advancing-content-provenance",
     "title": "Advancing content provenance for a safer, more transparent AI ecosystem"
+  },
+  "086ffde9eb": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23940",
+    "title": "Residual Drift Dominates Contradiction in Multi-Turn Constraint Reasoning"
   },
   "08777a38db": {
     "first_seen": "2026-05-22",
@@ -378,6 +388,11 @@
     "first_seen": "2026-05-16",
     "link": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google",
     "title": "Forward deployed engineer is AI\u2019s hottest job as OpenAI and Google race to hire. Here\u2019s how to become one."
+  },
+  "16a2ea3b23": {
+    "first_seen": "2026-05-26",
+    "link": "https://adversa.ai/blog/the-approval-prompt-is-lying-to-you-symlink-rce-in-five-ai-coding-agents-claude-code-cursor-antigravity-copilot-grok-build",
+    "title": "SymJack: the approval prompt is lying to you. A symlink-hijack RCE in five AI coding agents"
   },
   "16c107be60": {
     "first_seen": "2026-05-06",
@@ -674,6 +689,11 @@
     "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "title": "Introducing Trusted Contact in ChatGPT"
   },
+  "25d9493173": {
+    "first_seen": "2026-05-26",
+    "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai",
+    "title": "Notes on Pope Leo XIV's encyclical on AI"
+  },
   "260b8a807b": {
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05410",
@@ -708,6 +728,11 @@
     "first_seen": "2026-05-11",
     "link": "https://arxiv.org/abs/2605.06841",
     "title": "AGWM: Affordance-Grounded World Models for Environments with Compositional Prerequisites"
+  },
+  "273feaeff0": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction",
+    "title": "Gemma 4 Multi-Token Prediction Delivers up to ~3x Faster Token Generation"
   },
   "2778c19986": {
     "first_seen": "2026-05-12",
@@ -809,6 +834,11 @@
     "link": "https://arxiv.org/abs/2605.22875",
     "title": "RMA: an Agentic System for Research-Level Mathematical Problems"
   },
+  "2cfd9c7685": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.kdnuggets.com/visual-debugging-tools-for-machine-learning-workflows",
+    "title": "Visual Debugging Tools for Machine Learning Workflows"
+  },
   "2df76f0700": {
     "first_seen": "2026-05-14",
     "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
@@ -838,6 +868,11 @@
     "first_seen": "2026-05-08",
     "link": "https://openai.com/index/simplex",
     "title": "Simplex rethinks software development with Codex"
+  },
+  "2fb8d1db01": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+    "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?"
   },
   "304eb95818": {
     "first_seen": "2026-05-11",
@@ -1064,6 +1099,11 @@
     "link": "https://www.stepsecurity.io/blog/actions-cool-issues-helper-github-action-compromised-all-tags-point-to-imposter-commit-that-exfiltrates-ci-cd-credentials",
     "title": "actions-cool/issues-helper GitHub Action Compromised: All Tags Point to Imposter Commit That Exfiltrates CI/CD Credentials"
   },
+  "3afe69f595": {
+    "first_seen": "2026-05-26",
+    "link": "https://thenewstack.io/ai-spend-business-observability",
+    "title": "Taming the agentic influx: a blueprint for AI business observability"
+  },
   "3b07a05346": {
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/php-performance-operational-planning",
@@ -1103,6 +1143,16 @@
     "first_seen": "2026-05-13",
     "link": "https://blog.cloudflare.com/browser-run-containers",
     "title": "Browser Run: now running on Cloudflare Containers, it\u2019s faster and more scalable"
+  },
+  "3dcec1e9de": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23935",
+    "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems"
+  },
+  "3e232e6499": {
+    "first_seen": "2026-05-26",
+    "link": "https://thenewstack.io/google-antigravity-cli",
+    "title": "Google pushes Pro, Ultra, and free users from open-source Gemini CLI to closed-source Antigravity CLI"
   },
   "3e487370d4": {
     "first_seen": "2026-05-25",
@@ -1219,6 +1269,11 @@
     "link": "https://arxiv.org/abs/2605.06772",
     "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning"
   },
+  "4378f10527": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23932",
+    "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure"
+  },
   "43ca62ab4a": {
     "first_seen": "2026-05-08",
     "link": "https://openai.com/index/running-codex-safely",
@@ -1258,6 +1313,11 @@
     "first_seen": "2026-05-11",
     "link": "https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations",
     "title": "Choosing between single or multiple organizations in AWS Organizations"
+  },
+  "450201ea60": {
+    "first_seen": "2026-05-26",
+    "link": "https://thenewstack.io/gpt-5-5-android-bench",
+    "title": "Google ranks the best AI for building Android apps, and the winner isn\u2019t Gemini"
   },
   "45245eb80d": {
     "first_seen": "2026-05-14",
@@ -1314,6 +1374,11 @@
     "link": "https://thenewstack.io/agentic-ai-foundation-launch",
     "title": "Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert"
   },
+  "462fcb2e7f": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/articles/architecting-cloud-native-kafka",
+    "title": "Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future"
+  },
   "467fc68201": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01130",
@@ -1353,6 +1418,11 @@
     "first_seen": "2026-05-19",
     "link": "https://www.infoq.com/news/2026/05/agoda-multimodal-content-system",
     "title": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery"
+  },
+  "494aea5db2": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+    "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos"
   },
   "49844c8ec8": {
     "first_seen": "2026-05-09",
@@ -1579,6 +1649,11 @@
     "link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
     "title": "Hugging Face Packages Weaponized With a Single File Tweak"
   },
+  "579454da46": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23930",
+    "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game"
+  },
   "57a2e2dced": {
     "first_seen": "2026-05-22",
     "link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
@@ -1674,6 +1749,11 @@
     "link": "https://www.infoq.com/news/2026/05/grab-multi-agent-support-system",
     "title": "Designing a Multi-Agent System for Engineering Support at Scale: a Case Study from Grab"
   },
+  "5e27888af1": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23908",
+    "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models"
+  },
   "5e4578406c": {
     "first_seen": "2026-05-20",
     "link": "https://thenewstack.io/cursor-composer-benchmarks",
@@ -1723,6 +1803,11 @@
     "first_seen": "2026-05-08",
     "link": "https://openai.com/index/how-chatgpt-protects-privacy",
     "title": "How ChatGPT learns about the world while protecting privacy"
+  },
+  "611f85175c": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23938",
+    "title": "Authority Inversion in LLM-Mediated Ubiquitous Systems: When Models Trust Users Over Sensors"
   },
   "61646db8c1": {
     "first_seen": "2026-05-07",
@@ -1798,6 +1883,11 @@
     "first_seen": "2026-05-21",
     "link": "https://blog.cloudflare.com/casb-anthropic-integration",
     "title": "Announcing Claude Compliance API support with Cloudflare CASB"
+  },
+  "652e20ca79": {
+    "first_seen": "2026-05-26",
+    "link": "https://thenewstack.io/agentic-development-cycle-framework",
+    "title": "How the AC/DC framework helps teams govern AI coding agents"
   },
   "656d8d3bad": {
     "first_seen": "2026-05-13",
@@ -1989,6 +2079,11 @@
     "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance",
     "title": "From latency to instant: Modernizing GitHub Issues navigation performance"
   },
+  "6fffeb5362": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/node-js-file-system",
+    "title": "NodeJS Proposes Built-In Virtual File System, Sparking Debate over AI-Generated Contributions"
+  },
   "701a1873d3": {
     "first_seen": "2026-05-22",
     "link": "https://blog.dailydoseofds.com/p/karpathys-prediction-about-rl-is",
@@ -2144,6 +2239,16 @@
     "link": "https://arxiv.org/abs/2605.01120",
     "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search"
   },
+  "7846b573d2": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23939",
+    "title": "DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning"
+  },
+  "78788c9a50": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/online-cohort-certification-prog",
+    "title": "InfoQ Online Certification Program: New AI Engineering and Organizational Architecture Cohorts"
+  },
   "78a79eca38": {
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
@@ -2178,6 +2283,11 @@
     "first_seen": "2026-05-18",
     "link": "https://arxiv.org/abs/2605.15215",
     "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces"
+  },
+  "7b067d7681": {
+    "first_seen": "2026-05-26",
+    "link": "https://simonwillison.net/2026/May/25/sighting-365297287",
+    "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal"
   },
   "7b1b467a96": {
     "first_seen": "2026-05-16",
@@ -2284,6 +2394,11 @@
     "link": "https://openai.com/index/nvidia",
     "title": "How NVIDIA engineers and researchers build with Codex"
   },
+  "7ffa380170": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23931",
+    "title": "BODHI: Precise OS Kernel Specification Inference"
+  },
   "8032662f29": {
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/openai-gpt-5-5-instant-launch",
@@ -2298,6 +2413,11 @@
     "first_seen": "2026-05-07",
     "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
     "title": "'TrustFall' Convention Exposes Claude Code Execution Risk"
+  },
+  "8113db261a": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/presentations/realtime-gpu-workloads",
+    "title": "Presentation: Realtime and Batch Processing of GPU Workloads"
   },
   "818167e5fa": {
     "first_seen": "2026-05-19",
@@ -2389,6 +2509,11 @@
     "link": "https://www.kdnuggets.com/5-useful-python-scripts-for-time-series-analysis",
     "title": "5 Useful Python Scripts for Time Series Analysis"
   },
+  "85ba880216": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23909",
+    "title": "Confidence Calibration in Large Language Models"
+  },
   "85f8cabb99": {
     "first_seen": "2026-05-23",
     "link": "https://arxiv.org/abs/2605.21645",
@@ -2423,6 +2548,11 @@
     "first_seen": "2026-05-08",
     "link": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
     "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs"
+  },
+  "882dd43dd3": {
+    "first_seen": "2026-05-26",
+    "link": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026",
+    "title": "State of the software engineering job market in 2026"
   },
   "886ae56ab7": {
     "first_seen": "2026-05-08",
@@ -2473,6 +2603,11 @@
     "first_seen": "2026-05-13",
     "link": "https://thenewstack.io/openai-daybreak-anthropic-glasswing",
     "title": "OpenAI\u2019s Daybreak and Anthropic\u2019s Glasswing have nearly identical benchmarks \u2014 and 3 of the same partners"
+  },
+  "8a8839054b": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026",
+    "title": "Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty"
   },
   "8aa48047d4": {
     "first_seen": "2026-05-19",
@@ -2659,6 +2794,11 @@
     "link": "https://www.infoq.com/news/2026/05/discord-scylladb-automation",
     "title": "Discord Rebuilds Database Operations Around Automation to Manage ScyllaDB at Massive Scale"
   },
+  "9416cfc89e": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry",
+    "title": "How Jaeger is evolving to trace AI agents with OpenTelemetry"
+  },
   "94b68244f1": {
     "first_seen": "2026-05-08",
     "link": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html",
@@ -2768,6 +2908,11 @@
     "first_seen": "2026-05-11",
     "link": "https://www.infoq.com/presentations/streaming-application-aws-infrastructure",
     "title": "Presentation: Evolution of a Backend for a Streaming Application"
+  },
+  "9c7d8b2fc7": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch",
+    "title": "Microsoft Issues Out-of-Band SharePoint Patch"
   },
   "9c8d93084b": {
     "first_seen": "2026-05-14",
@@ -3124,6 +3269,11 @@
     "link": "https://www.latent.space/p/daytona",
     "title": "Giving Agents Computers \u2014 Ivan Burazin, Daytona"
   },
+  "ac49a219ca": {
+    "first_seen": "2026-05-26",
+    "link": "https://simonwillison.net/2026/May/26/paul-graham",
+    "title": "Quoting Paul Graham"
+  },
   "ac6ed0e186": {
     "first_seen": "2026-05-18",
     "link": "https://arxiv.org/abs/2605.15205",
@@ -3223,6 +3373,11 @@
     "first_seen": "2026-05-21",
     "link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
     "title": "Content Delivery Exploit Opens Websites to Brand Hijacking"
+  },
+  "b211370ad8": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23929",
+    "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs"
   },
   "b280543acd": {
     "first_seen": "2026-05-13",
@@ -3424,6 +3579,11 @@
     "link": "https://www.kdnuggets.com/system-design-interview-questions-a-handy-collection",
     "title": "System Design Interview Questions: A Handy Collection"
   },
+  "bc7604142b": {
+    "first_seen": "2026-05-26",
+    "link": "https://thenewstack.io/hpe-agentic-ops-copilot",
+    "title": "The reason enterprise outages almost never start where ops teams think"
+  },
   "bd0e67b84a": {
     "first_seen": "2026-05-20",
     "link": "https://simonwillison.net/2026/May/19/gemini-35-flash",
@@ -3499,6 +3659,11 @@
     "link": "https://arxiv.org/abs/2605.00842",
     "title": "Understanding Emergent Misalignment via Feature Superposition Geometry"
   },
+  "c2168d933a": {
+    "first_seen": "2026-05-26",
+    "link": "https://blog.bytebytego.com/p/how-vercel-cut-build-wait-times-from",
+    "title": "How Vercel Cut Build Wait Times From 90 Seconds To 5"
+  },
   "c2ca06c3b8": {
     "first_seen": "2026-05-20",
     "link": "https://www.kdnuggets.com/sql-window-functions-beyond-basics-solving-real-business-problems",
@@ -3558,6 +3723,11 @@
     "first_seen": "2026-05-11",
     "link": "https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-supply-chain-attack-hits-the-npm-ecosystem",
     "title": "Mini Shai-Hulud Is Back: A Self-Spreading Supply Chain Attack Compromises TanStack npm Packages"
+  },
+  "c55d84c0d2": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23928",
+    "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction"
   },
   "c56053b02f": {
     "first_seen": "2026-05-15",
@@ -3678,6 +3848,11 @@
     "first_seen": "2026-05-20",
     "link": "https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents",
     "title": "Introducing Prempti: Policy and visibility for AI coding agents"
+  },
+  "d04d40a607": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
+    "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading"
   },
   "d12d023076": {
     "first_seen": "2026-05-06",
@@ -3829,6 +4004,11 @@
     "link": "https://thenewstack.io/ci-for-coding-agents",
     "title": "CI wasn\u2019t built for coding agents. Here\u2019s what comes next."
   },
+  "df96029abb": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23934",
+    "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model"
+  },
   "dfc9b1d799": {
     "first_seen": "2026-05-20",
     "link": "https://www.stepsecurity.io/blog/dev-machine-guard-now-supports-linux",
@@ -3849,6 +4029,11 @@
     "link": "https://www.oreilly.com/radar/when-an-agent-deletes-the-production-database",
     "title": "When an Agent Deletes the Production Database"
   },
+  "e0e866cb7f": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.oreilly.com/radar/who-authorized-that-the-delegation-problem-in-multi-agent-ai",
+    "title": "Who Authorized That? The Delegation Problem in Multi-Agent AI"
+  },
   "e1283a753d": {
     "first_seen": "2026-05-13",
     "link": "https://landing.ai/llms/automating-insurance-claims-intake-document-processing",
@@ -3858,6 +4043,11 @@
     "first_seen": "2026-05-13",
     "link": "https://landing.ai/llms/ade-on-private-vpc-what-private-cloud-document-processing-actually-looks-like",
     "title": "ADE on Private VPC: What Private Cloud Document Processing Actually Looks Like"
+  },
+  "e198b9a361": {
+    "first_seen": "2026-05-26",
+    "link": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files"
   },
   "e1b58ea2e6": {
     "first_seen": "2026-05-22",
@@ -3878,6 +4068,11 @@
     "first_seen": "2026-05-07",
     "link": "https://www.infoq.com/presentations/engineering-ai",
     "title": "Presentation: Engineering at AI Speed: Lessons from the First Agentically Accelerated Software Project"
+  },
+  "e227083510": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/tamboui-java-tui",
+    "title": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java"
   },
   "e2e836c776": {
     "first_seen": "2026-05-19",
@@ -3903,6 +4098,11 @@
     "first_seen": "2026-05-19",
     "link": "https://www.infoq.com/presentations/infrastructure-ai-agent-development",
     "title": "Presentation: Powering the Future: Building Your GenAI Infrastructure Stack"
+  },
+  "e40884ea4b": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc",
+    "title": "Three TAG leads walk into the TOC"
   },
   "e459cf09b2": {
     "first_seen": "2026-05-12",
@@ -3953,6 +4153,11 @@
     "first_seen": "2026-05-14",
     "link": "https://arxiv.org/abs/2605.12838",
     "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking"
+  },
+  "e63fc58a97": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/google-synthid-content-detection",
+    "title": "Google Expands SynthID Adoption for AI Watermarking, Previews Content Detection API"
   },
   "e664e87ef9": {
     "first_seen": "2026-05-06",
@@ -4009,6 +4214,16 @@
     "link": "https://huggingface.co/blog/agent-glossary",
     "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"
   },
+  "e99934b111": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.kdnuggets.com/top-7-python-libraries-for-large-scale-data-processing",
+    "title": "Top 7 Python Libraries for Large-Scale Data Processing"
+  },
+  "e9b85b5829": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23926",
+    "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning"
+  },
   "e9da6eed7e": {
     "first_seen": "2026-05-21",
     "link": "https://landing.ai/developers/visual-document-retrieval-colpali",
@@ -4038,6 +4253,11 @@
     "first_seen": "2026-05-18",
     "link": "https://www.infoq.com/news/2026/05/monzo-data-mesh",
     "title": "Neobank Monzo Builds Governed Data Mesh across 100 Teams and 12000 dbt Models"
+  },
+  "ea9fb392d8": {
+    "first_seen": "2026-05-26",
+    "link": "https://arxiv.org/abs/2605.23936",
+    "title": "Fuzzy, Neutrosophic, and Uncertain Graph Theory: Properties and Applications"
   },
   "eac8095c2b": {
     "first_seen": "2026-05-06",
@@ -4174,6 +4394,11 @@
     "link": "https://thenewstack.io/anthropic-claudecode-opencode-split",
     "title": "Why 157,000 developers are hedging against Anthropic with OpenCode"
   },
+  "f32cbbc9b5": {
+    "first_seen": "2026-05-26",
+    "link": "https://www.infoq.com/news/2026/05/formae-k8s-helm-integration",
+    "title": "Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration"
+  },
   "f37380860e": {
     "first_seen": "2026-05-11",
     "link": "https://arxiv.org/abs/2605.06812",
@@ -4223,6 +4448,11 @@
     "first_seen": "2026-05-18",
     "link": "https://thenewstack.io/google-remy-agent-infrastructure",
     "title": "Why Google\u2019s Remy leaks have enterprise architects rethinking the AI stack"
+  },
+  "f5d33572a1": {
+    "first_seen": "2026-05-26",
+    "link": "https://simonwillison.net/2026/May/26/corey-quinn",
+    "title": "Quoting Corey Quinn"
   },
   "f5f9db6b05": {
     "first_seen": "2026-05-21",
