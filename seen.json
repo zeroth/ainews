@@ -764,6 +764,11 @@
     "link": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
     "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets"
   },
+  "24d659ed63": {
+    "first_seen": "2026-05-30",
+    "link": "https://www.infoq.com/news/2026/05/meta-cdc-migration",
+    "title": "How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability"
+  },
   "2548b81d23": {
     "first_seen": "2026-05-27",
     "link": "https://arxiv.org/abs/2605.26279",
@@ -1624,6 +1629,11 @@
     "link": "https://blog.cloudflare.com/building-for-the-future",
     "title": "Building for the future"
   },
+  "485d8e6fbe": {
+    "first_seen": "2026-05-30",
+    "link": "https://www.infoq.com/news/2026/05/arm-metis-agentic-security",
+    "title": "Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools"
+  },
   "487179d790": {
     "first_seen": "2026-05-15",
     "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an-a88",
@@ -2049,6 +2059,11 @@
     "link": "https://www.infoq.com/presentations/ai-assisted-engineering",
     "title": "Presentation: Leadership in AI-Assisted Engineering"
   },
+  "5e849e8dac": {
+    "first_seen": "2026-05-30",
+    "link": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker"
+  },
   "5ea620bb54": {
     "first_seen": "2026-05-18",
     "link": "https://arxiv.org/abs/2605.15224",
@@ -2203,6 +2218,11 @@
     "first_seen": "2026-05-07",
     "link": "https://arxiv.org/abs/2605.04227",
     "title": "Pro$^2$Assist: Continuous Step-Aware Proactive Assistance with Multimodal Egocentric Perception for Long-Horizon Procedural Tasks"
+  },
+  "65efa42323": {
+    "first_seen": "2026-05-30",
+    "link": "https://www.infoq.com/news/2026/05/railway-gcp-account-outage",
+    "title": "Google Cloud Suspends Railway's Production Account, Causing Eight-Hour Platform-Wide Outage"
   },
   "65f756be40": {
     "first_seen": "2026-05-24",
@@ -2794,6 +2814,11 @@
     "link": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor",
     "title": "Learning on the Shop floor"
   },
+  "7fb64b18c2": {
+    "first_seen": "2026-05-30",
+    "link": "https://thenewstack.io/frontier-llm-factcheck-disagreement",
+    "title": "Why GPT-5.4, Claude, and Gemini can\u2019t agree on basic, real-world facts"
+  },
   "7fcaf6c4e5": {
     "first_seen": "2026-05-16",
     "link": "https://arxiv.org/abs/2605.13880",
@@ -2963,6 +2988,11 @@
     "first_seen": "2026-05-13",
     "link": "https://www.infoq.com/news/2026/05/jep-533-jdk-27",
     "title": "JEP 533 Tightens Exception Handling in Java's Structured Concurrency for JDK 27"
+  },
+  "86f6e79cd6": {
+    "first_seen": "2026-05-30",
+    "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline",
+    "title": "I Am Retiring from Tech to Live Offline"
   },
   "8798c9402f": {
     "first_seen": "2026-05-22",
@@ -3288,6 +3318,11 @@
     "first_seen": "2026-05-13",
     "link": "https://simonwillison.net/2026/May/12/datasette",
     "title": "datasette 1.0a29"
+  },
+  "95db27c579": {
+    "first_seen": "2026-05-30",
+    "link": "https://landing.ai/blog/dpt3-parse-announcement-for-developers",
+    "title": "Introducing DPT-3 and a New Parse API"
   },
   "95f7442869": {
     "first_seen": "2026-05-21",
@@ -4294,6 +4329,11 @@
     "link": "https://arxiv.org/abs/2605.14036",
     "title": "Enhanced and Efficient Reasoning in Large Learning Models"
   },
+  "c316b73a61": {
+    "first_seen": "2026-05-30",
+    "link": "https://simonwillison.net/2026/May/30/daniel-jalkut",
+    "title": "Quoting Daniel Jalkut"
+  },
   "c3372a91cf": {
     "first_seen": "2026-05-13",
     "link": "https://thenewstack.io/engineering-team-skills-library",
@@ -4413,6 +4453,11 @@
     "first_seen": "2026-05-27",
     "link": "https://thenewstack.io/motherduck-duckdb-mcp-collaboration",
     "title": "Why MotherDuck refuses to fork DuckDB"
+  },
+  "cbb3ae7886": {
+    "first_seen": "2026-05-30",
+    "link": "https://thenewstack.io/replit-visa-ai-payments",
+    "title": "Replit\u2019s vibe coding platform just got a Visa-backed identity layer for AI agents \u2014 and it changes how agents spend money"
   },
   "cc01c1a818": {
     "first_seen": "2026-05-06",
@@ -4648,6 +4693,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
     "title": "Middle East Cyber Battle Field Broadens \u2014 Especially in UAE"
+  },
+  "dc604b3aa6": {
+    "first_seen": "2026-05-30",
+    "link": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "title": "[AINews] Founders and Forward Deployed Engineers"
   },
   "dca577167f": {
     "first_seen": "2026-05-06",
@@ -5039,6 +5089,11 @@
     "link": "https://openai.com/signals/research/2026q1-update",
     "title": "How ChatGPT adoption broadened in early 2026"
   },
+  "ed8666ae2b": {
+    "first_seen": "2026-05-30",
+    "link": "https://thenewstack.io/opus-4-8-claude-smarter-token-discipline-urgent",
+    "title": "Opus 4.8 Made Claude Smarter. Token Discipline Got Urgent."
+  },
   "ed91123a36": {
     "first_seen": "2026-05-18",
     "link": "https://www.infoq.com/news/2026/05/code-with-claude",
@@ -5158,6 +5213,11 @@
     "first_seen": "2026-05-16",
     "link": "https://arxiv.org/abs/2605.14004",
     "title": "Conditional Attribute Estimation with Autoregressive Sequence Models"
+  },
+  "f3eb937040": {
+    "first_seen": "2026-05-30",
+    "link": "https://blog.bytebytego.com/p/how-doordash-built-a-testing-system",
+    "title": "How DoorDash Built a Testing System to Evaluate LLMs"
   },
   "f41860c54f": {
     "first_seen": "2026-05-25",
