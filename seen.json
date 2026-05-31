@@ -144,6 +144,11 @@
     "link": "https://www.kdnuggets.com/top-10-python-libraries-for-data-engineering-in-2026",
     "title": "Top 10 Python Libraries for Data Engineering in 2026"
   },
+  "0611acfe19": {
+    "first_seen": "2026-05-31",
+    "link": "https://thenewstack.io/diy-platform-burnout-trap",
+    "title": "The DIY platform trap that\u2019s burning out engineering teams"
+  },
   "062f60a065": {
     "first_seen": "2026-05-06",
     "link": "https://simonwillison.net/2026/May/4/tre-python-binding",
@@ -708,6 +713,11 @@
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.18937",
     "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI"
+  },
+  "2290d48a60": {
+    "first_seen": "2026-05-31",
+    "link": "https://thenewstack.io/nanoclaw-openclaw-agent-security",
+    "title": "Gavriel Cohen found his own code inside OpenClaw, so he walked away"
   },
   "22e6ac3752": {
     "first_seen": "2026-05-20",
@@ -1398,6 +1408,11 @@
     "first_seen": "2026-05-13",
     "link": "https://blog.dailydoseofds.com/p/speculative-decoding-in-llms",
     "title": "Speculative Decoding in LLMs"
+  },
+  "3fbfc5aeb4": {
+    "first_seen": "2026-05-31",
+    "link": "https://thenewstack.io/cursor-jira-integration-test",
+    "title": "I tested Cursor\u2019s new Jira integration and it\u2019s 5 stars, no notes. Here\u2019s why."
   },
   "3fd9de88e2": {
     "first_seen": "2026-05-18",
@@ -2698,6 +2713,11 @@
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05413",
     "title": "From History to State: Constant-Context Skill Learning for LLM Agents"
+  },
+  "7ab3b51d56": {
+    "first_seen": "2026-05-31",
+    "link": "https://simonwillison.net/2026/May/31/anthropic-run-rate",
+    "title": "Quoting Karen Kwok for Reuters Breakingviews"
   },
   "7b04b3ffb9": {
     "first_seen": "2026-05-18",
@@ -4029,6 +4049,11 @@
     "link": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
     "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber"
   },
+  "b4aa7d7739": {
+    "first_seen": "2026-05-31",
+    "link": "https://simonwillison.net/2026/May/30/how-we-contain-claude",
+    "title": "How we contain Claude across products"
+  },
   "b4abd552a9": {
     "first_seen": "2026-05-20",
     "link": "https://thenewstack.io/nanoco-nanoclaw-sandboxed-agent",
@@ -4073,6 +4098,11 @@
     "first_seen": "2026-05-11",
     "link": "https://arxiv.org/abs/2605.06815",
     "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models"
+  },
+  "b642b83aa8": {
+    "first_seen": "2026-05-31",
+    "link": "https://thenewstack.io/ai-retrieval-at-scale",
+    "title": "AI retrieval at scale is becoming a systems problem, not a tooling problem"
   },
   "b64689bf78": {
     "first_seen": "2026-05-20",
@@ -4288,6 +4318,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.infoq.com/news/2026/05/github-codeql-security-modeling",
     "title": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis"
+  },
+  "c16cb3eafb": {
+    "first_seen": "2026-05-31",
+    "link": "https://www.infoq.com/news/2026/05/duckdb-quack-protocol",
+    "title": "DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics"
   },
   "c1bec34286": {
     "first_seen": "2026-05-06",
@@ -4738,6 +4773,11 @@
     "first_seen": "2026-05-12",
     "link": "https://www.infoq.com/news/2026/05/github-mcp-secret-scanning",
     "title": "GitHub Expands Secret Scanning with General Availability of MCP Server Integration"
+  },
+  "df0961e293": {
+    "first_seen": "2026-05-31",
+    "link": "https://blog.dailydoseofds.com/p/introduction-to-deep-rl-and-dqn",
+    "title": "Introduction to Deep RL and DQN"
   },
   "df0eefb40d": {
     "first_seen": "2026-05-21",
@@ -5338,6 +5378,11 @@
     "first_seen": "2026-05-22",
     "link": "https://arxiv.org/abs/2605.20520",
     "title": "Open-World Evaluations for Measuring Frontier AI Capabilities"
+  },
+  "f9d3ea61ba": {
+    "first_seen": "2026-05-31",
+    "link": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription",
+    "title": "The solution might be cancelling my AI subscription"
   },
   "fa116f5a89": {
     "first_seen": "2026-05-28",
