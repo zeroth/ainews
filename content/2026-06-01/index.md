@@ -2,7 +2,7 @@
 date: 2026-06-01
 title: Daily Bulletin — Monday, June 1, 2026
 article_count: 7
-fetched_at: 2026-06-02T21:01:16+00:00
+fetched_at: 2026-06-02T21:58:26+00:00
 ---
 
 ## Security

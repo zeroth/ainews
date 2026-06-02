@@ -1,8 +1,8 @@
 ---
 date: 2026-06-02
 title: Daily Bulletin — Tuesday, June 2, 2026
-article_count: 48
-fetched_at: 2026-06-02T21:01:16+00:00
+article_count: 50
+fetched_at: 2026-06-02T21:58:26+00:00
 ---
 
 ## Security
@@ -32,6 +32,13 @@ China is stealing data from high-value targets via a sneaky, double-layer spear-
 *Dark Reading*
 
 A sneaky, wide-scale IAB operation uses a malicious traffic distribution system (TDS) to redirect visitors of trusted websites to ones that deliver malware.
+
+---
+
+### [FBI-Flagged Phishing Kit Kali365 Expands Its Reach](https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach)
+*Dark Reading*
+
+Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.
 
 ---
 
@@ -194,6 +201,13 @@ arXiv:2606.00232v1 Announce Type: new Abstract: We study fact-level repair for m
 *arXiv Artificial Intelligence (cs.AI)*
 
 arXiv:2606.00240v1 Announce Type: new Abstract: Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, including (1) online inference with robust uncertainty...
+
+---
+
+### [[Hands-on] Collapse CRM Pipelines into One Table](https://blog.dailydoseofds.com/p/hands-on-collapse-crm-pipelines-into)
+*Daily Dose of Data Science*
+
+...powered by open-source stack (28k+ stars).
 
 ---
 
