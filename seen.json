@@ -459,6 +459,11 @@
     "link": "https://arxiv.org/abs/2605.14048",
     "title": "Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning"
   },
+  "136515f81c": {
+    "first_seen": "2026-06-03",
+    "link": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
+    "title": "Attackers Use AI to Automate EDR Evasion Testing"
+  },
   "13a7c96c82": {
     "first_seen": "2026-05-12",
     "link": "https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive",
@@ -1303,6 +1308,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure",
     "title": "Cloudflare Builds High-Performance Infrastructure for Running LLMs"
+  },
+  "3631f1a68b": {
+    "first_seen": "2026-06-03",
+    "link": "https://blog.dailydoseofds.com/p/the-evolution-of-retrieval-layer",
+    "title": "The Evolution of Retrieval Layer"
   },
   "3632dc38a2": {
     "first_seen": "2026-05-15",

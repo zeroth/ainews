@@ -2,7 +2,7 @@
 date: 2026-06-03
 title: Daily Bulletin — Wednesday, June 3, 2026
 article_count: 47
-fetched_at: 2026-06-03T21:02:05+00:00
+fetched_at: 2026-06-03T21:59:08+00:00
 ---
 
 ## Security
@@ -39,6 +39,13 @@ Cyber insurance coverage is slowly changing, and some policies may not provide c
 *Dark Reading*
 
 China-linked espionage groups have attacked at least a dozen nations in the region, gathering information on maritime shipping, oil production, and other geopolitical interests.
+
+---
+
+### [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
+*Dark Reading*
+
+Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.
 
 ---
 
@@ -229,15 +236,10 @@ arXiv:2606.02974v1 Announce Type: new Abstract: Human Activity Recognition (HAR)
 
 ---
 
-## Open Source AI
+### [The Evolution of Retrieval Layer](https://blog.dailydoseofds.com/p/the-evolution-of-retrieval-layer)
+*Daily Dose of Data Science*
 
-### [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)
-*Hugging Face Blog*
-
----
-
-### [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots)
-*Hugging Face Blog*
+Naive RAG &#8594; Retrieval layer &#8594; Agentic Layer
 
 ---
 
