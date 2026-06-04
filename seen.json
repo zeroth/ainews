@@ -159,6 +159,16 @@
     "link": "https://www.infoq.com/news/2026/05/platform-golden-bricks",
     "title": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery"
   },
+  "05239058c1": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/mate-security-inference-economics",
+    "title": "Mate Security\u2019s Asaf Wiener made every backend engineer a model router. He\u2019s right to."
+  },
+  "05687c551d": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science",
+    "title": "What the Agentic Era Means for Data Science"
+  },
   "056df929cb": {
     "first_seen": "2026-05-19",
     "link": "https://www.kdnuggets.com/top-10-python-libraries-for-data-engineering-in-2026",
@@ -293,6 +303,11 @@
     "first_seen": "2026-05-07",
     "link": "https://openai.com/index/singular-bank",
     "title": "Singular Bank helps bankers move fast with ChatGPT and Codex"
+  },
+  "0a79184ad8": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.infoq.com/articles/architectural-change-cases",
+    "title": "Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures"
   },
   "0af300f92a": {
     "first_seen": "2026-05-25",
@@ -438,6 +453,11 @@
     "first_seen": "2026-05-22",
     "link": "https://www.infoq.com/news/2026/05/uber-eats-ranking-system",
     "title": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking"
+  },
+  "1235763a75": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/soc-alert-tuning-blind-spots",
+    "title": "How to dramatically improve enterprise security alert tuning to battle cyberattacks"
   },
   "1289f55e7f": {
     "first_seen": "2026-05-17",
@@ -638,6 +658,11 @@
     "first_seen": "2026-05-18",
     "link": "https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026",
     "title": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK"
+  },
+  "1bcc7f3b3b": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04421",
+    "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers"
   },
   "1bd17854df": {
     "first_seen": "2026-05-24",
@@ -884,6 +909,11 @@
     "link": "https://arxiv.org/abs/2605.26279",
     "title": "Constraint acquisition needs better benchmarks"
   },
+  "255dc064c8": {
+    "first_seen": "2026-06-04",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI"
+  },
   "25655d1c11": {
     "first_seen": "2026-06-02",
     "link": "https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools",
@@ -909,6 +939,11 @@
     "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "title": "Introducing Trusted Contact in ChatGPT"
   },
+  "25c3931f68": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04273",
+    "title": "Characterizing initial human-AI proof formalization workflows"
+  },
   "25d9493173": {
     "first_seen": "2026-05-26",
     "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai",
@@ -928,6 +963,11 @@
     "first_seen": "2026-05-16",
     "link": "https://arxiv.org/abs/2605.13850",
     "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology"
+  },
+  "264d252fa0": {
+    "first_seen": "2026-06-04",
+    "link": "https://adversa.ai/blog/top-mcp-security-resources-june-2026",
+    "title": "Top MCP security resources \u2014 June 2026"
   },
   "265e54a534": {
     "first_seen": "2026-05-18",
@@ -1023,6 +1063,11 @@
     "first_seen": "2026-05-11",
     "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
     "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data"
+  },
+  "29b169dad3": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.cncf.io/blog/2026/06/04/identity-and-access-management-whitepaper",
+    "title": "Identity and Access Management Whitepaper"
   },
   "29c15ec24c": {
     "first_seen": "2026-05-20",
@@ -1249,10 +1294,20 @@
     "link": "https://www.stepsecurity.io/blog/5-supply-chain-attacks-in-48-hours-why-securing-one-layer-is-not-enough",
     "title": "5 Supply Chain Attacks in 48 Hours: Why Securing One Layer Is Not Enough"
   },
+  "3368f646fa": {
+    "first_seen": "2026-06-04",
+    "link": "https://blog.bytebytego.com/p/the-path-of-a-request-a-tour-of-modern",
+    "title": "The Path of a Request: A Tour of Modern Web Architecture"
+  },
   "33d61f61f8": {
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05427",
     "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias"
+  },
+  "33f37e265e": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04321",
+    "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development"
   },
   "340491f42b": {
     "first_seen": "2026-05-22",
@@ -1268,6 +1323,11 @@
     "first_seen": "2026-05-11",
     "link": "https://www.infoq.com/news/2026/05/netflix-ml-graph",
     "title": "Netflix Introduces \u2018Model Lifecycle Graph\u2019 to Scale Enterprise Machine Learning"
+  },
+  "3490f28334": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
+    "title": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT"
   },
   "349810ba7d": {
     "first_seen": "2026-05-25",
@@ -1409,6 +1469,11 @@
     "link": "https://arxiv.org/abs/2605.21683",
     "title": "Investigating Concept Alignment Using Implausible Category Members"
   },
+  "39c902afdd": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/asana-dash-ai-teammates",
+    "title": "Asana says its new AI \u201cchief of staff\u201d turns your Slack chaos into trackable work"
+  },
   "39ea48805b": {
     "first_seen": "2026-05-10",
     "link": "https://thenewstack.io/anthropic-public-bug-bounty",
@@ -1478,6 +1543,11 @@
     "first_seen": "2026-05-21",
     "link": "https://thenewstack.io/opentelemetry-hits-general-availability",
     "title": "After becoming cloud computing\u2019s telemetry standard, OpenTelemetry graduates into the AI infrastructure era"
+  },
+  "3c5e79289b": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/securing-kubernetes-ai-agents",
+    "title": "How to secure Kubernetes in the age of AI workloads"
   },
   "3c6b5a7e63": {
     "first_seen": "2026-05-29",
@@ -1574,6 +1644,11 @@
     "link": "https://arxiv.org/abs/2605.15204",
     "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch"
   },
+  "40199a107f": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04402",
+    "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation"
+  },
   "40734db20b": {
     "first_seen": "2026-05-06",
     "link": "https://www.kdnuggets.com/testing-sql-like-a-software-engineer-unit-testing-ci-cd-and-data-quality-automation",
@@ -1643,6 +1718,11 @@
     "first_seen": "2026-05-06",
     "link": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm",
     "title": "Our AI started a cafe in Stockholm"
+  },
+  "42ad1dce1a": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.infoq.com/news/2026/06/aws-random-graph-data-center",
+    "title": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%"
   },
   "42ccd94c14": {
     "first_seen": "2026-05-06",
@@ -1769,6 +1849,11 @@
     "link": "https://arxiv.org/abs/2605.12682",
     "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making"
   },
+  "460ea50f6d": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.cncf.io/blog/2026/06/04/securing-ci-cd-for-an-open-source-project-controlling-who-runs-what",
+    "title": "Securing CI/CD for an open source project: Controlling who runs what"
+  },
   "461b6dc149": {
     "first_seen": "2026-05-21",
     "link": "https://thenewstack.io/openssf-open-source-security-members",
@@ -1883,6 +1968,11 @@
     "first_seen": "2026-05-18",
     "link": "https://openai.com/index/dell-codex-enterprise-partnership",
     "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments"
+  },
+  "4a1fa5f326": {
+    "first_seen": "2026-06-04",
+    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "title": "Biodefense in the Intelligence Age"
   },
   "4a237d1196": {
     "first_seen": "2026-05-15",
@@ -2044,6 +2134,11 @@
     "link": "https://www.stepsecurity.io/blog/laravel-lang-supply-chain-attack",
     "title": "Laravel-Lang Supply Chain Attack: Every Tag Across Multiple Composer Packages Rewritten to Steal CI Secrets"
   },
+  "50358f67c7": {
+    "first_seen": "2026-06-04",
+    "link": "https://huggingface.co/blog/hf-cli-for-agents",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub"
+  },
   "504aa05f1d": {
     "first_seen": "2026-05-13",
     "link": "https://arxiv.org/abs/2605.11151",
@@ -2128,6 +2223,11 @@
     "first_seen": "2026-06-03",
     "link": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
     "title": "Kubernetes and retiring at the top with Kelsey Hightower"
+  },
+  "53cf9b6ee2": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.infoq.com/presentations/architecting-deletion-system",
+    "title": "Presentation: Architecting a Centralized Platform for Data Deletion at Netflix"
   },
   "54de29182d": {
     "first_seen": "2026-05-21",
@@ -2454,6 +2554,11 @@
     "link": "https://arxiv.org/abs/2605.20742",
     "title": "VBFDD-Agent for Electric Vehicle Battery Fault Detection and Diagnosis: Descriptive Text Modeling of Battery Digital Signals"
   },
+  "62cc55f7f6": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/snowflake-coco-coding-agent",
+    "title": "Snowflake thinks it knows what\u2019s really slowing developers down"
+  },
   "62e920a57f": {
     "first_seen": "2026-05-23",
     "link": "https://arxiv.org/abs/2605.21695",
@@ -2488,6 +2593,11 @@
     "first_seen": "2026-06-01",
     "link": "https://www.latent.space/p/video-agents",
     "title": "Why Video Agent models are next \u2014 Ethan He, xAI Grok Imagine"
+  },
+  "638f7cc491": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04246",
+    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis"
   },
   "63932a3b8e": {
     "first_seen": "2026-05-06",
@@ -2744,6 +2854,11 @@
     "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
     "title": "Advancing voice intelligence with new models in the API"
   },
+  "6d8698e2d7": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs",
+    "title": "Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs"
+  },
   "6da78d61a2": {
     "first_seen": "2026-05-13",
     "link": "https://landing.ai/llms/building-human-in-the-loop-review-workflows-for-document-ai",
@@ -2819,6 +2934,11 @@
     "link": "https://blog.dailydoseofds.com/p/karpathys-prediction-about-rl-is",
     "title": "Karpathy\u2019s Prediction About RL is Coming True Now!"
   },
+  "7085e9c480": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04150",
+    "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection"
+  },
   "70d2a15a8d": {
     "first_seen": "2026-05-11",
     "link": "https://thenewstack.io/agent-memory-decay-contamination",
@@ -2853,6 +2973,11 @@
     "first_seen": "2026-05-16",
     "link": "https://openai.com/index/databricks",
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows"
+  },
+  "71c4b213b7": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04296",
+    "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents"
   },
   "71cba02416": {
     "first_seen": "2026-05-29",
@@ -3013,6 +3138,11 @@
     "first_seen": "2026-05-28",
     "link": "https://thenewstack.io/percona-20-oursql-foundation-rebrand",
     "title": "Percona celebrates 20th birthday with new foundation \u2014 and a goat cake"
+  },
+  "77b29b3af4": {
+    "first_seen": "2026-06-04",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios"
   },
   "77b756875c": {
     "first_seen": "2026-05-13",
@@ -3359,6 +3489,11 @@
     "link": "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover",
     "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover"
   },
+  "83121385e1": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04202",
+    "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models"
+  },
   "838e105493": {
     "first_seen": "2026-05-11",
     "link": "https://simonwillison.net/2026/May/11/james-shore",
@@ -3604,6 +3739,11 @@
     "link": "https://thenewstack.io/kiro-requirements-analysis-automated-reasoning",
     "title": "AWS found bugs in 60% of software requirements. Its fix isn\u2019t more AI \u2014 it\u2019s a 50-year-old logic engine."
   },
+  "8c3b737f15": {
+    "first_seen": "2026-06-04",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT"
+  },
   "8caef3dd23": {
     "first_seen": "2026-05-06",
     "link": "https://openai.com/index/introducing-b2b-signals",
@@ -3653,6 +3793,11 @@
     "first_seen": "2026-05-13",
     "link": "https://arxiv.org/abs/2605.11118",
     "title": "A Cascaded Generative Approach for e-Commerce Recommendations"
+  },
+  "8f1c4dfbd6": {
+    "first_seen": "2026-06-04",
+    "link": "https://adversa.ai/blog/adversa-ai-launches-airq-framework-report",
+    "title": "AIRQ: The First Independent AI Agent Security Rating and Open Source Risk Scoring Framework Ranks 100+ AI Agents"
   },
   "8f63366e79": {
     "first_seen": "2026-05-13",
@@ -3764,6 +3909,11 @@
     "link": "https://blog.google/products-and-platforms/products/search/gardening-tips",
     "title": "5 gardening tips you can try right in Search"
   },
+  "92c43beae9": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/hpe-greenlake-agentic-hybrid-ops",
+    "title": "Why agentic AI makes the ops platform the most important layer in the enterprise"
+  },
   "9320532efd": {
     "first_seen": "2026-06-01",
     "link": "https://openai.com/index/stargate-michigan-data-center",
@@ -3824,6 +3974,11 @@
     "link": "https://blog.dailydoseofds.com/p/hermes-agent-masterclass",
     "title": "Hermes Agent Masterclass"
   },
+  "9640c3f28f": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen"
+  },
   "96489415e0": {
     "first_seen": "2026-06-01",
     "link": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-272",
@@ -3874,6 +4029,11 @@
     "link": "https://www.infoq.com/news/2026/06/google-workspace-cli",
     "title": "Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents"
   },
+  "97e7f1f1a5": {
+    "first_seen": "2026-06-04",
+    "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare",
+    "title": "VoidZero is joining Cloudflare"
+  },
   "982c2345e7": {
     "first_seen": "2026-05-25",
     "link": "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it",
@@ -3883,6 +4043,11 @@
     "first_seen": "2026-05-28",
     "link": "https://arxiv.org/abs/2605.27567",
     "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape"
+  },
+  "98566984a1": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.oreilly.com/radar/predict-dont-enumerate",
+    "title": "Predict, Don\u2019t Enumerate"
   },
   "9858fc15a0": {
     "first_seen": "2026-05-19",
@@ -3903,6 +4068,16 @@
     "first_seen": "2026-05-13",
     "link": "https://thenewstack.io/red-hat-agentic-skills-repository",
     "title": "Red Hat\u2019s skill packs give AI agents something a bigger model never could: 20 years of institutional memory"
+  },
+  "9881125ecf": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.kdnuggets.com/7-steps-to-mastering-time-series-analysis-with-python",
+    "title": "7 Steps to Mastering Time Series Analysis with Python"
+  },
+  "9881ca39af": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04244",
+    "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark"
   },
   "98fe4041f7": {
     "first_seen": "2026-05-08",
@@ -4118,6 +4293,11 @@
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/bun-developers-complaints-anthropic",
     "title": "\u201cReal maturity problems\u201d: Not every developer is thrilled with Bun after Anthropic acquisition"
+  },
+  "a0bbc80e1e": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04315",
+    "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline"
   },
   "a0da2ddc94": {
     "first_seen": "2026-06-03",
@@ -4379,6 +4559,11 @@
     "link": "https://arxiv.org/abs/2605.28902",
     "title": "Orthogonal Concept Erasure for Diffusion Models"
   },
+  "a9b47a09b1": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/dba-role-kubernetes-autonomous-databases",
+    "title": "Why the need for humans won\u2019t disappear in the age of autonomous databases"
+  },
   "a9bd229b2d": {
     "first_seen": "2026-05-06",
     "link": "https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection",
@@ -4623,6 +4808,11 @@
     "first_seen": "2026-05-09",
     "link": "https://www.infoq.com/news/2026/05/aurora-serverless-v4",
     "title": "AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput"
+  },
+  "b3bffdf747": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04391",
+    "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval"
   },
   "b3da54e688": {
     "first_seen": "2026-05-29",
@@ -4884,6 +5074,11 @@
     "link": "https://www.infoq.com/news/2026/05/cloudflare-security-dashboard",
     "title": "Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard"
   },
+  "be2f7930a9": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04037",
+    "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification"
+  },
   "be99d2e36b": {
     "first_seen": "2026-05-15",
     "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
@@ -4938,6 +5133,11 @@
     "first_seen": "2026-06-02",
     "link": "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent",
     "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent"
+  },
+  "c11897e0a6": {
+    "first_seen": "2026-06-04",
+    "link": "https://openai.com/index/endava-frontiers",
+    "title": "How Endava is redesigning software delivery around AI agents"
   },
   "c13694245a": {
     "first_seen": "2026-06-03",
@@ -5319,6 +5519,11 @@
     "link": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office",
     "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint"
   },
+  "d3c4f494d1": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/ai-agents-database-challenge",
+    "title": "Autonomous agents have met their biggest challenge yet: The database."
+  },
   "d3d3106113": {
     "first_seen": "2026-05-06",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
@@ -5428,6 +5633,11 @@
     "first_seen": "2026-05-12",
     "link": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
     "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD"
+  },
+  "d88e8e818b": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.oreilly.com/radar/the-tidy-house",
+    "title": "The Tidy House"
   },
   "d8d1c0e13e": {
     "first_seen": "2026-05-27",
@@ -5564,6 +5774,11 @@
     "link": "https://www.oreilly.com/radar/who-authorized-that-the-delegation-problem-in-multi-agent-ai",
     "title": "Who Authorized That? The Delegation Problem in Multi-Agent AI"
   },
+  "e10b190f58": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/cursor-pricing-token-billing",
+    "title": "Cursor cuts prices and adds enterprise spend controls amid \u201ctokenomics\u201d reckoning"
+  },
   "e1283a753d": {
     "first_seen": "2026-05-13",
     "link": "https://landing.ai/llms/automating-insurance-claims-intake-document-processing",
@@ -5608,6 +5823,11 @@
     "first_seen": "2026-05-26",
     "link": "https://www.infoq.com/news/2026/05/tamboui-java-tui",
     "title": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java"
+  },
+  "e281b47125": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/nvidias-best-model-is-now-live",
+    "title": "Nvidia\u2019s best model is now live"
   },
   "e2afe0b746": {
     "first_seen": "2026-06-03",
@@ -5914,6 +6134,11 @@
     "link": "https://www.infoq.com/news/2026/05/code-with-claude",
     "title": "Anthropic's Code With Claude Announces  Managed Agents, Proactive Workflows, Capability Curve"
   },
+  "ed97db196b": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.infoq.com/news/2026/06/data-driven-platform-engineering",
+    "title": "How a Culture of Data-Driven Conversations Can Support Platform Engineering"
+  },
   "edc2888b03": {
     "first_seen": "2026-05-22",
     "link": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
@@ -5923,6 +6148,11 @@
     "first_seen": "2026-05-15",
     "link": "https://www.oreilly.com/radar/agent-harness-engineering",
     "title": "Agent Harness Engineering"
+  },
+  "ee0cf4e9e2": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.cncf.io/blog/2026/06/03/inspektor-gadget-results-from-the-first-security-audit",
+    "title": "Inspektor Gadget: Results from the first security audit"
   },
   "ee21b04d79": {
     "first_seen": "2026-05-13",
@@ -5934,10 +6164,20 @@
     "link": "https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design",
     "title": "EP214: Claude Code vs. OpenClaw: 5 Design Dimensions"
   },
+  "ef447e9aa8": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04152",
+    "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research"
+  },
   "ef65de1f1b": {
     "first_seen": "2026-05-19",
     "link": "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos",
     "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS"
+  },
+  "efabc882b7": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.infoq.com/news/2026/06/nextjs-6-2",
+    "title": "Next.js 16.2: 400% Faster Dev Startup, Faster Rendering, and Deeper Tooling for AI Agents"
   },
   "efb43f411d": {
     "first_seen": "2026-05-25",
@@ -5979,6 +6219,11 @@
     "link": "https://arxiv.org/abs/2605.11330",
     "title": "Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights"
   },
+  "f13da3436e": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04261",
+    "title": "Can Generalist Agents Automate Data Curation?"
+  },
   "f16bf1adc2": {
     "first_seen": "2026-05-13",
     "link": "https://thenewstack.io/agent-harness-distributed-feedback-problem",
@@ -5998,6 +6243,11 @@
     "first_seen": "2026-06-01",
     "link": "https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability",
     "title": "BadHost Vulnerability Exposes AI Agents, Evaluators, and LLM Gateways"
+  },
+  "f2e1471927": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.stepsecurity.io/blog/binding-gyp-npm-supply-chain-attack-spreads-like-worm",
+    "title": "Miasma npm Supply Chain Attack: Self-Spreading Worm via Phantom Gyp"
   },
   "f2e6c99b7a": {
     "first_seen": "2026-05-12",
@@ -6044,6 +6294,16 @@
     "link": "https://simonwillison.net/2026/May/24/datasette-agent",
     "title": "datasette-agent 0.1a4"
   },
+  "f432e2cec8": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.infoq.com/news/2026/06/uber-payment-batching-system",
+    "title": "30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching"
+  },
+  "f48522a2be": {
+    "first_seen": "2026-06-04",
+    "link": "https://openai.com/index/wasmer",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge"
+  },
   "f4b4241e18": {
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/palo-alto-portkey-ai-gateway",
@@ -6084,6 +6344,11 @@
     "link": "https://thenewstack.io/docusign-mcp-agentic-agreements",
     "title": "Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign\u2019s MCP server and platform"
   },
+  "f685ffa1f8": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.latent.space/p/andon",
+    "title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs"
+  },
   "f6a0a34490": {
     "first_seen": "2026-05-25",
     "link": "https://www.infoq.com/news/2026/05/node-js-file-system",
@@ -6103,6 +6368,11 @@
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01100",
     "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion"
+  },
+  "f7a88b9330": {
+    "first_seen": "2026-06-04",
+    "link": "https://arxiv.org/abs/2606.04223",
+    "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal"
   },
   "f7cbe9edf5": {
     "first_seen": "2026-05-21",
@@ -6139,6 +6409,11 @@
     "link": "https://thenewstack.io/anthropic-mcp-tunnels-sandboxes",
     "title": "Anthropic debuts MCP tunnels and self-hosted sandboxes to lock down AI agent infrastructure"
   },
+  "f8af98d4f2": {
+    "first_seen": "2026-06-04",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage",
+    "title": "4 Critical Threats Where Attackers Have the Advantage"
+  },
   "f8da5bedfd": {
     "first_seen": "2026-06-03",
     "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
@@ -6163,6 +6438,11 @@
     "first_seen": "2026-05-22",
     "link": "https://arxiv.org/abs/2605.20520",
     "title": "Open-World Evaluations for Measuring Frontier AI Capabilities"
+  },
+  "f99aac70f6": {
+    "first_seen": "2026-06-04",
+    "link": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version",
+    "title": "Quoting Emanuel Maiberg, 404 Media"
   },
   "f9d3ea61ba": {
     "first_seen": "2026-05-31",
@@ -6198,6 +6478,11 @@
     "first_seen": "2026-05-20",
     "link": "https://blog.bytebytego.com/p/how-netflix-is-using-multimodal-ai",
     "title": "How Netflix is Using Multimodal AI to Power Video Search"
+  },
+  "faaecba22a": {
+    "first_seen": "2026-06-04",
+    "link": "https://thenewstack.io/google-gemma-local-ai",
+    "title": "Google Gemma 4 12B nearly matches 26B benchmarks \u2014 and runs on your laptop"
   },
   "fab194c321": {
     "first_seen": "2026-05-13",
