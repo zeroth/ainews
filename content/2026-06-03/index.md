@@ -1,24 +1,15 @@
 ---
 date: 2026-06-03
 title: Daily Bulletin — Wednesday, June 3, 2026
-article_count: 2
-fetched_at: 2026-06-04T21:33:51+00:00
+article_count: 1
+fetched_at: 2026-06-05T21:32:04+00:00
 ---
 
-## AI Labs
+## Software Architecture
 
-### [How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer)
-*OpenAI Blog*
+### [Inside Google’s System for Coordinated A/B Testing across its Global Service Fleet](https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation)
+*InfoQ*
 
-See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
-
----
-
-## AI Infrastructure
-
-### [Inspektor Gadget: Results from the first security audit](https://www.cncf.io/blog/2026/06/03/inspektor-gadget-results-from-the-first-security-audit)
-*CNCF Blog*
-
-Inspektor Gadget, the open source eBPF-based toolkit for Kubernetes observability and Linux host inspection, has completed its first independent security audit. The audit was coordinated by the Open Source Technology Improvement Fund (OSTIF), funded by the...
+Google has shared details of its fleet wide large scale A/B experimentation system designed to standardize experiment assignment, exposure logging, and configuration propagation across distributed services. The approach enables consistent measurement across products, reduces experiment conflicts,...
 
 ---
