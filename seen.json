@@ -59,6 +59,11 @@
     "link": "https://www.infoq.com/news/2026/05/anthropic-claude-aws",
     "title": "Anthropic Launches Claude Platform on AWS"
   },
+  "01613a153b": {
+    "first_seen": "2026-06-06",
+    "link": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "title": "[AINews] not much happened today"
+  },
   "01980e3783": {
     "first_seen": "2026-05-07",
     "link": "https://www.kdnuggets.com/building-modern-eda-pipelines-with-pingouin",
@@ -164,6 +169,11 @@
     "link": "https://thenewstack.io/mate-security-inference-economics",
     "title": "Mate Security\u2019s Asaf Wiener made every backend engineer a model router. He\u2019s right to."
   },
+  "052bd03d57": {
+    "first_seen": "2026-06-06",
+    "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox",
+    "title": "Running Python code in a sandbox with MicroPython and WASM"
+  },
   "0554aa0354": {
     "first_seen": "2026-06-05",
     "link": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
@@ -198,6 +208,11 @@
     "first_seen": "2026-05-13",
     "link": "https://landing.ai/llms/contract-data-extraction-for-enterprise-legal-teams",
     "title": "Contract Data Extraction for Enterprise Legal Teams"
+  },
+  "06a02ba255": {
+    "first_seen": "2026-06-06",
+    "link": "https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck",
+    "title": "Cloudflare Identifies Query Planning Bottleneck in ClickHouse"
   },
   "06d351be8e": {
     "first_seen": "2026-06-03",
@@ -1073,6 +1088,11 @@
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.19035",
     "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On"
+  },
+  "288befcfa3": {
+    "first_seen": "2026-06-06",
+    "link": "https://thenewstack.io/netlify-agent-experience-engineers",
+    "title": "Netlify CTO Dana Lawson: Writing code is no longer the job"
   },
   "28fbc00d0a": {
     "first_seen": "2026-05-22",
@@ -2469,6 +2489,11 @@
     "link": "https://arxiv.org/abs/2605.15217",
     "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions"
   },
+  "5b346c992c": {
+    "first_seen": "2026-06-06",
+    "link": "https://simonwillison.net/2026/Jun/6/micropython-wasm",
+    "title": "micropython-wasm 0.1a2"
+  },
   "5b3d02f410": {
     "first_seen": "2026-06-02",
     "link": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
@@ -2819,6 +2844,11 @@
     "link": "https://arxiv.org/abs/2605.19156",
     "title": "How Far Are We From True Auto-Research?"
   },
+  "67c378c43d": {
+    "first_seen": "2026-06-06",
+    "link": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode",
+    "title": "OpenAI Help: Lockdown Mode"
+  },
   "684537a6c6": {
     "first_seen": "2026-05-29",
     "link": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
@@ -3028,6 +3058,11 @@
     "first_seen": "2026-05-14",
     "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance",
     "title": "From latency to instant: Modernizing GitHub Issues navigation performance"
+  },
+  "6fcb6554b4": {
+    "first_seen": "2026-06-06",
+    "link": "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents",
+    "title": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents"
   },
   "6fffeb5362": {
     "first_seen": "2026-05-26",
@@ -4459,6 +4494,11 @@
     "link": "https://thenewstack.io/why-cpus-still-matter-in-the-age-of-ai-agents",
     "title": "Why CPUs still matter in the age of AI agents"
   },
+  "a0fa600a8c": {
+    "first_seen": "2026-06-06",
+    "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+    "title": "LLM Research Papers: The 2026 List (January to May)"
+  },
   "a11bb4f781": {
     "first_seen": "2026-05-06",
     "link": "https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm",
@@ -4663,6 +4703,11 @@
     "first_seen": "2026-05-16",
     "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "title": "How data science teams use Codex"
+  },
+  "a88bdf7b9f": {
+    "first_seen": "2026-06-06",
+    "link": "https://thenewstack.io/openclaw-cohens-ai-agent-accountability-problem",
+    "title": "OpenClaw used Gavriel Cohen\u2019s code and exposed the AI Agent accountability problem"
   },
   "a88f769934": {
     "first_seen": "2026-05-25",
@@ -5123,6 +5168,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform",
     "title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems"
+  },
+  "b82a37ca4f": {
+    "first_seen": "2026-06-06",
+    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models"
   },
   "b82d045365": {
     "first_seen": "2026-05-06",
@@ -5929,6 +5979,11 @@
     "link": "https://thenewstack.io/ci-for-coding-agents",
     "title": "CI wasn\u2019t built for coding agents. Here\u2019s what comes next."
   },
+  "df1a85ffc1": {
+    "first_seen": "2026-06-06",
+    "link": "https://thenewstack.io/snowflake-coco-agentic-enterprise",
+    "title": "\u201cWhoever builds the most joyous product wins\u201d: The agent war begins"
+  },
   "df8efd1f2f": {
     "first_seen": "2026-05-28",
     "link": "https://arxiv.org/abs/2605.27584",
@@ -5948,6 +6003,11 @@
     "first_seen": "2026-05-16",
     "link": "https://arxiv.org/abs/2605.13849",
     "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity"
+  },
+  "e022abf92f": {
+    "first_seen": "2026-06-06",
+    "link": "https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth",
+    "title": "EP217: Latency vs Throughput vs Bandwidth"
   },
   "e0831cad1a": {
     "first_seen": "2026-06-02",
@@ -6618,6 +6678,11 @@
     "first_seen": "2026-06-03",
     "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
     "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen"
+  },
+  "f90b17bba8": {
+    "first_seen": "2026-06-06",
+    "link": "https://thenewstack.io/notebook-to-production-ai",
+    "title": "From Jupyter Notebook to production: How to ship AI systems that actually work"
   },
   "f9265f7f8d": {
     "first_seen": "2026-05-20",
