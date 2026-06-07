@@ -1124,6 +1124,11 @@
     "link": "https://www.kdnuggets.com/anonymizing-production-data-for-data-science-with-mimesis",
     "title": "Anonymizing Production Data for Data Science with Mimesis"
   },
+  "29c2013af9": {
+    "first_seen": "2026-06-07",
+    "link": "https://blog.dailydoseofds.com/p/reinforce-and-actor-critic-methods",
+    "title": "REINFORCE and Actor-critic Methods in RL"
+  },
   "29d5de8820": {
     "first_seen": "2026-05-29",
     "link": "https://arxiv.org/abs/2605.28978",
@@ -1753,6 +1758,11 @@
     "first_seen": "2026-05-14",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
     "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine"
+  },
+  "40bb98d9ee": {
+    "first_seen": "2026-06-07",
+    "link": "https://www.infoq.com/news/2026/06/typeorm-1-released",
+    "title": "TypeORM Reaches 1.0 after Nearly a Decade, Signalling Renewed Maintenance"
   },
   "413b687a9f": {
     "first_seen": "2026-06-03",
@@ -2524,6 +2534,11 @@
     "link": "https://simonwillison.net/2026/May/24/usborne-mad-house",
     "title": "Mad House \u2014 Usborne Creepy Computer Games"
   },
+  "5c94c8b861": {
+    "first_seen": "2026-06-07",
+    "link": "https://www.infoq.com/articles/secure-ai-stack-model-production-series",
+    "title": "Article Series: Securing the AI Stack: from Model to Production"
+  },
   "5cf7ec67a5": {
     "first_seen": "2026-05-20",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
@@ -3013,6 +3028,11 @@
     "first_seen": "2026-06-03",
     "link": "https://arxiv.org/abs/2606.02791",
     "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins"
+  },
+  "6e4c33a2c8": {
+    "first_seen": "2026-06-07",
+    "link": "https://thenewstack.io/ai-deployment-pipeline-velocity",
+    "title": "AI teams now deploy 1,000 times a month. Your pipeline wasn\u2019t built for that."
   },
   "6e84e65d39": {
     "first_seen": "2026-05-27",
@@ -3958,6 +3978,11 @@
     "first_seen": "2026-05-25",
     "link": "https://www.infoq.com/articles/schema-proliferation-problem",
     "title": "Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It"
+  },
+  "8e4e843840": {
+    "first_seen": "2026-06-07",
+    "link": "https://www.infoq.com/news/2026/06/google-litertlm-gemma4",
+    "title": "Google LiteRT-LM Speeds up Local Inference up to 2.2x with Gemma 4 Multi-Token Prediction"
   },
   "8e997a71ed": {
     "first_seen": "2026-05-13",
@@ -5254,6 +5279,11 @@
     "link": "https://www.kdnuggets.com/7-everyday-distributions-explained-simply",
     "title": "7 Everyday Distributions Explained Simply"
   },
+  "bbcc6da9ec": {
+    "first_seen": "2026-06-07",
+    "link": "https://thenewstack.io/microsoft-scout-openclaw-runtime",
+    "title": "Microsoft just made the agent runtime free \u2014 and kept everything around it"
+  },
   "bbdcf5ba53": {
     "first_seen": "2026-06-02",
     "link": "https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai",
@@ -5529,6 +5559,11 @@
     "link": "https://arxiv.org/abs/2605.30512",
     "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language"
   },
+  "c627c46881": {
+    "first_seen": "2026-06-07",
+    "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+    "title": "Amazing Digital Dentures (a failed project)"
+  },
   "c654f4c68c": {
     "first_seen": "2026-06-02",
     "link": "https://arxiv.org/abs/2606.00240",
@@ -5538,6 +5573,11 @@
     "first_seen": "2026-06-03",
     "link": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython",
     "title": "datasette-agent-micropython 0.1a0"
+  },
+  "c7c25ad0b8": {
+    "first_seen": "2026-06-07",
+    "link": "https://www.infoq.com/presentations/ai-multi-agentic-tools",
+    "title": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin"
   },
   "c8758917e7": {
     "first_seen": "2026-05-14",
@@ -6568,6 +6608,11 @@
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/palo-alto-portkey-ai-gateway",
     "title": "Palo Alto Networks makes a $700M-class AI bet on Portkey gateway"
+  },
+  "f4f4e573b6": {
+    "first_seen": "2026-06-07",
+    "link": "https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter",
+    "title": "ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends"
   },
   "f4f8b3e7fa": {
     "first_seen": "2026-05-06",
