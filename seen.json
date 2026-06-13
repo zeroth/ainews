@@ -214,6 +214,11 @@
     "link": "https://huggingface.co/blog/Hcompany/holo31",
     "title": "Holo3.1: Fast & Local Computer Use Agents"
   },
+  "058fd725d3": {
+    "first_seen": "2026-06-13",
+    "link": "https://blog.dailydoseofds.com/p/schema-guided-agent-memory-for-production",
+    "title": "Schema Guided Agent Memory for Production Agents"
+  },
   "0611acfe19": {
     "first_seen": "2026-05-31",
     "link": "https://thenewstack.io/diy-platform-burnout-trap",
@@ -693,6 +698,11 @@
     "first_seen": "2026-05-26",
     "link": "https://adversa.ai/blog/the-approval-prompt-is-lying-to-you-symlink-rce-in-five-ai-coding-agents-claude-code-cursor-antigravity-copilot-grok-build",
     "title": "SymJack: the approval prompt is lying to you. A symlink-hijack RCE in five AI coding agents"
+  },
+  "16bb3151e4": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/claude-fable-cost-model-triage",
+    "title": "Claude Fable cost $9 in one coding test. GPT-5.5 cost $1.50. Model triage is the new AI skill."
   },
   "16c107be60": {
     "first_seen": "2026-05-06",
@@ -1203,6 +1213,11 @@
     "first_seen": "2026-05-09",
     "link": "https://arxiv.org/abs/2605.05410",
     "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework"
+  },
+  "26176cc799": {
+    "first_seen": "2026-06-13",
+    "link": "https://www.stepsecurity.io/blog/400-aur-packages-hijacked-atomic-arch-campaign",
+    "title": "400+ AUR Packages Hijacked: What the \u201cAtomic Arch\u201d Campaign Means for Supply-Chain Security"
   },
   "26301dbdc4": {
     "first_seen": "2026-05-06",
@@ -2389,6 +2404,11 @@
     "link": "https://www.infoq.com/articles/architecting-cloud-native-kafka",
     "title": "Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future"
   },
+  "467b52d617": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/fable-5-opus-comparison",
+    "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet"
+  },
   "467fc68201": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01130",
@@ -3424,6 +3444,11 @@
     "link": "https://arxiv.org/abs/2605.08374",
     "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs"
   },
+  "66d6f70e80": {
+    "first_seen": "2026-06-13",
+    "link": "https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack",
+    "title": "EP218: The Typical AI Agent Stack, Explained"
+  },
   "66f9d05109": {
     "first_seen": "2026-05-20",
     "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
@@ -4109,6 +4134,11 @@
     "link": "https://arxiv.org/abs/2605.12835",
     "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models"
   },
+  "7b62d1d87e": {
+    "first_seen": "2026-06-13",
+    "link": "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome",
+    "title": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)"
+  },
   "7b8b28d076": {
     "first_seen": "2026-05-19",
     "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
@@ -4654,6 +4684,11 @@
     "link": "https://thenewstack.io/agentic-analytics-cost-squeeze",
     "title": "Fivetran\u2019s CPO: Closed data stacks won\u2019t survive the agent era"
   },
+  "8b99142f9e": {
+    "first_seen": "2026-06-13",
+    "link": "https://simonwillison.net/2026/Jun/12/openai-webrtc",
+    "title": "OpenAI WebRTC Audio Session, now with document context"
+  },
   "8ba6a0034c": {
     "first_seen": "2026-06-09",
     "link": "https://arxiv.org/abs/2606.07721",
@@ -4678,6 +4713,11 @@
     "first_seen": "2026-06-04",
     "link": "https://openai.com/index/chatgpt-memory-dreaming",
     "title": "Dreaming: Better memory for a more helpful ChatGPT"
+  },
+  "8c8429a8fc": {
+    "first_seen": "2026-06-13",
+    "link": "https://www.infoq.com/news/2026/06/terraform-mcp-server-ga",
+    "title": "Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure"
   },
   "8caef3dd23": {
     "first_seen": "2026-05-06",
@@ -4768,6 +4808,11 @@
     "first_seen": "2026-05-13",
     "link": "https://blog.logrocket.com/launchpod-how-ai-helped-me-ship-9-months-product-5-days-sriram-iyer",
     "title": "LaunchPod: How AI Helped Me Ship 9 Months of Product in 5 Days"
+  },
+  "8fb23c47ef": {
+    "first_seen": "2026-06-13",
+    "link": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
   },
   "8fb547851e": {
     "first_seen": "2026-06-02",
@@ -5154,6 +5199,11 @@
     "link": "https://arxiv.org/abs/2605.26256",
     "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions"
   },
+  "9aa912e6ac": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/agent-loops-cloud-native-verification",
+    "title": "Loops are replacing prompts. Verification is about to be your biggest problem."
+  },
   "9af9a3d98d": {
     "first_seen": "2026-05-11",
     "link": "https://www.infoq.com/presentations/streaming-application-aws-infrastructure",
@@ -5254,6 +5304,11 @@
     "link": "https://thenewstack.io/jfrog-ai-supply-chain-security",
     "title": "JFrog report recaps a tumultuous year in supply chain security"
   },
+  "9e04745cc9": {
+    "first_seen": "2026-06-13",
+    "link": "https://www.infoq.com/news/2026/06/cdk-mixins-aws",
+    "title": "AWS Introduces CDK Mixins for Composable Infrastructure Abstractions"
+  },
   "9e434e6ffe": {
     "first_seen": "2026-05-21",
     "link": "https://simonwillison.net/2026/May/20/datasette-agent-charts",
@@ -5333,6 +5388,11 @@
     "first_seen": "2026-05-13",
     "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
     "title": "Attackers Weaponize RubyGems for Data Dead Drops"
+  },
+  "a07cd3ec41": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/us-gov-orders-anthropic-to-pull-fable-5-and-mythos-5-three-days-after-launch",
+    "title": "Federal government orders Anthropic to pull Fable 5 and Mythos 5, three days after launch"
   },
   "a0855a6242": {
     "first_seen": "2026-05-06",
@@ -6229,6 +6289,11 @@
     "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
     "title": "Checkbox Assessments Aren't Fit to Measure Risk"
   },
+  "bc0616ab5c": {
+    "first_seen": "2026-06-13",
+    "link": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "title": "[AINews] Fable and Mythos officially too dangerous to release"
+  },
   "bc2c5ab8f6": {
     "first_seen": "2026-06-03",
     "link": "https://arxiv.org/abs/2606.02965",
@@ -6549,6 +6614,11 @@
     "link": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython",
     "title": "datasette-agent-micropython 0.1a0"
   },
+  "c762f35a47": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/fable-5-and-mythos-5-remain-suspended-the-ball-is-in-anthropics-court",
+    "title": "Fable 5 and Mythos 5 remain suspended: \u201cThe ball is in Anthropic\u2019s court\u201d"
+  },
   "c7c25ad0b8": {
     "first_seen": "2026-06-07",
     "link": "https://www.infoq.com/presentations/ai-multi-agentic-tools",
@@ -6748,6 +6818,11 @@
     "first_seen": "2026-05-19",
     "link": "https://thenewstack.io/steve-yegges-ai-agent-orchestration-project-gas-town-comes-to-the-cloud-and-brings-the-wasteland-with-it",
     "title": "Steve Yegge\u2019s AI agent orchestration project Gas Town comes to the cloud \u2014 and brings the Wasteland with it"
+  },
+  "cf2b01a753": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/jetbrains-course-creators-program",
+    "title": "Can JetBrains close the IDE skills gap before AI widens it further?"
   },
   "cf4331b21b": {
     "first_seen": "2026-06-03",
@@ -7493,6 +7568,11 @@
     "first_seen": "2026-06-03",
     "link": "https://arxiv.org/abs/2606.02835",
     "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models"
+  },
+  "e9d7addf21": {
+    "first_seen": "2026-06-13",
+    "link": "https://thenewstack.io/tensors-beyond-vector-search",
+    "title": "Why AI retrieval and ranking need more than vector search"
   },
   "e9da6eed7e": {
     "first_seen": "2026-05-21",
