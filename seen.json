@@ -349,6 +349,11 @@
     "link": "https://blog.dailydoseofds.com/p/agent-memory-is-only-as-good-as-its",
     "title": "Agent Memory Is Only as Good as Its Schema"
   },
+  "09f3c74911": {
+    "first_seen": "2026-06-14",
+    "link": "https://thenewstack.io/coding-agent-endurance-gap",
+    "title": "Xiaomi\u2019s MiMo Code claims it beats Claude Code past 200 steps"
+  },
   "0a096aa066": {
     "first_seen": "2026-05-10",
     "link": "https://www.infoq.com/news/2026/05/mysql-97-lts",
@@ -554,6 +559,11 @@
     "link": "https://blog.dailydoseofds.com/p/hands-on-building-custom-tools-for",
     "title": "[Hands-on] \u200bBuilding Custom Tools for AI Agents\u200b"
   },
+  "11bf0fbabb": {
+    "first_seen": "2026-06-14",
+    "link": "https://simonwillison.net/2026/Jun/13/luau-wasm",
+    "title": "luau-wasm 0.1a0"
+  },
   "11cacdca6d": {
     "first_seen": "2026-06-09",
     "link": "https://arxiv.org/abs/2606.07808",
@@ -738,6 +748,11 @@
     "first_seen": "2026-05-19",
     "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates",
     "title": "New ways to create and get things done in Google Workspace"
+  },
+  "18143072b9": {
+    "first_seen": "2026-06-14",
+    "link": "https://www.infoq.com/news/2026/06/elasticache-valkey-durability",
+    "title": "AWS Introduces Durable Storage Option for ElastiCache for Valkey"
   },
   "1835c0d1e7": {
     "first_seen": "2026-05-08",
@@ -2083,6 +2098,11 @@
     "first_seen": "2026-05-18",
     "link": "https://arxiv.org/abs/2605.15227",
     "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol"
+  },
+  "3e59128299": {
+    "first_seen": "2026-06-14",
+    "link": "https://thenewstack.io/audit-trails-revenue-asset",
+    "title": "What your logs can\u2019t tell you when an AI agent acts alone"
   },
   "3eada622cc": {
     "first_seen": "2026-05-14",
@@ -4364,6 +4384,11 @@
     "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
     "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed"
   },
+  "81bce0c721": {
+    "first_seen": "2026-06-14",
+    "link": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels",
+    "title": "Publishing WASM wheels to PyPI for use with Pyodide"
+  },
   "81f149188e": {
     "first_seen": "2026-06-02",
     "link": "https://arxiv.org/abs/2606.00052",
@@ -5604,6 +5629,11 @@
     "link": "https://thenewstack.io/cimento-human-risk-ai",
     "title": "Cimento emerges from stealth to secure the one thing no firewall can protect"
   },
+  "a672c8cd88": {
+    "first_seen": "2026-06-14",
+    "link": "https://blog.dailydoseofds.com/p/proximal-policy-optimization-in-rl",
+    "title": "Proximal Policy Optimization in RL"
+  },
   "a6b5f092c8": {
     "first_seen": "2026-05-07",
     "link": "https://arxiv.org/abs/2605.04169",
@@ -5999,6 +6029,11 @@
     "link": "https://arxiv.org/abs/2605.23929",
     "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs"
   },
+  "b21538bed0": {
+    "first_seen": "2026-06-14",
+    "link": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance",
+    "title": "Mapping SQLite result columns back to their source `table.column`"
+  },
   "b280543acd": {
     "first_seen": "2026-05-13",
     "link": "https://arxiv.org/abs/2605.11225",
@@ -6363,6 +6398,11 @@
     "first_seen": "2026-06-11",
     "link": "https://thenewstack.io/beyond-the-stack-trace",
     "title": "Beyond the stack trace: why AI requires a new debugging paradigm"
+  },
+  "beff234c0c": {
+    "first_seen": "2026-06-14",
+    "link": "https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web",
+    "title": "Stop Monitoring AI Systems Like Web Services"
   },
   "bf0cc00293": {
     "first_seen": "2026-05-27",
@@ -7703,6 +7743,11 @@
     "first_seen": "2026-05-12",
     "link": "https://openai.com/signals/research/2026q1-update",
     "title": "How ChatGPT adoption broadened in early 2026"
+  },
+  "ed3414ed45": {
+    "first_seen": "2026-06-14",
+    "link": "https://thenewstack.io/ai-incident-management-harness",
+    "title": "PagerDuty\u2019s CAIO says most AI incident tools are missing a critical layer"
   },
   "ed8666ae2b": {
     "first_seen": "2026-05-30",
