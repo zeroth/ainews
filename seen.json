@@ -434,6 +434,11 @@
     "link": "https://openai.com/index/braintrust",
     "title": "How Braintrust turns customer requests into code with Codex"
   },
+  "0cbf44dd32": {
+    "first_seen": "2026-06-15",
+    "link": "https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub",
+    "title": "Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub"
+  },
   "0d160aa293": {
     "first_seen": "2026-05-11",
     "link": "https://www.infoq.com/news/2026/05/netflix-druid-interval-cache",
@@ -6544,6 +6549,11 @@
     "link": "https://thenewstack.io/lanai-token-tuner-tokenmaxxing",
     "title": "\u201cTokenmaxxing is real, expensive & it\u2019s spreading\u201d: New tools emerge to stop AI budgets from exploding"
   },
+  "bf147cdc70": {
+    "first_seen": "2026-06-15",
+    "link": "https://www.infoq.com/news/2026/06/claude-code-harnesses",
+    "title": "Anthropic Explains How Claude Builds Its Own Execution Harnesses"
+  },
   "bf244391dd": {
     "first_seen": "2026-05-23",
     "link": "https://arxiv.org/abs/2605.21630",
@@ -6553,6 +6563,11 @@
     "first_seen": "2026-05-07",
     "link": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
     "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized"
+  },
+  "bf3b9016a4": {
+    "first_seen": "2026-06-15",
+    "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
+    "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft"
   },
   "bf4a803263": {
     "first_seen": "2026-05-20",

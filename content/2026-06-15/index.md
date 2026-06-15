@@ -1,8 +1,8 @@
 ---
 date: 2026-06-15
 title: Daily Bulletin — Monday, June 15, 2026
-article_count: 44
-fetched_at: 2026-06-15T21:01:16+00:00
+article_count: 47
+fetched_at: 2026-06-15T21:52:03+00:00
 ---
 
 ## Security
@@ -32,6 +32,13 @@ Executive leaders may not be saying it aloud, but business objectives and priori
 *Dark Reading*
 
 Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.
+
+---
+
+### [Copilot 'SearchLeak' Attack Allows 1-Click Data Theft](https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft)
+*Dark Reading*
+
+The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.
 
 ---
 
@@ -321,6 +328,20 @@ I just released something.
 *The New Stack*
 
 The&#160;Anthropic-Mythos-Fable story&#160;has been The Topic since Friday, and it moved fast enough to lose anyone who blinked. Here&#8217;s my opinionated The post The Anthropic Fable mess, explained appeared first on The New Stack.
+
+---
+
+### [Anthropic Explains How Claude Builds Its Own Execution Harnesses](https://www.infoq.com/news/2026/06/claude-code-harnesses)
+*InfoQ*
+
+Anthropic has published additional details about the orchestration system behind Claude Code's recently introduced Dynamic Workflows, highlighting how the feature generates custom execution harnesses designed to coordinate teams of AI agents for complex tasks. By Robert Krzaczyński
+
+---
+
+### [Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub](https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub)
+*InfoQ*
+
+At WWDC 2026, Apple introduced Xcode 27, which makes it easy to kick off tasks with coding agents, iterate on new project ideas, and customize the workspace. It also introduces DeviceHub for unified simulator and device management, along with enhancements to Organizer and Instruments, among many...
 
 ---
 
