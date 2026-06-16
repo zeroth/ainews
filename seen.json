@@ -114,6 +114,11 @@
     "link": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
     "title": "How CISOs Should Prep for Agentic-Ready AI BOMs"
   },
+  "030c5f9ded": {
+    "first_seen": "2026-06-16",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
+    "title": "Security Community Slams US Ban on Exporting Mythos, Fable"
+  },
   "0341db2de5": {
     "first_seen": "2026-05-10",
     "link": "https://thenewstack.io/cncf-projects-integration-production",
@@ -3404,6 +3409,11 @@
     "link": "https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition",
     "title": "Mumbai Maha Mahotsav \u2013 KubeCon + CloudNativeCon India edition"
   },
+  "61c118f064": {
+    "first_seen": "2026-06-16",
+    "link": "https://www.stepsecurity.io/blog/prevent-npm-and-python-supply-chain-attacks-on-developer-machines-with-package-configs",
+    "title": "Prevent npm and Python Supply Chain Attacks on Developer Machines with Package Configs"
+  },
   "620c5ba673": {
     "first_seen": "2026-05-29",
     "link": "https://thenewstack.io/eu-cyber-resilience-act",
@@ -5474,6 +5484,11 @@
     "link": "https://www.infoq.com/news/2026/05/pullfrog-ai-github",
     "title": "Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions"
   },
+  "9bed2527b4": {
+    "first_seen": "2026-06-16",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
+    "title": "Fileless Phantom Stealer Targets Browser Credentials"
+  },
   "9bf9a467d2": {
     "first_seen": "2026-05-28",
     "link": "https://thenewstack.io/lanai-token-tuner-tokenmaxxing",
@@ -6553,6 +6568,11 @@
     "first_seen": "2026-05-06",
     "link": "https://simonwillison.net/2026/May/4/andy-masley",
     "title": "Quoting Andy Masley"
+  },
+  "b9d60851e6": {
+    "first_seen": "2026-06-16",
+    "link": "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents",
+    "title": "Databricks wants to merge the two databases every company runs"
   },
   "b9eb82f818": {
     "first_seen": "2026-05-12",
@@ -8218,6 +8238,11 @@
     "first_seen": "2026-05-25",
     "link": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-271",
     "title": "Data Engineering Weekly #271"
+  },
+  "eff5aa3bbd": {
+    "first_seen": "2026-06-16",
+    "link": "https://blog.dailydoseofds.com/p/hermes-kanban-mission-control-for",
+    "title": "Hermes Kanban: Mission Control for your Agents"
   },
   "f005b8b251": {
     "first_seen": "2026-06-08",

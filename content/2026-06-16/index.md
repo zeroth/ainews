@@ -1,8 +1,8 @@
 ---
 date: 2026-06-16
 title: Daily Bulletin — Tuesday, June 16, 2026
-article_count: 40
-fetched_at: 2026-06-16T21:01:35+00:00
+article_count: 45
+fetched_at: 2026-06-16T21:51:08+00:00
 ---
 
 ## Security
@@ -25,6 +25,27 @@ The emerging malware, spread via fake TikTok and Chrome downloads, demonstrates 
 *Dark Reading*
 
 FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.
+
+---
+
+### [Prevent npm and Python Supply Chain Attacks on Developer Machines with Package Configs](https://www.stepsecurity.io/blog/prevent-npm-and-python-supply-chain-attacks-on-developer-machines-with-package-configs)
+*StepSecurity Blog*
+
+npm and Python supply chain attacks run on developer machines and steal secrets. See how Package Configs audits registry, cooldown, and auth across your fleet
+
+---
+
+### [Security Community Slams US Ban on Exporting Mythos, Fable](https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable)
+*Dark Reading*
+
+An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.
+
+---
+
+### [Fileless Phantom Stealer Targets Browser Credentials](https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials)
+*Dark Reading*
+
+In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to frustrate detection.
 
 ---
 
@@ -183,6 +204,13 @@ arXiv:2606.15179v1 Announce Type: new Abstract: Retrieval-augmented generation (
 
 ---
 
+### [Hermes Kanban: Mission Control for your Agents](https://blog.dailydoseofds.com/p/hermes-kanban-mission-control-for)
+*Daily Dose of Data Science*
+
+Demo on building a 4-agent software team.
+
+---
+
 ## AI Infrastructure
 
 ### [From data residency to digital sovereignty: Architectural patterns for  cloud native platforms](https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms)
@@ -293,6 +321,13 @@ Leadership at the social media giant has been on an AI-fueled rampage through it
 *The New Stack*
 
 Today it was announced SpaceX will buy Anysphere, Inc., maker of AI coding agent Cursor, for $60 billion.&#160; The news The post SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division? appeared first on The New Stack.
+
+---
+
+### [Databricks wants to merge the two databases every company runs](https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents)
+*The New Stack*
+
+Databricks wants to erase the divide between the databases that run a business and the systems that analyze it. At The post Databricks wants to merge the two databases every company runs appeared first on The New Stack.
 
 ---
 

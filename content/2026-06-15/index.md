@@ -2,7 +2,7 @@
 date: 2026-06-15
 title: Daily Bulletin — Monday, June 15, 2026
 article_count: 5
-fetched_at: 2026-06-16T21:01:35+00:00
+fetched_at: 2026-06-16T21:51:08+00:00
 ---
 
 ## Security
