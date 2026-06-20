@@ -1509,6 +1509,11 @@
     "link": "https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution",
     "title": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution"
   },
+  "28512778b1": {
+    "first_seen": "2026-06-20",
+    "link": "https://thenewstack.io/gemini-cli-antigravity-replacement",
+    "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet"
+  },
   "286b91028f": {
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.19035",
@@ -2003,6 +2008,11 @@
     "first_seen": "2026-05-21",
     "link": "https://www.infoq.com/news/2026/05/agent-friendly-android-cli",
     "title": "With Android CLI, Google is Making the Android Toolchain Agent-Friendly"
+  },
+  "34ee4900c4": {
+    "first_seen": "2026-06-20",
+    "link": "https://www.infoq.com/news/2026/06/cognito-replication-aws",
+    "title": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service"
   },
   "351c7dfe61": {
     "first_seen": "2026-06-11",
@@ -3304,6 +3314,11 @@
     "link": "https://arxiv.org/abs/2605.23930",
     "title": "Quantum Frog: Emergent Cooperation and Difficulty Scaling in a Quantized-Time Cooperative Game"
   },
+  "57a076ffb2": {
+    "first_seen": "2026-06-20",
+    "link": "https://thenewstack.io/valkey-ai-backporting-agents",
+    "title": "Backporting bug fixes is dead, Project Valkey now  sends in the bots"
+  },
   "57a2e2dced": {
     "first_seen": "2026-05-22",
     "link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
@@ -3544,6 +3559,11 @@
     "link": "https://simonwillison.net/2026/May/28/llm-anthropic",
     "title": "llm-anthropic 0.25.1"
   },
+  "5ec688dfa0": {
+    "first_seen": "2026-06-20",
+    "link": "https://simonwillison.net/2026/Jun/19/sean-lynch",
+    "title": "Quoting Sean Lynch"
+  },
   "5ed1da7574": {
     "first_seen": "2026-05-28",
     "link": "https://arxiv.org/abs/2605.27575",
@@ -3708,6 +3728,11 @@
     "first_seen": "2026-06-01",
     "link": "https://www.latent.space/p/video-agents",
     "title": "Why Video Agent models are next \u2014 Ethan He, xAI Grok Imagine"
+  },
+  "63827acb77": {
+    "first_seen": "2026-06-20",
+    "link": "https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing",
+    "title": "Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic"
   },
   "638f7cc491": {
     "first_seen": "2026-06-04",
@@ -6119,6 +6144,11 @@
     "link": "https://simonwillison.net/2026/May/29/anthropic",
     "title": "Anthropic's run-rate revenue hits $47 billion"
   },
+  "a1eccf9886": {
+    "first_seen": "2026-06-20",
+    "link": "https://thenewstack.io/losing-fable-open-weight-glm",
+    "title": "Losing Fable made the best case yet for AI models you can run yourself"
+  },
   "a1f4b20fb1": {
     "first_seen": "2026-06-01",
     "link": "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code",
@@ -7564,6 +7594,11 @@
     "link": "https://thenewstack.io/anthropics-claude-platform-comes-to-aws",
     "title": "Anthropic\u2019s Claude Platform comes to AWS"
   },
+  "ca30dc7c12": {
+    "first_seen": "2026-06-20",
+    "link": "https://www.infoq.com/news/2026/06/apple-core-ai-wwdc",
+    "title": "Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI"
+  },
   "ca607676dc": {
     "first_seen": "2026-05-13",
     "link": "https://openai.com/academy/how-finance-teams-use-codex",
@@ -9004,6 +9039,11 @@
     "link": "https://arxiv.org/abs/2605.08405",
     "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning"
   },
+  "f3944124ea": {
+    "first_seen": "2026-06-20",
+    "link": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "title": "[AINews] not much happened today"
+  },
   "f399e2bef1": {
     "first_seen": "2026-05-06",
     "link": "https://www.stepsecurity.io/blog/lightning-obfuscated-javascript-credential-stealer-bundled-in-pypi-wheel",
@@ -9043,6 +9083,11 @@
     "first_seen": "2026-05-06",
     "link": "https://thenewstack.io/palo-alto-portkey-ai-gateway",
     "title": "Palo Alto Networks makes a $700M-class AI bet on Portkey gateway"
+  },
+  "f4d0f29230": {
+    "first_seen": "2026-06-20",
+    "link": "https://blog.bytebytego.com/p/ep219-12-open-source-llms",
+    "title": "EP219: 12 Open-source LLMs"
   },
   "f4f4e573b6": {
     "first_seen": "2026-06-07",
@@ -9093,6 +9138,11 @@
     "first_seen": "2026-06-17",
     "link": "https://thenewstack.io/aws-devops-agent-ai-delivery-pipeline",
     "title": "AWS puts an AI bouncer at the merge queue"
+  },
+  "f67d99a1e1": {
+    "first_seen": "2026-06-20",
+    "link": "https://www.infoq.com/news/2026/06/forge-billing-usage-platform",
+    "title": "Inside Atlassian\u2019s Forge Billing Architecture for Distributed Usage Tracking at Scale"
   },
   "f685ffa1f8": {
     "first_seen": "2026-06-04",
