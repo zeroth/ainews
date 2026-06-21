@@ -549,6 +549,11 @@
     "link": "https://arxiv.org/abs/2605.04624",
     "title": "AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair"
   },
+  "0ed873c841": {
+    "first_seen": "2026-06-21",
+    "link": "https://thenewstack.io/nvidia-openclaw-agent-blueprints",
+    "title": "\u201cAn agent is an LLM and a harness\u201d: What Nvidia really thinks about OpenClaw"
+  },
   "0f67d6048d": {
     "first_seen": "2026-05-07",
     "link": "https://adversa.ai/blog/trustfall-coding-agent-security-flaw-rce-claude-cursor-gemini-cli-copilot",
@@ -2394,6 +2399,11 @@
     "link": "https://arxiv.org/abs/2605.29055",
     "title": "Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching"
   },
+  "3f09e4940b": {
+    "first_seen": "2026-06-21",
+    "link": "https://www.infoq.com/news/2026/06/anthropic-claude-analytics",
+    "title": "Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries"
+  },
   "3f1ec15cdf": {
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
@@ -2438,6 +2448,11 @@
     "first_seen": "2026-06-11",
     "link": "https://www.stepsecurity.io/blog/miasma-and-hades-are-spreading-now-detect-them-on-developer-machines-with-suspicious-files",
     "title": "Miasma and Hades Are Spreading Now: Detect Them on Developer Machines with Suspicious Files"
+  },
+  "40650b61a5": {
+    "first_seen": "2026-06-21",
+    "link": "https://thenewstack.io/search-like-2010-quant",
+    "title": "Your agent wants to search like a 2010 quant"
   },
   "40734db20b": {
     "first_seen": "2026-05-06",
@@ -4289,6 +4304,11 @@
     "link": "https://www.infoq.com/news/2026/06/shopify-graphql-cardinal-bfs",
     "title": "Shopify Reports 15X Faster Graphql Execution with Breadth First Engine"
   },
+  "71619f58bf": {
+    "first_seen": "2026-06-21",
+    "link": "https://thenewstack.io/agentjacking-sentry-mcp-attack",
+    "title": "A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex"
+  },
   "71a8ceba9d": {
     "first_seen": "2026-05-16",
     "link": "https://openai.com/index/databricks",
@@ -5859,6 +5879,11 @@
     "link": "https://arxiv.org/abs/2605.21743",
     "title": "Who Uses AI? Platforms, Workforce, and AI Exposure"
   },
+  "9a1e49a3aa": {
+    "first_seen": "2026-06-21",
+    "link": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday"
+  },
   "9a45ea6422": {
     "first_seen": "2026-06-03",
     "link": "https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp",
@@ -6493,6 +6518,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection",
     "title": "elementary-data Compromised on PyPI and GHCR: Forged Release Pushed via GitHub Actions Script Injection"
+  },
+  "a9c7cde455": {
+    "first_seen": "2026-06-21",
+    "link": "https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration",
+    "title": "Behind the Scenes:  Block 450 JVM Repositories into Monorepo to Reduce Dependency Drift"
   },
   "a9fce70b84": {
     "first_seen": "2026-05-19",
@@ -7408,6 +7438,11 @@
     "first_seen": "2026-06-05",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
     "title": "Exposed Fuel Tank Gauges Under Attack in the US"
+  },
+  "c3dedf7899": {
+    "first_seen": "2026-06-21",
+    "link": "https://www.infoq.com/news/2026/06/tsrx-alternative-jsx",
+    "title": "TSRX: a Framework-Agnostic Alternative to JSX"
   },
   "c3ff215ad0": {
     "first_seen": "2026-06-11",
@@ -8863,6 +8898,11 @@
     "first_seen": "2026-06-17",
     "link": "https://arxiv.org/abs/2606.17266",
     "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions"
+  },
+  "ef2855507e": {
+    "first_seen": "2026-06-21",
+    "link": "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars",
+    "title": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly into AI Coding Workflows"
   },
   "ef39fd13a8": {
     "first_seen": "2026-05-09",
