@@ -1,45 +1,38 @@
 ---
 date: 2026-06-21
 title: Daily Bulletin — Sunday, June 21, 2026
-article_count: 5
-fetched_at: 2026-06-21T21:30:30+00:00
+article_count: 4
+fetched_at: 2026-06-22T21:43:11+00:00
 ---
 
-## AI Agents
+## AI Labs
 
-### [[Exclusive] $250 off AI Engineer tix til Monday](https://www.latent.space/p/exclusive-250-off-ai-engineer-tix)
-*Latent Space*
+### [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
+*OpenAI Blog*
 
-special offer for subscribers - $250 off AI Engineer tix til Monday
-
----
-
-## Software Architecture
-
-### [“An agent is an LLM and a harness”: What Nvidia really thinks about OpenClaw](https://thenewstack.io/nvidia-openclaw-agent-blueprints)
-*The New Stack*
-
-How much of Nvidia is reflected by their visionary CEO, Jenson Huang? With his praise and later support of OpenClaw, The post &#8220;An agent is an LLM and a harness&#8221;: What Nvidia really thinks about OpenClaw appeared first on The New Stack.
+Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
 
 ---
 
-### [Your agent wants to search like a 2010 quant](https://thenewstack.io/search-like-2010-quant)
-*The New Stack*
+## AI Tools & Models
 
-AI agents need the right information to work well. Whether they manage to find it is the difference between success The post Your agent wants to search like a 2010 quant appeared first on The New Stack.
+### [Temporary Cloudflare Accounts for AI agents](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts)
+*Simon Willison's Weblog*
 
----
-
-### [Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries](https://www.infoq.com/news/2026/06/anthropic-claude-analytics)
-*InfoQ*
-
-Anthropic recently reported that Claude now handles around 95% of its internal analytics requests, letting employees query business data independently instead of relying on data teams. The company attributes this result less to advances in models and more to data governance, semantic definitions,...
+Temporary Cloudflare Accounts for AI agents The announcement says this is "for AI agents" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this,...
 
 ---
 
-### [A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex](https://thenewstack.io/agentjacking-sentry-mcp-attack)
-*The New Stack*
+### [sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils)
+*Simon Willison's Weblog*
 
-On June 17, the Threat Labs team at Tenet Security, an AI-agent security startup newly out of stealth, documented an The post A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex appeared first on The New Stack.
+Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions. Tags: sqlite-utils
+
+---
+
+### [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1)
+*Simon Willison's Weblog*
+
+sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot...
 
 ---
