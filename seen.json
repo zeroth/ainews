@@ -189,6 +189,11 @@
     "link": "https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs",
     "title": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs"
   },
+  "04a0912b9c": {
+    "first_seen": "2026-06-27",
+    "link": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "title": "Using Local Coding Agents"
+  },
   "04be5ff7d4": {
     "first_seen": "2026-05-08",
     "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
@@ -593,6 +598,11 @@
     "first_seen": "2026-05-12",
     "link": "https://blog.bytebytego.com/p/how-figma-upgraded-data-pipeline",
     "title": "How Figma Upgraded Data Pipeline from Multi-Day Latency to Real-Time"
+  },
+  "0ec2319657": {
+    "first_seen": "2026-06-27",
+    "link": "https://www.infoq.com/news/2026/06/aws-credentials-provider",
+    "title": "AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management"
   },
   "0ed1003066": {
     "first_seen": "2026-05-07",
@@ -2829,6 +2839,11 @@
     "link": "https://arxiv.org/abs/2605.06772",
     "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning"
   },
+  "4330e1a463": {
+    "first_seen": "2026-06-27",
+    "link": "https://blog.dailydoseofds.com/p/prompt-engineering-and-loop-engineering",
+    "title": "Prompt Engineering & Loop Engineering, Clearly Explained!"
+  },
   "4378f10527": {
     "first_seen": "2026-05-26",
     "link": "https://arxiv.org/abs/2605.23932",
@@ -3094,6 +3109,11 @@
     "link": "https://www.infoq.com/news/2026/06/zero-version-1",
     "title": "Zero Reaches 1.0, Marking the First Stable Release of Rocicorp's Web Sync Engine"
   },
+  "48b85c5a2b": {
+    "first_seen": "2026-06-27",
+    "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball",
+    "title": "Quoting Dean W. Ball"
+  },
   "48cf97314e": {
     "first_seen": "2026-05-17",
     "link": "https://blog.dailydoseofds.com/p/model-free-learning-in-rl",
@@ -3253,6 +3273,11 @@
     "first_seen": "2026-06-17",
     "link": "https://thenewstack.io/google-microsoft-and-openai-join-forces-to-help-create-ais-missing-trust-layer",
     "title": "Google, Microsoft, and OpenAI join forces to help create AI\u2019s missing trust layer"
+  },
+  "4d7edd53cd": {
+    "first_seen": "2026-06-27",
+    "link": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "title": "EP220: RAG vs Graph RAG vs Agentic RAG"
   },
   "4d8bb09c2c": {
     "first_seen": "2026-05-23",
@@ -4048,6 +4073,11 @@
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.19010",
     "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL"
+  },
+  "627d54e80f": {
+    "first_seen": "2026-06-27",
+    "link": "https://thenewstack.io/vibe-coding-context-debt",
+    "title": "Vibe slop is the symptom. Context debt is the disease."
   },
   "627f81ab4a": {
     "first_seen": "2026-05-22",
@@ -6734,6 +6764,11 @@
     "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
     "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex"
   },
+  "9f7b6f27e6": {
+    "first_seen": "2026-06-27",
+    "link": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+    "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna \u2014 restricted to trusted partners"
+  },
   "9f8c6b3fc1": {
     "first_seen": "2026-06-02",
     "link": "https://thenewstack.io/openai-codex-knowledge-workers",
@@ -6958,6 +6993,11 @@
     "first_seen": "2026-06-17",
     "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component",
     "title": "<click-to-play> \u2014 a still that plays"
+  },
+  "a47b492041": {
+    "first_seen": "2026-06-27",
+    "link": "https://thenewstack.io/runtime-verification-coding-agents",
+    "title": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters."
   },
   "a47ffbe3db": {
     "first_seen": "2026-05-14",
@@ -9208,6 +9248,11 @@
     "first_seen": "2026-05-29",
     "link": "https://www.oreilly.com/radar/open-source-ecosystems",
     "title": "Open Source Ecosystems"
+  },
+  "dced588dc7": {
+    "first_seen": "2026-06-27",
+    "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
+    "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk"
   },
   "dd3e29ec67": {
     "first_seen": "2026-06-23",
