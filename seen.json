@@ -959,6 +959,11 @@
     "link": "https://arxiv.org/abs/2605.08445",
     "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare"
   },
+  "1702cd171c": {
+    "first_seen": "2026-06-28",
+    "link": "https://www.infoq.com/news/2026/06/swift-6-4-beta-features",
+    "title": "Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop"
+  },
   "17097b3e49": {
     "first_seen": "2026-05-07",
     "link": "https://thenewstack.io/openai-codex-claude-code",
@@ -1888,6 +1893,11 @@
     "first_seen": "2026-06-22",
     "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1",
     "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions"
+  },
+  "2dda0daedb": {
+    "first_seen": "2026-06-28",
+    "link": "https://www.infoq.com/news/2026/06/aws-finops-agent",
+    "title": "AWS Previews FinOps Agent for Cost Analysis and Optimization"
   },
   "2de3892dee": {
     "first_seen": "2026-06-17",
@@ -7824,6 +7834,11 @@
     "link": "https://simonwillison.net/2026/Jun/24/tom-macwright",
     "title": "Quoting Tom MacWright"
   },
+  "b735891ffc": {
+    "first_seen": "2026-06-28",
+    "link": "https://thenewstack.io/okta-ai-agents-fedramp",
+    "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries"
+  },
   "b74a10e1e7": {
     "first_seen": "2026-05-14",
     "link": "https://blog.bytebytego.com/p/a-guide-to-event-driven-architectural",
@@ -10208,6 +10223,11 @@
     "first_seen": "2026-05-11",
     "link": "https://arxiv.org/abs/2605.06812",
     "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation"
+  },
+  "f37a350952": {
+    "first_seen": "2026-06-28",
+    "link": "https://thenewstack.io/workday-ai-inference-guardrails",
+    "title": "\u201cBring it to our shop\u201d: Workday\u2019s pitch for keeping AI agents close to your most valuable data"
   },
   "f37e2d3105": {
     "first_seen": "2026-06-26",
