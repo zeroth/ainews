@@ -2,35 +2,39 @@
 date: 2026-06-28
 title: Daily Bulletin — Sunday, June 28, 2026
 article_count: 4
-fetched_at: 2026-06-28T21:24:44+00:00
+fetched_at: 2026-06-29T21:31:49+00:00
 ---
 
-## Software Architecture
+## AI Labs
 
-### [AWS Previews FinOps Agent for Cost Analysis and Optimization](https://www.infoq.com/news/2026/06/aws-finops-agent)
-*InfoQ*
+### [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership)
+*OpenAI Blog*
 
-Amazon has released AWS FinOps Agent in public preview, a managed service that automates several common FinOps workflows. The agent can investigate cost anomalies, correlate spend changes with AWS activity data, and integrate with tools such as Slack and Jira to route findings to resource owners....
-
----
-
-### [Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop](https://www.infoq.com/news/2026/06/swift-6-4-beta-features)
-*InfoQ*
-
-Currently available as a beta in Xcode 27, Swift 6.4 introduces a range of enhancements: better C interoperability, simplified OS availability check, fine-grained warning control, async support in defer, efficient iteration for non-noncopyable types, up to 4x faster URL parsing, and improved...
+HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
 
 ---
 
-### [Okta is the first to bring AI agent governance inside FedRAMP boundaries](https://thenewstack.io/okta-ai-agents-fedramp)
-*The New Stack*
+## AI Tools & Models
 
-Okta has made its AI agent governance platform generally available for&#160;FedRAMP-&#160;and&#160;HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack.
+### [Hack Your Summer](https://simonwillison.net/2026/Jun/28/hack-your-summer)
+*Simon Willison's Weblog*
+
+Hack Your Summer I learned about this initiative from DJ Patil this morning: It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduates who want to build something real this summer. You’ll learn how to identify a project, make steady progress,...
 
 ---
 
-### [“Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data](https://thenewstack.io/workday-ai-inference-guardrails)
-*The New Stack*
+### [Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell)
+*Simon Willison's Weblog*
 
-Workday, the payroll and HR data platform, has been pursuing AI and agents for a while, but while other businesses The post &#8220;Bring it to our shop&#8221;: Workday&#8217;s pitch for keeping AI agents close to your most valuable data appeared first on The New Stack.
+Human Agent in the loop I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we recruit agents to join the team. An agent-assisted process need not be a black box that takes in prompts...
+
+---
+
+## ML & Model Development
+
+### [Karpathy's Agentic Engineering Finally Has Proper Tooling](https://blog.dailydoseofds.com/p/karpathys-agentic-engineering-finally)
+*Daily Dose of Data Science*
+
+Build by Google, explained as step-by-step guide.
 
 ---
