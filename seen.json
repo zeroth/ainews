@@ -2169,6 +2169,11 @@
     "link": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
     "title": "Forward Deployed Engineers and the future of software engineering"
   },
+  "2f279c1aa0": {
+    "first_seen": "2026-07-05",
+    "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
+  },
   "2f30a63cd0": {
     "first_seen": "2026-05-08",
     "link": "https://openai.com/index/simplex",
@@ -2633,6 +2638,11 @@
     "first_seen": "2026-06-11",
     "link": "https://thenewstack.io/verifying-async-ai-agents",
     "title": "Agentic development hinges on verification. For cloud-native software, that is a runtime problem."
+  },
+  "38393d2a74": {
+    "first_seen": "2026-07-05",
+    "link": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe",
+    "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It"
   },
   "38bb55ed39": {
     "first_seen": "2026-05-21",
@@ -5229,6 +5239,11 @@
     "link": "https://thenewstack.io/cleanup-cost-ai-code",
     "title": "The clean-up cost of AI-generated code is what the velocity narrative leaves out"
   },
+  "6eea29f1a7": {
+    "first_seen": "2026-07-05",
+    "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools",
+    "title": "Better Models: Worse Tools"
+  },
   "6f13fd407d": {
     "first_seen": "2026-05-15",
     "link": "https://simonwillison.net/2026/May/14/mitchell-hashimoto",
@@ -6249,6 +6264,11 @@
     "link": "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
     "title": "Physical Cargo Theft Gets a Boost From Cybercriminals"
   },
+  "8474cc5a33": {
+    "first_seen": "2026-07-05",
+    "link": "https://thenewstack.io/chinese-frontier-models-quantization",
+    "title": "The AI revolution will not be televised \u2014 it\u2019ll be quantized"
+  },
   "84783843ef": {
     "first_seen": "2026-05-13",
     "link": "https://arxiv.org/abs/2605.11182",
@@ -6913,6 +6933,11 @@
     "first_seen": "2026-07-01",
     "link": "https://arxiv.org/abs/2606.30852",
     "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models"
+  },
+  "93d749a352": {
+    "first_seen": "2026-07-05",
+    "link": "https://thenewstack.io/microsoft-frontier-forward-deployed",
+    "title": "Microsoft, AWS and Anthropic are spending billions \u2014 and not on better models"
   },
   "93e390e2b3": {
     "first_seen": "2026-05-21",
@@ -8299,6 +8324,11 @@
     "link": "https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking",
     "title": "Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking"
   },
+  "b0367e882e": {
+    "first_seen": "2026-07-05",
+    "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils",
+    "title": "sqlite-utils 4.0rc2"
+  },
   "b06f09a4fc": {
     "first_seen": "2026-05-06",
     "link": "https://arxiv.org/abs/2605.01143",
@@ -9284,6 +9314,11 @@
     "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
     "title": "Amazing Digital Dentures (a failed project)"
   },
+  "c632037e7f": {
+    "first_seen": "2026-07-05",
+    "link": "https://www.infoq.com/news/2026/07/aws-s3-annotations",
+    "title": "AWS Introduces Amazon S3 Annotations"
+  },
   "c65086b870": {
     "first_seen": "2026-06-16",
     "link": "https://arxiv.org/abs/2606.15038",
@@ -9689,6 +9724,11 @@
     "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering",
     "title": "Vibe coding and agentic engineering are getting closer than I'd like"
   },
+  "cfb652ae50": {
+    "first_seen": "2026-07-05",
+    "link": "https://thenewstack.io/biggest-ai-moments-2026",
+    "title": "10 moments that defined AI\u2019s turbulent first half of 2026"
+  },
   "cfe189624c": {
     "first_seen": "2026-05-20",
     "link": "https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents",
@@ -9793,6 +9833,11 @@
     "first_seen": "2026-06-23",
     "link": "https://arxiv.org/abs/2606.20636",
     "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents"
+  },
+  "d1fd3ed2e6": {
+    "first_seen": "2026-07-05",
+    "link": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes",
+    "title": "Building a World Map with only 500 bytes"
   },
   "d20490b92b": {
     "first_seen": "2026-07-02",
