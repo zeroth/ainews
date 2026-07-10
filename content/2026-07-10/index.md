@@ -2,7 +2,7 @@
 date: 2026-07-10
 title: Daily Bulletin — Friday, July 10, 2026
 article_count: 34
-fetched_at: 2026-07-10T21:00:06+00:00
+fetched_at: 2026-07-10T21:58:10+00:00
 ---
 
 ## Security
@@ -38,7 +38,7 @@ While cyberattacks against hospitals and clinics grew modestly in the first half
 ### [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery)
 *Dark Reading*
 
-On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Ellis' advocacy on behalf of security researchers.
+Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.
 
 ---
 
