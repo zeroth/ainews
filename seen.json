@@ -114,6 +114,11 @@
     "link": "https://thenewstack.io/agentic-cicd-audit-compliance-gap",
     "title": "As agentic dev tools boom, workflow auditability becomes the constraint"
   },
+  "02754ab069": {
+    "first_seen": "2026-07-12",
+    "link": "https://thenewstack.io/api-vs-mcp-incident-management",
+    "title": "APIs aren\u2019t dead. Here\u2019s where MCP fits alongside them."
+  },
   "02858025ec": {
     "first_seen": "2026-05-19",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
@@ -138,6 +143,11 @@
     "first_seen": "2026-05-21",
     "link": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
     "title": "How CISOs Should Prep for Agentic-Ready AI BOMs"
+  },
+  "0304282447": {
+    "first_seen": "2026-07-12",
+    "link": "https://thenewstack.io/ust-anthropic-enterprise-ai-stack",
+    "title": "Anthropic\u2019s newest enterprise partner is training 20,000 people on Claude \u2014 here\u2019s the shift it signals"
   },
   "03048ece07": {
     "first_seen": "2026-07-02",
@@ -4394,6 +4404,11 @@
     "link": "https://thenewstack.io/build-n8n-ai-workflow",
     "title": "How to build your first end-to-end AI workflow in n8n"
   },
+  "551969135e": {
+    "first_seen": "2026-07-12",
+    "link": "https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix",
+    "title": "Cloudflare Identifies Race Condition in hyper\u2019s HTTP/1 Implementation"
+  },
   "552ec703b6": {
     "first_seen": "2026-06-02",
     "link": "https://thenewstack.io/windows-11-developer-mode",
@@ -4673,6 +4688,11 @@
     "first_seen": "2026-05-19",
     "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks",
     "title": "How ALS GeoAnalytics LITHOLENS \u2122 revolutionizes core logging through machine learning with Amazon EKS"
+  },
+  "5aaf526ab4": {
+    "first_seen": "2026-07-12",
+    "link": "https://thenewstack.io/inside-azure-brain",
+    "title": "Meet Brain, the AI that decides when Azure is officially down"
   },
   "5aeb366e46": {
     "first_seen": "2026-06-02",
@@ -5433,6 +5453,11 @@
     "first_seen": "2026-06-08",
     "link": "https://openai.com/index/economic-research-exchange",
     "title": "Introducing the OpenAI Economic Research Exchange"
+  },
+  "6946378eb4": {
+    "first_seen": "2026-07-12",
+    "link": "https://thenewstack.io/async-processing-hides-latency",
+    "title": "How async processing hides latency and improves responsiveness"
   },
   "694d8413db": {
     "first_seen": "2026-07-09",
@@ -7164,6 +7189,11 @@
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
     "title": "Rust-Written IronWorm Hits NPM Supply Chain"
   },
+  "89c9b73d47": {
+    "first_seen": "2026-07-12",
+    "link": "https://simonwillison.net/2026/Jul/12/bump",
+    "title": "Fable gets another bump"
+  },
   "8a221cd7e1": {
     "first_seen": "2026-07-10",
     "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
@@ -7388,6 +7418,11 @@
     "first_seen": "2026-06-29",
     "link": "https://blog.dailydoseofds.com/p/karpathys-agentic-engineering-finally",
     "title": "Karpathy's Agentic Engineering Finally Has Proper Tooling"
+  },
+  "8e914a6a0a": {
+    "first_seen": "2026-07-12",
+    "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils",
+    "title": "sqlite-utils 4.1"
   },
   "8e997a71ed": {
     "first_seen": "2026-05-13",
@@ -10713,6 +10748,11 @@
     "first_seen": "2026-06-16",
     "link": "https://blog.cloudflare.com/dmarc-management-ga",
     "title": "Cloudflare DMARC Management is now generally available"
+  },
+  "cf1da3ab26": {
+    "first_seen": "2026-07-12",
+    "link": "https://blog.dailydoseofds.com/p/how-llm-routing-actually-works-in",
+    "title": "How LLM Routing Actually Works in Production"
   },
   "cf200065dd": {
     "first_seen": "2026-05-19",
