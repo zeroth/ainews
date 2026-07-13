@@ -2,14 +2,14 @@
 date: 2026-07-11
 title: Daily Bulletin — Saturday, July 11, 2026
 article_count: 1
-fetched_at: 2026-07-12T21:44:18+00:00
+fetched_at: 2026-07-13T21:52:58+00:00
 ---
 
-## AI Tools & Models
+## Software Architecture
 
-### [sqlite-utils 4.1](https://simonwillison.net/2026/Jul/11/sqlite-utils)
-*Simon Willison's Weblog*
+### [Your merge gate was a compromise. Coding agents are making it a liability.](https://thenewstack.io/merge-gate-coding-agents)
+*The New Stack*
 
-Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable...
+A merge is a contract. The moment a change lands on main, every other team in the organization starts building The post Your merge gate was a compromise. Coding agents are making it a liability. appeared first on The New Stack.
 
 ---
