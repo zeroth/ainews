@@ -2624,6 +2624,11 @@
     "link": "https://blog.dailydoseofds.com/p/the-reward-signal-problem-for-agents",
     "title": "The Reward Signal Problem for Agents"
   },
+  "2f1fecadf5": {
+    "first_seen": "2026-07-19",
+    "link": "https://thenewstack.io/self-healing-gpu-nodes",
+    "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent"
+  },
   "2f279c1aa0": {
     "first_seen": "2026-07-05",
     "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
@@ -3138,6 +3143,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
     "title": "RMM Tools Fuel Stealthy Phishing Campaign"
+  },
+  "37bfd533f1": {
+    "first_seen": "2026-07-19",
+    "link": "https://blog.dailydoseofds.com/p/hands-on-rebuilding-claude-codes",
+    "title": "[Hands-on] Rebuilding Claude Code's Harness"
   },
   "37d23e99b8": {
     "first_seen": "2026-06-02",
@@ -4029,6 +4039,11 @@
     "link": "https://www.cncf.io/blog/2026/06/04/securing-ci-cd-for-an-open-source-project-controlling-who-runs-what",
     "title": "Securing CI/CD for an open source project: Controlling who runs what"
   },
+  "4616363c20": {
+    "first_seen": "2026-07-19",
+    "link": "https://thenewstack.io/move-code-review-upstream",
+    "title": "Move code review before the code"
+  },
   "461b6dc149": {
     "first_seen": "2026-05-21",
     "link": "https://thenewstack.io/openssf-open-source-security-members",
@@ -4373,6 +4388,11 @@
     "first_seen": "2026-07-17",
     "link": "https://thenewstack.io/ai-code-bottleneck-myth",
     "title": "AI hasn\u2019t shifted the bottleneck from coding to code review"
+  },
+  "4b514f9e23": {
+    "first_seen": "2026-07-19",
+    "link": "https://www.infoq.com/news/2026/07/cloudformation-express-mode",
+    "title": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments"
   },
   "4b7db92a01": {
     "first_seen": "2026-07-01",
@@ -8024,6 +8044,11 @@
     "link": "https://blog.bytebytego.com/p/proof-of-human-how-to-verify-a-person",
     "title": "Proof of Human: How to Verify a Person Is Real and Unique"
   },
+  "8c58f12f88": {
+    "first_seen": "2026-07-19",
+    "link": "https://www.infoq.com/news/2026/07/alphaevolve-generally-available",
+    "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service"
+  },
   "8c8429a8fc": {
     "first_seen": "2026-06-13",
     "link": "https://www.infoq.com/news/2026/06/terraform-mcp-server-ga",
@@ -8734,6 +8759,11 @@
     "link": "https://www.kdnuggets.com/practical-nlp-in-the-browser-with-transformers-js",
     "title": "Practical NLP in the Browser with Transformers.js"
   },
+  "9930d13a24": {
+    "first_seen": "2026-07-19",
+    "link": "https://thenewstack.io/spark-4-2-ai-workloads",
+    "title": "Spark 4.2 has a feature that could retire your vector database"
+  },
   "9933643360": {
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.19099",
@@ -9164,6 +9194,11 @@
     "link": "https://thenewstack.io/bun-developers-complaints-anthropic",
     "title": "\u201cReal maturity problems\u201d: Not every developer is thrilled with Bun after Anthropic acquisition"
   },
+  "a0af359ed7": {
+    "first_seen": "2026-07-19",
+    "link": "https://simonwillison.net/2026/Jul/19/ai-mania",
+    "title": "AI Mania Is Eviscerating Global Decision-Making"
+  },
   "a0bb82fa3b": {
     "first_seen": "2026-07-17",
     "link": "https://www.infoq.com/news/2026/07/platform-business-users",
@@ -9483,6 +9518,11 @@
     "first_seen": "2026-07-09",
     "link": "https://thenewstack.io/gpt-5-6-developer-reactions",
     "title": "OpenAI\u2019s own safety card says GPT-5.6 has a lying problem"
+  },
+  "a59ab6d1a9": {
+    "first_seen": "2026-07-19",
+    "link": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
+    "title": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?"
   },
   "a5a5fed412": {
     "first_seen": "2026-05-29",
@@ -9848,6 +9888,11 @@
     "first_seen": "2026-06-16",
     "link": "https://openai.com/index/deployment-simulation",
     "title": "Predicting model behavior before release by simulating deployment"
+  },
+  "ab3847864b": {
+    "first_seen": "2026-07-19",
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+    "title": "Claude Code uses Bun written in Rust now"
   },
   "ab4bdc76e2": {
     "first_seen": "2026-05-06",
@@ -14379,6 +14424,11 @@
     "link": "https://arxiv.org/abs/2605.04100",
     "title": "Regularized Centered Emphatic Temporal Difference Learning"
   },
+  "fd94979420": {
+    "first_seen": "2026-07-19",
+    "link": "https://www.stepsecurity.io/blog/sleepergem-compromised-rubygems-drop-persistent-backdoor",
+    "title": "SleeperGem: Compromised git_credential_manager, Dendreo, and fastlane RubyGems Drop a Persistent Backdoor"
+  },
   "fd9c292ba5": {
     "first_seen": "2026-07-17",
     "link": "https://www.infoq.com/news/2026/07/uber-opensearch-zone-failure",
@@ -14458,6 +14508,11 @@
     "first_seen": "2026-06-10",
     "link": "https://arxiv.org/abs/2606.10086",
     "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization"
+  },
+  "ff1db64c65": {
+    "first_seen": "2026-07-19",
+    "link": "https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation",
+    "title": "How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages"
   },
   "ff24fd0a25": {
     "first_seen": "2026-06-05",
