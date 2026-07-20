@@ -1,8 +1,8 @@
 ---
 date: 2026-07-20
 title: Daily Bulletin — Monday, July 20, 2026
-article_count: 43
-fetched_at: 2026-07-20T21:02:09+00:00
+article_count: 45
+fetched_at: 2026-07-20T21:57:12+00:00
 ---
 
 ## Security
@@ -32,6 +32,13 @@ Job pressures have increased as companies run headlong into AI adoption, causing
 *Dark Reading*
 
 Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.
+
+---
+
+### ['WP2Shell' Opens Millions of WordPress Sites to Remote Takeover](https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover)
+*Dark Reading*
+
+Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.
 
 ---
 
@@ -171,6 +178,13 @@ arXiv:2607.15647v1 Announce Type: new Abstract: LEED v4.1 BD+C certification rem
 *arXiv Artificial Intelligence (cs.AI)*
 
 arXiv:2607.15660v1 Announce Type: new Abstract: While LLM agents demonstrate strong reasoning abilities in compact and well-defined scenarios, they struggle to maintain robustness and effectiveness when faced with large-scale, diverse, and dynamic real-world environments that demand seamless tool...
+
+---
+
+### [How do AI teams use RL in production?](https://blog.dailydoseofds.com/p/how-do-ai-teams-use-rl-in-production)
+*Daily Dose of Data Science*
+
+The full RL nanodegree, covered with implementation.
 
 ---
 

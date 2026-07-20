@@ -339,6 +339,11 @@
     "link": "https://blog.dailydoseofds.com/p/schema-guided-agent-memory-for-production",
     "title": "Schema Guided Agent Memory for Production Agents"
   },
+  "05a6e15852": {
+    "first_seen": "2026-07-20",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+    "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover"
+  },
   "05bc962dcf": {
     "first_seen": "2026-06-19",
     "link": "https://arxiv.org/abs/2606.19559",
@@ -11753,6 +11758,11 @@
     "first_seen": "2026-07-11",
     "link": "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach",
     "title": "Where should AI workloads run? A sovereign and sensible approach"
+  },
+  "cb186e43d8": {
+    "first_seen": "2026-07-20",
+    "link": "https://blog.dailydoseofds.com/p/how-do-ai-teams-use-rl-in-production",
+    "title": "How do AI teams use RL in production?"
   },
   "cb2b574e00": {
     "first_seen": "2026-07-04",
