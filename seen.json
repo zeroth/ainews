@@ -1219,6 +1219,11 @@
     "link": "https://huggingface.co/blog/is-it-agentic-enough",
     "title": "Is it agentic enough? Benchmarking open models on your own tooling"
   },
+  "168259bc02": {
+    "first_seen": "2026-07-26",
+    "link": "https://thenewstack.io/sre-ai-agents-capabilities",
+    "title": "5 ways SRE AI agents are set to augment human capabilities"
+  },
   "168d57e4e6": {
     "first_seen": "2026-06-15",
     "link": "https://arxiv.org/abs/2606.13682",
@@ -5909,6 +5914,11 @@
     "link": "https://arxiv.org/abs/2607.15550",
     "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction"
   },
+  "64d41232b0": {
+    "first_seen": "2026-07-26",
+    "link": "https://www.oreilly.com/radar?p=19208",
+    "title": "Stranded in the Slow Zone"
+  },
   "64d51cedc7": {
     "first_seen": "2026-05-18",
     "link": "https://arxiv.org/abs/2605.15308",
@@ -6093,6 +6103,11 @@
     "first_seen": "2026-07-14",
     "link": "https://blog.dailydoseofds.com/p/the-four-types-of-agent-loops",
     "title": "The Four Types of Agent Loops"
+  },
+  "673891cd5b": {
+    "first_seen": "2026-07-26",
+    "link": "https://simonwillison.net/2026/Jul/26/relay-market",
+    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud"
   },
   "673c6a4a4f": {
     "first_seen": "2026-05-06",
@@ -6474,6 +6489,11 @@
     "link": "https://arxiv.org/abs/2605.05407",
     "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making"
   },
+  "6ce0052ff6": {
+    "first_seen": "2026-07-26",
+    "link": "https://www.infoq.com/news/2026/07/eks-version-rollback",
+    "title": "Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade"
+  },
   "6d00a9dfa0": {
     "first_seen": "2026-07-02",
     "link": "https://simonwillison.net/2026/Jul/2/understand-to-participate",
@@ -6528,6 +6548,11 @@
     "first_seen": "2026-05-16",
     "link": "https://simonwillison.net/2026/May/15/sighting-361818285",
     "title": "Western Gull, Rock Pigeon"
+  },
+  "6dc1e008fa": {
+    "first_seen": "2026-07-26",
+    "link": "https://simonwillison.net/2026/Jul/25/ruff",
+    "title": "Ruff v0.16.0"
   },
   "6dc291e14b": {
     "first_seen": "2026-07-11",
@@ -7919,6 +7944,11 @@
     "link": "https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes",
     "title": "How NetEase Games achieved 30-second LLM cold starts on Kubernetes"
   },
+  "84d897a335": {
+    "first_seen": "2026-07-26",
+    "link": "https://thenewstack.io/nadella-hassabis-ai-frameworks",
+    "title": "Microsoft and Google DeepMind agree on AI control \u2014 but not on who holds it"
+  },
   "84e330b610": {
     "first_seen": "2026-07-04",
     "link": "https://simonwillison.net/2026/Jul/2/llm-coding-agent",
@@ -8003,6 +8033,11 @@
     "first_seen": "2026-07-09",
     "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "title": "Separating signal from noise in coding evaluations"
+  },
+  "86449a7ce1": {
+    "first_seen": "2026-07-26",
+    "link": "https://thenewstack.io/mcp-release-candidate-rewrite",
+    "title": "MCP\u2019s biggest update removes the machinery many servers were built around"
   },
   "864aa6afb5": {
     "first_seen": "2026-06-24",
@@ -10868,6 +10903,11 @@
     "first_seen": "2026-06-30",
     "link": "https://thenewstack.io/rsk-forks-open-identityserver",
     "title": "IdentityServer4 is dead. Here\u2019s what comes next."
+  },
+  "b55da0ae91": {
+    "first_seen": "2026-07-26",
+    "link": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability",
+    "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC"
   },
   "b5695fe2e1": {
     "first_seen": "2026-05-07",
