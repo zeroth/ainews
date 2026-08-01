@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Bulletin — Thursday, July 30, 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Work+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg: #1e1712;
+  --surface: #261d17;
+  --surface-hi: #2f241c;
+  --fg: #f5e8d3;
+  --fg-muted: #c0a890;
+  --fg-subtle: #8a7866;
+  --accent: #e87a4a;
+  --accent-2: #8ab070;
+  --border: rgba(255,220,180,0.12);
+  --divider: rgba(255,220,180,0.1);
+  --radius: 4px;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; min-height: 100vh; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: 'Work Sans', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.55;
+}
+a { color: inherit; text-decoration: none; }
+::selection { background: rgba(176,74,38,0.25); }
+
+.shell { max-width: 1200px; margin: 0 auto; padding: 0 40px; }
+
+/* ── Masthead ───────────────────────────────────────────────────────── */
+.masthead { padding: 40px 0 24px; }
+.eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: var(--accent);
+  text-align: center;
+  margin-bottom: 14px;
+}
+.title {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  font-size: clamp(60px, 8vw, 110px);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  text-align: center;
+  margin: 0;
+  color: var(--fg);
+}
+.title .amp {
+  color: var(--accent);
+  font-style: italic;
+}
+.dateline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  margin-top: 14px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+.dateline .sep { color: var(--fg-subtle); }
+
+.section-rule {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 32px;
+}
+.section-rule .bar {
+  flex: 1;
+  height: 2px;
+  background: var(--fg);
+}
+.section-rule .links {
+  display: flex;
+  gap: 20px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--fg);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.subnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 22px;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.tabs { display: flex; gap: 8px; }
+.tab {
+  padding: 8px 18px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--fg);
+  border: 1.5px solid var(--fg);
+  border-radius: var(--radius);
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-block;
+}
+.tab.active {
+  background: var(--accent);
+  color: var(--surface);
+  border-color: var(--accent);
+}
+.stats {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
+/* ── Hero / cover story ─────────────────────────────────────────────── */
+.hero {
+  margin-top: 28px;
+  padding: 36px 0 44px;
+  border-top: 2px solid var(--fg);
+  border-bottom: 1px solid var(--divider);
+}
+.hero-tag {
+  display: inline-block;
+  padding: 5px 12px;
+  background: var(--accent);
+  color: var(--surface);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  font-weight: 600;
+}
+.hero h2 {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  font-size: clamp(40px, 4.5vw, 64px);
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  color: var(--fg);
+  margin: 0 0 22px;
+  text-wrap: balance;
+}
+.hero h2 a:hover { color: var(--accent); }
+.hero .summary {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--fg-muted);
+  margin: 0 0 24px;
+  font-style: italic;
+  text-wrap: pretty;
+}
+.hero-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  border-top: 1px solid var(--divider);
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.read-link {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+}
+.read-link:hover { color: var(--fg); }
+
+/* ── Section block ──────────────────────────────────────────────────── */
+.section-block {
+  padding: 44px 0;
+  border-bottom: 1px solid var(--divider);
+}
+.section-head {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  margin-bottom: 28px;
+}
+.section-head .glyph {
+  font-family: 'DM Serif Display', serif;
+  font-size: 40px;
+  color: var(--accent);
+  line-height: 1;
+}
+.section-head h3 {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.1;
+  margin: 0;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+  flex: 1;
+}
+.section-head .count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--fg-subtle);
+  text-transform: uppercase;
+}
+
+.section-grid { display: grid; gap: 40px; }
+.section-grid.cols-1 { grid-template-columns: 1fr; }
+.section-grid.cols-2 { grid-template-columns: 1fr 1fr; }
+
+.article h4 {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+  margin: 0 0 10px;
+  text-wrap: balance;
+}
+.article h4 a:hover { color: var(--accent); }
+.article p {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--fg-muted);
+  margin: 0 0 12px;
+  text-wrap: pretty;
+}
+
+/* ── Meta row + source glyph ────────────────────────────────────────── */
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--fg-muted);
+}
+.meta .sep { color: var(--fg-subtle); }
+.source-glyph {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 7.6px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  flex: 0 0 auto;
+}
+
+/* ── Archive page ───────────────────────────────────────────────────── */
+.archive-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 40px 0 28px;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.archive-kicker {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+}
+.archive-head h2 {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  font-size: clamp(36px, 5vw, 56px);
+  line-height: 1.0;
+  letter-spacing: -0.02em;
+  color: var(--fg);
+  margin: 10px 0 0;
+}
+.archive-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--fg-subtle);
+}
+
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+.archive-card {
+  padding: 22px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  transition: transform 0.2s ease, background 0.2s ease;
+  display: block;
+}
+.archive-card:hover { transform: translateY(-2px); background: var(--surface-hi); border-color: var(--accent); }
+.archive-card .edition {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.archive-card .day {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+  margin: 0 0 14px;
+}
+.archive-card .count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
+/* ── Footer ─────────────────────────────────────────────────────────── */
+footer.endmark {
+  padding: 48px 0;
+  text-align: center;
+}
+footer.endmark .hairline {
+  width: 32px;
+  height: 1px;
+  background: var(--fg-subtle);
+  margin: 0 auto 14px;
+}
+footer.endmark .closing {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--fg-subtle);
+}
+
+/* ── Responsive ─────────────────────────────────────────────────────── */
+@media (max-width: 800px) {
+  .shell { padding: 0 20px; }
+  .section-grid.cols-2 { grid-template-columns: 1fr; gap: 28px; }
+  .section-rule .bar { display: none; }
+  .section-rule { flex-direction: column; gap: 12px; }
+  .section-rule .links { justify-content: flex-start; }
+}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header class="masthead">
+    <div class="eyebrow">A daily digest</div>
+    <h1 class="title">Brief <span class="amp">&amp;</span> Co.</h1>
+    <div class="dateline"><span>Thursday, July 30, 2026</span><span class="sep">—</span><span>No. 114</span></div>
+    <div class="section-rule">
+      <div class="bar"></div>
+      <div class="links"><a href="#sec-security">Security</a><a href="#sec-ai-security">AI Security</a><a href="#sec-ai-labs">AI Labs</a><a href="#sec-ai-tools-models">AI Tools &amp; Models</a><a href="#sec-ai-agents">AI Agents</a><a href="#sec-ml-model-development">ML &amp; Model Development</a><a href="#sec-ai-infrastructure">AI Infrastructure</a><a href="#sec-open-source-ai">Open Source AI</a><a href="#sec-building-ai-agents-architecture">Building AI Agents &amp; Architecture</a><a href="#sec-enterprise-ai-mlops">Enterprise AI &amp; MLOps</a><a href="#sec-software-architecture">Software Architecture</a><a href="#sec-infrastructure-security">Infrastructure &amp; Security</a></div>
+      <div class="bar"></div>
+    </div>
+    <div class="subnav">
+      <div class="tabs">
+        <a class="tab active" href="index.html">Today</a>
+        <a class="tab" href="archive.html">Archives</a>
+      </div>
+      <div class="stats">35 stories · fetched 21:51 UTC</div>
+    </div>
+  </header>
+  <main>
+<article class="hero">
+  <div class="hero-tag">Cover Story · Security</div>
+  <h2><a href="https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china" target="_blank" rel="noopener">&#x27;Flying Eagle&#x27; Full-Service Mobile RAT Builder Wings Across China</a></h2>
+  <p class="summary">A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims&#x27; bank accounts.</p>
+  <div class="hero-foot">
+    <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+    <a class="read-link" href="https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china" target="_blank" rel="noopener">Read article →</a>
+  </div>
+</article>
+<section id="sec-security" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>Security</h3>
+    <span class="count">4 pieces</span>
+  </div>
+  <div class="section-grid cols-2">
+<article class="article">
+  <h4><a href="https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power" target="_blank" rel="noopener">SE Asian Cybercriminal Syndicates Become a Global Power</a></h4>
+  <p>The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality" target="_blank" rel="noopener">Claude Mythos — Hype vs. Reality: What Security Teams Need to Know</a></h4>
+  <p>In this edition of Reporters&#x27; Notebook, our journalists discuss the ins and outs of Anthropic&#x27;s Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps" target="_blank" rel="noopener">AI Harnesses Burst With Potential Exploit Opps</a></h4>
+  <p>A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks" target="_blank" rel="noopener">Minnesota Water Utility Attacks Expose Sector&#x27;s Cyber-Risks</a></h4>
+  <p>A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-ai-security" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>AI Security</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://adversa.ai/blog/agent-skill-scanners-bypass-eight-tested" target="_blank" rel="noopener">A hole in every one: bypassing the open source AI skill scanners</a></h4>
+  <p>We ran eight open source AI skill scanners against real attacks. A malicious skill got past all eight, including the current OASB leaderboard leader.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 280);color:oklch(0.88 0.08 280)">AA</span><span>Adversa AI Blog</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-ai-labs" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>AI Labs</h3>
+    <span class="count">2 pieces</span>
+  </div>
+  <div class="section-grid cols-2">
+<article class="article">
+  <h4><a href="https://openai.com/index/avatarin" target="_blank" rel="noopener">How avatarin built a 24/7 retail agent with GPT-Realtime</a></h4>
+  <p>avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 120);color:oklch(0.88 0.08 120)">OB</span><span>OpenAI Blog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6" target="_blank" rel="noopener">Advancing the price-performance frontier with GPT-5.6</a></h4>
+  <p>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 120);color:oklch(0.88 0.08 120)">OB</span><span>OpenAI Blog</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-ai-tools-models" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>AI Tools &amp; Models</h3>
+    <span class="count">6 pieces</span>
+  </div>
+  <div class="section-grid cols-2">
+<article class="article">
+  <h4><a href="https://simonwillison.net/2026/Jul/30/llm-rc1" target="_blank" rel="noopener">llm 0.32rc1</a></h4>
+  <p>Release: llm 0.32rc1 This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses returned by the latest model families. The most important change is the use of content-addressable...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://simonwillison.net/2026/Jul/30/llm-chat-completions-server" target="_blank" rel="noopener">llm-chat-completions-server 0.1a0</a></h4>
+  <p>Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this: curl http://localhost:8002/v1/chat/completions \ -H...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://simonwillison.net/2026/Jul/30/bruce-schneier" target="_blank" rel="noopener">Quoting Bruce Schneier</a></h4>
+  <p>The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://simonwillison.net/2026/Jul/30/llm-rc2" target="_blank" rel="noopener">llm 0.32rc2</a></h4>
+  <p>Release: llm 0.32rc2 Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna. It was previously GPT-4o mini. Luna is a much better and more recent model, albeit slightly more...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://simonwillison.net/2026/Jul/30/three-real-world-incidents" target="_blank" rel="noopener">Investigating three real-world incidents in our cybersecurity evaluations</a></h4>
+  <p>Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://simonwillison.net/2026/Jul/30/luna-price-drop" target="_blank" rel="noopener">Advancing the price-performance frontier with GPT‑5.6</a></h4>
+  <p>Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-ai-agents" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>AI Agents</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://www.latent.space/p/ontologies-agentic-systems" target="_blank" rel="noopener">Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web</a></h4>
+  <p>AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 210);color:oklch(0.88 0.08 210)">LS</span><span>Latent Space</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-ml-model-development" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>ML &amp; Model Development</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://blog.dailydoseofds.com/p/why-86-of-claude-code-bill-has-nothing" target="_blank" rel="noopener">Why 86% of Claude Code Bill Has Nothing to Do With Your Prompts</a></h4>
+  <p>...and a solution to fix Claude bills.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 91);color:oklch(0.88 0.08 91)">DD</span><span>Daily Dose of Data Science</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-ai-infrastructure" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>AI Infrastructure</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri" target="_blank" rel="noopener">Runtime Supply Chain Verification using the Node Resource Interface (NRI)</a></h4>
+  <p>The widely used container supply chain verification tools today operate at the Kubernetes API layer as admission webhooks (such as Kyverno, OPA Gatekeeper, and Sigstore Policy Controller). They intercept pod creation, check signatures and attestations, and...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 252);color:oklch(0.88 0.08 252)">CB</span><span>CNCF Blog</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-open-source-ai" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>Open Source AI</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://huggingface.co/blog/Dharma-AI/gpu-management" target="_blank" rel="noopener">GPU Management: Why Idle GPUs Are the New Grounded Aircraft</a></h4>
+  
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 242);color:oklch(0.88 0.08 242)">HF</span><span>Hugging Face Blog</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-building-ai-agents-architecture" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>Building AI Agents &amp; Architecture</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery" target="_blank" rel="noopener">A Detailed Guide to Idempotency, Delivery Semantics, and Deduplication</a></h4>
+  <p>What happens when a service sends a request to charge a customer, but the request times out with no response?</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 240);color:oklch(0.88 0.08 240)">BY</span><span>ByteByteGo</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-enterprise-ai-mlops" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>Enterprise AI &amp; MLOps</h3>
+    <span class="count">2 pieces</span>
+  </div>
+  <div class="section-grid cols-2">
+<article class="article">
+  <h4><a href="https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter" target="_blank" rel="noopener">7 Machine Learning Algorithms That Still Matter</a></h4>
+  <p>Discover 7 essential machine learning algorithms that every data scientist should know before reaching for LLMs and generative AI, with simple explanations and practical Python code.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 188);color:oklch(0.88 0.08 188)">KD</span><span>KDnuggets</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design" target="_blank" rel="noopener">A Beginner’s Guide to Working with Claude Design</a></h4>
+  <p>Claude Design is a research preview under Anthropic Labs, powered by Claude Opus&#x27; vision capability, generating interactive prototypes with working navigation, embedded video, voice input, and 3D elements.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 188);color:oklch(0.88 0.08 188)">KD</span><span>KDnuggets</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-software-architecture" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>Software Architecture</h3>
+    <span class="count">13 pieces</span>
+  </div>
+  <div class="section-grid cols-2">
+<article class="article">
+  <h4><a href="https://www.infoq.com/news/2026/07/lambda-self-managed-storage" target="_blank" rel="noopener">AWS Lambda&#x27;s Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit</a></h4>
+  <p>AWS Lambda can now reference deployment packages directly in customer-owned S3 buckets, removing the per-Region code storage quota and raising the managed default from 75 GB to 300 GB. Per-function package limits are unchanged, and UpdateFunctionCode is still required after replacing an object....</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/ibm-quantum-advantage-verification" target="_blank" rel="noopener">IBM says quantum computers are getting harder to verify. That’s progress.</a></h4>
+  <p>IBM and its partners say quantum computers are now getting to the point where they can run calculations that can&amp;#8217;t The post IBM says quantum computers are getting harder to verify. That&amp;#8217;s progress. appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.oreilly.com/radar/the-problem-is-prompt-debt" target="_blank" rel="noopener">The Problem Is Prompt Debt</a></h4>
+  <p>The following article was originally published on Drew Breunig’s blog and is being republished here with the author’s permission. Thanks to natural language interfaces, AI applications can be prototyped quickly. You write what you want in English, hand it to a frontier model, and a working...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 305);color:oklch(0.88 0.08 305)">OR</span><span>O&#x27;Reilly Radar</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.infoq.com/news/2026/07/AI-research-into-action" target="_blank" rel="noopener">AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action</a></h4>
+  <p>AI is an amplifier; strategic focus on the organizational system brings the greatest returns. DORA&#x27;s 2025 research on AI in software development provides team profiles and success capabilities that can be used to put the research into practice. By Ben Linders</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/ai-agent-permission-boundaries" target="_blank" rel="noopener">When do AI agents need permission boundaries?</a></h4>
+  <p>An AI agent feels harmless when it only produces text, but the risk profile changes the moment it calls a The post When do AI agents need permission boundaries? appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://www.infoq.com/presentations/disaggregation-industrial-systems" target="_blank" rel="noopener">Presentation: Parting the Clouds: The Rise of Disaggregated Systems</a></h4>
+  <p>Murat Demirbas discusses the shift toward disaggregated cloud database architectures driven by cloud economics. He explains how decoupling compute from storage enables elastic scaling, cost efficiency, and fault isolation. He shares how classical Paxos roles foreshadowed disaggregation, while...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/dns-domain-management-automation" target="_blank" rel="noopener">DNS is infrastructure. It’s time to manage it that way.</a></h4>
+  <p>Attackers aren&amp;#8217;t always the reason for DNS failures &amp;#8212; they can often be something much more routine. For example, the The post DNS is infrastructure. It’s time to manage it that way. appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/governing-agentic-software-development" target="_blank" rel="noopener">Why linting alone can’t govern agentic development</a></h4>
+  <p>There&amp;#8217;s no question that AI agents are changing software development. They can move from an idea to a working implementation The post Why linting alone can’t govern agentic development appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/openai-elastic-enterprise-context" target="_blank" rel="noopener">OpenAI and Elastic are tackling the AI problem enterprises can’t ignore</a></h4>
+  <p>It&amp;#8217;s undeniable that enterprise AI has a context problem. Although frontier models are incredibly capable, if they can&amp;#8217;t securely access The post OpenAI and Elastic are tackling the AI problem enterprises can’t ignore appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/ai-code-security-platforms" target="_blank" rel="noopener">AI-generated software is forcing yet another platform rethink</a></h4>
+  <p>&amp;#8220;Raise your hand if your team is actively using AI to write and review code. Now keep it up if The post AI-generated software is forcing yet another platform rethink appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/gpt-5-6-api-price-cuts" target="_blank" rel="noopener">OpenAI slashes API costs amid rising global competition</a></h4>
+  <p>OpenAI has lowered API prices for two GPT-5.6 models only three weeks after their launch. On Thursday, the company announced The post OpenAI slashes API costs amid rising global competition appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4" target="_blank" rel="noopener">GenRec: Towards LLM-Native Recommendation at Netflix</a></h4>
+  <p>Authors: Ying Li, Arjun Rao, Shradha SehgalIntroductionRecommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand‑crafted features over users, items, and interactions, along with specialized architectures for sequence modeling, feature...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 278);color:oklch(0.88 0.08 278)">NT</span><span>Netflix TechBlog</span></div>
+</article>
+<article class="article">
+  <h4><a href="https://thenewstack.io/ai-sre-root-cause-analysis" target="_blank" rel="noopener">Why your company should (try to) build its own AI SRE</a></h4>
+  <p>Companies ship more code today than ever, thanks to agentic coding tools. For product teams, this accelerated pace of development The post Why your company should (try to) build its own AI SRE appeared first on The New Stack.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
+</article>
+  </div>
+</section>
+<section id="sec-infrastructure-security" class="section-block">
+  <div class="section-head">
+    <span class="glyph">§</span>
+    <h3>Infrastructure &amp; Security</h3>
+    <span class="count">1 piece</span>
+  </div>
+  <div class="section-grid cols-1">
+<article class="article">
+  <h4><a href="https://blog.cloudflare.com/cdnjs-dev-platform-migration" target="_blank" rel="noopener">Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform</a></h4>
+  <p>We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare&#x27;s Developer Platform. That means we’re running one of the Internet&#x27;s busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits higher for everyone.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 305);color:oklch(0.88 0.08 305)">CB</span><span>Cloudflare Blog</span></div>
+</article>
+  </div>
+</section>
+  </main>
+  <footer class="endmark">
+    <div class="hairline"></div>
+    <div class="closing">End of edition · see you at 07:00</div>
+  </footer>
+</div>
+</body>
+</html>
