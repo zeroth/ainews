@@ -659,6 +659,11 @@
     "link": "https://www.infoq.com/presentations/ai-large-scale-engineering-systems",
     "title": "Presentation: Using AI as a Thinking Partner for Large-Scale Engineering Systems"
   },
+  "0b43626e5a": {
+    "first_seen": "2026-08-02",
+    "link": "https://simonwillison.net/2026/Aug/2/july-newsletter",
+    "title": "July 2026 newsletter"
+  },
   "0b4f94d48e": {
     "first_seen": "2026-07-06",
     "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
@@ -5484,6 +5489,11 @@
     "link": "https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix",
     "title": "Cloudflare Identifies Race Condition in hyper\u2019s HTTP/1 Implementation"
   },
+  "552e89a5c1": {
+    "first_seen": "2026-08-02",
+    "link": "https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus",
+    "title": "Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination"
+  },
   "552ec703b6": {
     "first_seen": "2026-06-02",
     "link": "https://thenewstack.io/windows-11-developer-mode",
@@ -5903,6 +5913,11 @@
     "first_seen": "2026-05-11",
     "link": "https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity",
     "title": "Guardrails for LLMs: Measuring AI \u2018Hallucination\u2019 and Verbosity"
+  },
+  "5bf5d9c4ab": {
+    "first_seen": "2026-08-02",
+    "link": "https://simonwillison.net/2026/Aug/1/greg-brockman",
+    "title": "Quoting Greg Brockman"
   },
   "5c07cdb0e3": {
     "first_seen": "2026-05-18",
@@ -12104,6 +12119,11 @@
     "link": "https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile",
     "title": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS"
   },
+  "bbfaa40686": {
+    "first_seen": "2026-08-02",
+    "link": "https://blog.cloudflare.com/agents-week-welcome",
+    "title": "Welcome to Agents Week"
+  },
   "bbff0563cc": {
     "first_seen": "2026-05-14",
     "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
@@ -14918,6 +14938,11 @@
     "first_seen": "2026-07-09",
     "link": "https://blog.dailydoseofds.com/p/build-your-own-100-local-ai-second-01b",
     "title": "Build Your Own 100% Local AI Second Brain"
+  },
+  "ea232c70fc": {
+    "first_seen": "2026-08-02",
+    "link": "https://simonwillison.net/2026/Aug/2/open-letters",
+    "title": "Open letters about AI development"
   },
   "ea296909ec": {
     "first_seen": "2026-05-15",
