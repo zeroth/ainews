@@ -984,6 +984,11 @@
     "link": "https://arxiv.org/abs/2607.13049",
     "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI"
   },
+  "0f8fb6f177": {
+    "first_seen": "2026-08-08",
+    "link": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding",
+    "title": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates"
+  },
   "0fd042e84b": {
     "first_seen": "2026-06-03",
     "link": "https://arxiv.org/abs/2606.02914",
@@ -1003,6 +1008,11 @@
     "first_seen": "2026-07-02",
     "link": "https://www.stepsecurity.io/blog/10-layers-deep-how-stepsecurity-stops-teampcps-trivy-supply-chain-attack-on-github-actions",
     "title": "10 Layers Deep: How StepSecurity Stops TeamPCP's Trivy Supply Chain Attack on GitHub Actions"
+  },
+  "107a042cc6": {
+    "first_seen": "2026-08-08",
+    "link": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+    "title": "[AINews] Zawinski's Law of MultiAgents"
   },
   "10906c3323": {
     "first_seen": "2026-06-05",
@@ -4459,6 +4469,11 @@
     "link": "https://arxiv.org/abs/2608.00029",
     "title": "Nova: An End-to-End MLIR Compiler for Deep Learning"
   },
+  "401b55fe46": {
+    "first_seen": "2026-08-08",
+    "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
+  },
   "4036b4058a": {
     "first_seen": "2026-06-11",
     "link": "https://www.stepsecurity.io/blog/miasma-and-hades-are-spreading-now-detect-them-on-developer-machines-with-suspicious-files",
@@ -6429,6 +6444,11 @@
     "link": "https://thenewstack.io/eks-kubernetes-upgrade-rollback",
     "title": "Kubernetes upgrades don\u2019t have to break things: How EKS is making cluster lifecycle management simpler and safer"
   },
+  "5cc8955a65": {
+    "first_seen": "2026-08-08",
+    "link": "https://thenewstack.io/claude-code-auto-mode",
+    "title": "Auto Mode will soon be the default in Claude Code \u2014 because humans can\u2019t be trusted"
+  },
   "5cd955ee5e": {
     "first_seen": "2026-07-09",
     "link": "https://www.stepsecurity.io/blog/github-secret-scanning-public-monitoring-for-enterprises-coverage-and-gaps",
@@ -6958,6 +6978,11 @@
     "first_seen": "2026-06-01",
     "link": "https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services",
     "title": "Dynamic configuration for cloud native Swift services"
+  },
+  "655de9b513": {
+    "first_seen": "2026-08-08",
+    "link": "https://thenewstack.io/kubevirt-evpn-vm-migration",
+    "title": "Why your KubeVirt VMs can\u2019t move between clusters \u2014 and how EVPN fixes it"
   },
   "656007c7c0": {
     "first_seen": "2026-06-02",
@@ -8498,6 +8523,11 @@
     "first_seen": "2026-06-15",
     "link": "https://www.kdnuggets.com/3-pandas-tricks-for-data-cleaning-preparation",
     "title": "3 Pandas Tricks for Data Cleaning & Preparation"
+  },
+  "7a555dfebb": {
+    "first_seen": "2026-08-08",
+    "link": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection",
+    "title": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis"
   },
   "7a5beea9c3": {
     "first_seen": "2026-08-07",
@@ -10804,6 +10834,11 @@
     "link": "https://www.kdnuggets.com/7-opencode-plugins-that-make-ai-coding-more-powerful",
     "title": "7 OpenCode Plugins That Make AI Coding More Powerful"
   },
+  "9d62c3e3db": {
+    "first_seen": "2026-08-08",
+    "link": "https://www.infoq.com/news/2026/08/github-npm-actions-defaults",
+    "title": "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing"
+  },
   "9d668c35d5": {
     "first_seen": "2026-08-01",
     "link": "https://adversa.ai/blog/top-agentic-ai-security-resources-august-2026",
@@ -12509,6 +12544,11 @@
     "link": "https://thenewstack.io/agent-code-validation-bottleneck",
     "title": "The agent code explosion is here. We need to rethink our pipelines, fast."
   },
+  "b4d7cf7b0f": {
+    "first_seen": "2026-08-08",
+    "link": "https://thenewstack.io/speakeasy-enterprise-agent-skills",
+    "title": "AI skills start on laptops. Enterprises inherit the mess."
+  },
   "b518b5d805": {
     "first_seen": "2026-05-14",
     "link": "https://www.infoq.com/news/2026/05/kubernetes-1-36-released",
@@ -13238,6 +13278,11 @@
     "first_seen": "2026-07-04",
     "link": "https://www.infoq.com/news/2026/07/oracle-cloud-free-tier-limits",
     "title": "Oracle Quietly Halves Free Tier Ampere A1 Compute Limits with No Public Announcement"
+  },
+  "c041a424b5": {
+    "first_seen": "2026-08-08",
+    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
   },
   "c060d1abaa": {
     "first_seen": "2026-07-07",
@@ -15934,6 +15979,11 @@
     "link": "https://www.infoq.com/news/2026/05/monzo-data-mesh",
     "title": "Neobank Monzo Builds Governed Data Mesh across 100 Teams and 12000 dbt Models"
   },
+  "ea7e89c6e6": {
+    "first_seen": "2026-08-08",
+    "link": "https://thenewstack.io/agent-plugins-open-standard",
+    "title": "Five AI rivals just backed a shared plugin standard. Here\u2019s why it matters for developers."
+  },
   "ea9fb392d8": {
     "first_seen": "2026-05-26",
     "link": "https://arxiv.org/abs/2605.23936",
@@ -17014,6 +17064,11 @@
     "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy",
     "title": "Don't be a meat proxy"
   },
+  "f922880aa0": {
+    "first_seen": "2026-08-08",
+    "link": "https://thenewstack.io/ai-adoption-versus-usage",
+    "title": "AI adoption isn\u2019t the same as AI usage"
+  },
   "f9265f7f8d": {
     "first_seen": "2026-05-20",
     "link": "https://arxiv.org/abs/2605.19093",
@@ -17413,6 +17468,11 @@
     "first_seen": "2026-05-15",
     "link": "https://www.infoq.com/news/2026/05/anthropic-routines-claude",
     "title": "Anthropic Introduces Routines for Claude Code Automation"
+  },
+  "ff06fa16ea": {
+    "first_seen": "2026-08-08",
+    "link": "https://simonwillison.net/2026/Aug/8/john-gruber",
+    "title": "Quoting John Gruber"
   },
   "ff08b6ecc5": {
     "first_seen": "2026-05-28",
