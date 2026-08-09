@@ -9474,6 +9474,11 @@
     "link": "https://arxiv.org/abs/2606.06660",
     "title": "AEGIS: A Backup Reflex for Physical AI"
   },
+  "8930f1d662": {
+    "first_seen": "2026-08-09",
+    "link": "https://blog.dailydoseofds.com/p/a-10-week-roadmap-to-run-llms-in",
+    "title": "A 10-week Roadmap to Run LLMs in Production"
+  },
   "894d16f148": {
     "first_seen": "2026-06-16",
     "link": "https://arxiv.org/abs/2606.15029",
@@ -9638,6 +9643,11 @@
     "first_seen": "2026-07-25",
     "link": "https://thenewstack.io/stop-correcting-ai-code-build-the-system-agents-need",
     "title": "Stop correcting AI code. Build the system agents need."
+  },
+  "8b44e410e7": {
+    "first_seen": "2026-08-09",
+    "link": "https://thenewstack.io/real-cost-diy-platform",
+    "title": "Platform Engineering ROI: What it costs to build your own platform"
   },
   "8b460448c9": {
     "first_seen": "2026-07-25",
@@ -11929,6 +11939,11 @@
     "link": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
     "title": "[AINews] Silicon Valley gets Serious about Services"
   },
+  "ab7bbfb5a6": {
+    "first_seen": "2026-08-09",
+    "link": "https://www.infoq.com/news/2026/08/database-remediation-graph",
+    "title": "Stripe Uses Graph Search and State Machines to Automate Database Remediation"
+  },
   "ab806b216c": {
     "first_seen": "2026-06-17",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices",
@@ -12213,6 +12228,11 @@
     "first_seen": "2026-07-05",
     "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils",
     "title": "sqlite-utils 4.0rc2"
+  },
+  "b041bbbe66": {
+    "first_seen": "2026-08-09",
+    "link": "https://simonwillison.net/2026/Aug/8/auto-mode",
+    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
   },
   "b06f09a4fc": {
     "first_seen": "2026-05-06",
@@ -12568,6 +12588,11 @@
     "first_seen": "2026-07-26",
     "link": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability",
     "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC"
+  },
+  "b55e5bd331": {
+    "first_seen": "2026-08-09",
+    "link": "https://thenewstack.io/ai-productivity-measurement-gap",
+    "title": "AI coding got faster. Why didn\u2019t engineering?"
   },
   "b5695fe2e1": {
     "first_seen": "2026-05-07",
@@ -14758,6 +14783,11 @@
     "first_seen": "2026-06-02",
     "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "title": "Advancing youth safety and opportunity through global leadership"
+  },
+  "d725eb4939": {
+    "first_seen": "2026-08-09",
+    "link": "https://thenewstack.io/evaluating-coding-agents-framework",
+    "title": "Coding agents can be evaluated. We just have to evaluate the work."
   },
   "d72a8d080c": {
     "first_seen": "2026-06-03",
