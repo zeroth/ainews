@@ -1,45 +1,29 @@
 ---
 date: 2026-08-09
 title: Daily Bulletin — Sunday, August 9, 2026
-article_count: 5
-fetched_at: 2026-08-09T21:27:23+00:00
+article_count: 3
+fetched_at: 2026-08-10T21:37:00+00:00
 ---
 
-## ML & Model Development
+## AI Tools & Models
 
-### [A 10-week Roadmap to Run LLMs in Production](https://blog.dailydoseofds.com/p/a-10-week-roadmap-to-run-llms-in)
-*Daily Dose of Data Science*
+### [SQLite compressed text-history prototypes](https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype)
+*Simon Willison's Weblog*
 
-...covered with hands-on resources.
-
----
-
-## Software Architecture
-
-### [Stripe Uses Graph Search and State Machines to Automate Database Remediation](https://www.infoq.com/news/2026/08/database-remediation-graph)
-*InfoQ*
-
-The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio
+Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or...
 
 ---
 
-### [AI coding got faster. Why didn’t engineering?](https://thenewstack.io/ai-productivity-measurement-gap)
-*The New Stack*
+### [GitHub Models is now retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired)
+*Simon Willison's Weblog*
 
-AI is great at making individuals faster, but the surrounding systems are then slowing everything right back down. This result The post AI coding got faster. Why didn’t engineering? appeared first on The New Stack.
-
----
-
-### [Coding agents can be evaluated. We just have to evaluate the work.](https://thenewstack.io/evaluating-coding-agents-framework)
-*The New Stack*
-
-I recently argued with a software factory provider, whose position was that coding agents cannot be evaluated. Their reasoning was The post Coding agents can be evaluated. We just have to evaluate the work. appeared first on The New Stack.
+GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled retirement brownout. That message is already stale, because the retirement has...
 
 ---
 
-### [Platform Engineering ROI: What it costs to build your own platform](https://thenewstack.io/real-cost-diy-platform)
-*The New Stack*
+### [Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt)
+*Simon Willison's Weblog*
 
-What it actually costs to build your own internal developer platform over five years, and why most “we’ll just build The post Platform Engineering ROI: What it costs to build your own platform appeared first on The New Stack.
+Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026...
 
 ---
