@@ -387,7 +387,7 @@ footer.endmark .closing {
     <div class="dateline"><span>Thursday, August 13, 2026</span><span class="sep">—</span><span>No. 128</span></div>
     <div class="section-rule">
       <div class="bar"></div>
-      <div class="links"><a href="#sec-security">Security</a><a href="#sec-ai-labs">AI Labs</a><a href="#sec-ai-agents">AI Agents</a><a href="#sec-ml-model-development">ML &amp; Model Development</a><a href="#sec-ai-infrastructure">AI Infrastructure</a><a href="#sec-open-source-ai">Open Source AI</a><a href="#sec-building-ai-agents-architecture">Building AI Agents &amp; Architecture</a><a href="#sec-enterprise-ai-mlops">Enterprise AI &amp; MLOps</a><a href="#sec-software-architecture">Software Architecture</a><a href="#sec-infrastructure-security">Infrastructure &amp; Security</a></div>
+      <div class="links"><a href="#sec-ai-tools-models">AI Tools &amp; Models</a><a href="#sec-enterprise-ai-vision">Enterprise AI &amp; Vision</a></div>
       <div class="bar"></div>
     </div>
     <div class="subnav">
@@ -395,361 +395,74 @@ footer.endmark .closing {
         <a class="tab active" href="index.html">Today</a>
         <a class="tab" href="archive.html">Archives</a>
       </div>
-      <div class="stats">52 stories · fetched 21:40 UTC</div>
+      <div class="stats">9 stories · fetched 21:20 UTC</div>
     </div>
   </header>
   <main>
 <article class="hero">
-  <div class="hero-tag">Cover Story · Security</div>
-  <h2><a href="https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce" target="_blank" rel="noopener">Belgium&#x27;s eID Authentication Opens Citizen Accounts to RCE</a></h2>
-  <p class="summary">The trust framework underlying Belgium&#x27;s electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.</p>
+  <div class="hero-tag">Cover Story · AI Tools &amp; Models</div>
+  <h2><a href="https://simonwillison.net/2026/Aug/13/alchemy-utils" target="_blank" rel="noopener">alchemy-utils 0.1a1</a></h2>
+  <p class="summary">Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here.</p>
   <div class="hero-foot">
-    <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
-    <a class="read-link" href="https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce" target="_blank" rel="noopener">Read article →</a>
+    <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
+    <a class="read-link" href="https://simonwillison.net/2026/Aug/13/alchemy-utils" target="_blank" rel="noopener">Read article →</a>
   </div>
 </article>
-<section id="sec-security" class="section-block">
+<section id="sec-ai-tools-models" class="section-block">
   <div class="section-head">
     <span class="glyph">§</span>
-    <h3>Security</h3>
+    <h3>AI Tools &amp; Models</h3>
     <span class="count">3 pieces</span>
   </div>
   <div class="section-grid cols-2">
 <article class="article">
-  <h4><a href="https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft" target="_blank" rel="noopener">&#x27;Jewelbug&#x27; APT Balances State Espionage &amp;amp; Cryptocurrency Theft</a></h4>
-  <p>Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+  <h4><a href="https://simonwillison.net/2026/Aug/13/llm-gemini" target="_blank" rel="noopener">llm-gemini 0.33</a></h4>
+  <p>Release: llm-gemini 0.33 It&#x27;s been a while since the last llm-gemini release. This version of the plugin adds support for today&#x27;s Gemini 3.7 Flash release, plus gemini-3.6-flash, gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001. The plugin is also upgraded...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
 </article>
 <article class="article">
-  <h4><a href="https://www.stepsecurity.io/blog/teampcp-supply-chain-attack-cicd-secrets-cloudsek-disclosure" target="_blank" rel="noopener">Team PCP Stole 78,330 Secrets From 2,186 Organizations. CloudSEK Just Published the List.</a></h4>
-  <p>Team PCP exfiltrated 78,330 secrets from 2,186 organizations via CI/CD pipelines. Analysis of the CloudSEK disclosure, why attackers target CI/CD, and how to defend.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 158);color:oklch(0.88 0.08 158)">SB</span><span>StepSecurity Blog</span></div>
+  <h4><a href="https://simonwillison.net/2026/Aug/13/sqlite-utils" target="_blank" rel="noopener">sqlite-utils 4.2</a></h4>
+  <p>Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one. transform() now preserves a much larger array...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
 </article>
 <article class="article">
-  <h4><a href="https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw" target="_blank" rel="noopener">Global Threat Campaign Hits Critical VMware vCenter Flaw</a></h4>
-  <p>Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 306);color:oklch(0.88 0.08 306)">DR</span><span>Dark Reading</span></div>
+  <h4><a href="https://simonwillison.net/2026/Aug/13/sqlite-utils-2" target="_blank" rel="noopener">sqlite-utils 4.2.1</a></h4>
+  <p>Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2. I&#x27;d introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not listed as a dependency for sqlite-utils - it was installed by one of the other dependencies in the...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
 </article>
   </div>
 </section>
-<section id="sec-ai-labs" class="section-block">
+<section id="sec-enterprise-ai-vision" class="section-block">
   <div class="section-head">
     <span class="glyph">§</span>
-    <h3>AI Labs</h3>
-    <span class="count">4 pieces</span>
+    <h3>Enterprise AI &amp; Vision</h3>
+    <span class="count">5 pieces</span>
   </div>
   <div class="section-grid cols-2">
 <article class="article">
-  <h4><a href="https://openai.com/index/dali-rajic-chief-revenue-officer" target="_blank" rel="noopener">OpenAI appoints Dali Rajic as Chief Revenue Officer</a></h4>
-  <p>OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 120);color:oklch(0.88 0.08 120)">OB</span><span>OpenAI Blog</span></div>
+  <h4><a href="https://landing.ai/blog/agentic-document-extraction-second-generation-team-stories" target="_blank" rel="noopener">Team Stories about ADE Gen2: Engineers on Camera</a></h4>
+  <p>Eight LandingAI builders on Agentic Document Extraction Second Generation: document grounding, atomic citations, and the launch moment that went silent. Watch the clips.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 241);color:oklch(0.88 0.08 241)">LA</span><span>Landing AI Blog</span></div>
 </article>
 <article class="article">
-  <h4><a href="https://openai.com/index/previewing-ultrafast" target="_blank" rel="noopener">Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</a></h4>
-  <p>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 120);color:oklch(0.88 0.08 120)">OB</span><span>OpenAI Blog</span></div>
+  <h4><a href="https://landing.ai/blog/build-faster-with-ade-claude-skill" target="_blank" rel="noopener">Build Faster with ADE Claude Skills</a></h4>
+  <p>The ADE Claude Skill teaches Claude Code how LandingAI&#x27;s Agentic Document Extraction actually works — Parse, Build Schema, and Extract — so the pipelines it writes follow best practices. Install it in three commands, then start from a prompt library covering quickstart, batch-to-CSV, invoice...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 241);color:oklch(0.88 0.08 241)">LA</span><span>Landing AI Blog</span></div>
 </article>
 <article class="article">
-  <h4><a href="https://openai.com/index/builders-guide-to-gpt-5-6" target="_blank" rel="noopener">The builder’s guide to GPT‑5.6</a></h4>
-  <p>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 120);color:oklch(0.88 0.08 120)">OB</span><span>OpenAI Blog</span></div>
+  <h4><a href="https://landing.ai/blog/how-to-configure-parse-output" target="_blank" rel="noopener">How to Configure Parse Output</a></h4>
+  <p>A single options object controls the shape of every DPT-3 Parse response. This guide walks through each knob — pages, table format, per-block markdown, atomic_grounding, and inline_markdown — with its default, so you can start from defaults and turn one at a time.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 241);color:oklch(0.88 0.08 241)">LA</span><span>Landing AI Blog</span></div>
 </article>
 <article class="article">
-  <h4><a href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets" target="_blank" rel="noopener">Bring your spreadsheet data to life with Sheets canvas</a></h4>
-  <p>The video shows Sheets canvas in action.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 235);color:oklch(0.88 0.08 235)">GA</span><span>Google AI Blog</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-ai-agents" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>AI Agents</h3>
-    <span class="count">1 piece</span>
-  </div>
-  <div class="section-grid cols-1">
-<article class="article">
-  <h4><a href="https://www.latent.space/p/ainews-spacexai-grok-46-and-grok" target="_blank" rel="noopener">[AINews] SpaceXAI Grok 4.6 and Grok @Bot</a></h4>
-  <p>AI teammate category just had its most significant new entrant yet</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 210);color:oklch(0.88 0.08 210)">LS</span><span>Latent Space</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-ml-model-development" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>ML &amp; Model Development</h3>
-    <span class="count">16 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11207" target="_blank" rel="noopener">Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes</a></h4>
-  <p>arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
+  <h4><a href="https://landing.ai/blog/the-ade-vocabulary-six-core-concepts" target="_blank" rel="noopener">The ADE Vocabulary: Six Core Concepts</a></h4>
+  <p>Agentic Document Extraction is built from six composable operations — Parse, Extract, Classify, Split, Section, and Grounding. Learn what each one does, when to reach for it, and how they stack into a working document pipeline.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 241);color:oklch(0.88 0.08 241)">LA</span><span>Landing AI Blog</span></div>
 </article>
 <article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11210" target="_blank" rel="noopener">Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration</a></h4>
-  <p>arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11211" target="_blank" rel="noopener">A Forced-Structure Reduction and Verifiable Bounds for Conway&#x27;s 99-Graph</a></h4>
-  <p>arXiv:2608.11211v1 Announce Type: new Abstract: Conway&#x27;s 99-graph problem asks whether a strongly regular graph with parameters $\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track&#x27;s partial-credit metric. Our...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11212" target="_blank" rel="noopener">Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts</a></h4>
-  <p>arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire....</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11215" target="_blank" rel="noopener">Poor Man&#x27;s Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop</a></h4>
-  <p>arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11216" target="_blank" rel="noopener">AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research</a></h4>
-  <p>arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11218" target="_blank" rel="noopener">MaSRead: Content-Addressed Reading of Replicated Latent Stores</a></h4>
-  <p>arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these fragments form a store that converges under any delivery order or duplication....</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11219" target="_blank" rel="noopener">From Monolithic to Modular: Segment-level Automatic Prompt Optimization</a></h4>
-  <p>arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts into role, context, tasks, and output format, then...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11220" target="_blank" rel="noopener">LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&amp;IDs</a></h4>
-  <p>arXiv:2608.11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&amp;amp;ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11221" target="_blank" rel="noopener">A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems</a></h4>
-  <p>arXiv:2608.11221v1 Announce Type: new Abstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific domains of expertise. The behaviour of these systems emerges from the interaction between those artefacts and their...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11224" target="_blank" rel="noopener">Harnessing agent memory to build lifelong AI partners for materials scientists</a></h4>
-  <p>arXiv:2608.11224v1 Announce Type: new Abstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11225" target="_blank" rel="noopener">Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones</a></h4>
-  <p>arXiv:2608.11225v1 Announce Type: new Abstract: AI &quot;personality clones&quot; force a re-examination of personal identity in operational terms. Setting aside the hard problem of consciousness, we approach identity through the indiscernibility of manifestations, as assessed by an observer over a duration....</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11226" target="_blank" rel="noopener">Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet</a></h4>
-  <p>arXiv:2608.11226v1 Announce Type: new Abstract: Reinforcement-learning post-training dominates modern language-model development, yet its power behavior on GPU hardware has not been characterized, and datacenters manage GPU power with workload-blind mechanisms, static caps and reactive throttling,...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11227" target="_blank" rel="noopener">Forecasting Side Effects of Activation Steering</a></h4>
-  <p>arXiv:2608.11227v1 Announce Type: new Abstract: Activation steering modifies a language model by adding a learned direction to its hidden activations, enabling targeted behavioral changes without retraining. While effective, steering often produces unintended side effects on other behaviors, making...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://arxiv.org/abs/2608.11229" target="_blank" rel="noopener">Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)</a></h4>
-  <p>arXiv:2608.11229v1 Announce Type: new Abstract: Comparative feedback, asking people which of two behaviors they prefer, has become a standard way to align robot and agent behavior with human intent when the reward itself cannot be specified directly. Preference-based reward learning typically casts...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 228);color:oklch(0.88 0.08 228)">AA</span><span>arXiv Artificial Intelligence (cs.AI)</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://blog.dailydoseofds.com/p/continuous-batching-in-llms" target="_blank" rel="noopener">Continuous Batching in LLMs</a></h4>
-  <p>The technique behind vLLM&#x27;s 23x throughput jump and the default scheduler in every serving engine.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 91);color:oklch(0.88 0.08 91)">DD</span><span>Daily Dose of Data Science</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-ai-infrastructure" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>AI Infrastructure</h3>
-    <span class="count">2 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline" target="_blank" rel="noopener">LLMOps and platform engineering: Who should own the AI pipeline?</a></h4>
-  <p>A few years ago, getting a model into production meant a data scientist, a DevOps engineer, and a narrow set of tools: train it, test it, ship it, watch the dashboards. Large language models broke that...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 252);color:oklch(0.88 0.08 252)">CB</span><span>CNCF Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack" target="_blank" rel="noopener">Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack</a></h4>
-  <p>Dragonfly speeds up file and container image distribution using peer-to-peer (P2P) technology, but a standard installation deploys several components and dependencies. Beyond the Scheduler, Seed Client, and Client that move data, a traditional setup requires a...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 252);color:oklch(0.88 0.08 252)">CB</span><span>CNCF Blog</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-open-source-ai" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>Open Source AI</h3>
-    <span class="count">2 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://huggingface.co/blog/icml-2026-open-reproductions" target="_blank" rel="noopener">What We Learned by Reproducing 2,200 papers from ICML</a></h4>
-  
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 242);color:oklch(0.88 0.08 242)">HF</span><span>Hugging Face Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop" target="_blank" rel="noopener">Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</a></h4>
-  
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 242);color:oklch(0.88 0.08 242)">HF</span><span>Hugging Face Blog</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-building-ai-agents-architecture" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>Building AI Agents &amp; Architecture</h3>
-    <span class="count">1 piece</span>
-  </div>
-  <div class="section-grid cols-1">
-<article class="article">
-  <h4><a href="https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition" target="_blank" rel="noopener">A Detailed Guide to API Composition Techniques</a></h4>
-  <p>In this article, we are going to dive deep into the area of the API composition problem and the patterns associated with it.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 240);color:oklch(0.88 0.08 240)">BY</span><span>ByteByteGo</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-enterprise-ai-mlops" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>Enterprise AI &amp; MLOps</h3>
-    <span class="count">2 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization" target="_blank" rel="noopener">Constraining Output Space for SLM Narrow Automation Optimization</a></h4>
-  <p>This article will kick off a series on narrow automation optimization for SLMs, and as the first entry will cover one of the more most useful techniques for doing so: constraining the output space instead of parsing generated text.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 188);color:oklch(0.88 0.08 188)">KD</span><span>KDnuggets</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.kdnuggets.com/building-a-streaming-local-ai-agent" target="_blank" rel="noopener">Building a Streaming Local AI Agent</a></h4>
-  <p>Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 188);color:oklch(0.88 0.08 188)">KD</span><span>KDnuggets</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-software-architecture" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>Software Architecture</h3>
-    <span class="count">18 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus" target="_blank" rel="noopener">Adobe Firefly: Simplified observability with Amazon Managed Prometheus</a></h4>
-  <p>Learn how Adobe Firefly achieved 28x faster GPU metric queries by migrating from self-managed Prometheus to Amazon Managed Service for Prometheus, with improvements in query performance, infrastructure reliability, and operational efficiency.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 348);color:oklch(0.88 0.08 348)">AA</span><span>AWS Architecture Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates" target="_blank" rel="noopener">Reducing Text2SQL latency with parameterized query templates</a></h4>
-  <p>Learn how parameterized query templates reduced Text2SQL latency by 80% and cut token consumption by over 50%. This post covers the architecture behind an intelligent caching layer that uses semantic similarity to match user questions to SQL templates, bypassing expensive LLM calls.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 348);color:oklch(0.88 0.08 348)">AA</span><span>AWS Architecture Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/astro-7-release-speed" target="_blank" rel="noopener">Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster</a></h4>
-  <p>Astro 7 focuses on build performance, utilizing native tooling and a rewritten compiler in Rust. The new version includes faster Markdown processing and stricter HTML rules. Recent updates introduced advanced routing and incremental builds, while issues around legacy file compatibility and...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/presentations/migration-mobile-application" target="_blank" rel="noopener">Presentation: Migrating Uber Eats Feeds to Webview</a></h4>
-  <p>Nick DiStefano shares how Uber Eats migrated from traditional native app screens to a native-driven, single-page WebView architecture. He explains key strategies for engineering leaders and software architects looking to bypass native release cycles, manage cross-platform state, build generic...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/claude-sandox-breach" target="_blank" rel="noopener">Anthropic&#x27;s Claude Breaches Sandbox During Model Security Evaluations</a></h4>
-  <p>Anthropic conducted an audit of 141006 evaluation runs after OpenAI&#x27;s sandbox escape disclosure. The review identified three incidents where Claude models accessed the internet due to misconfigurations. These incidents involved unauthorised attacks on live targets. Anthropic has suspended offensive...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/AI-disrupts-engineering-progress" target="_blank" rel="noopener">How Artificial Intelligence Disrupts Engineering Progression</a></h4>
-  <p>AI is disrupting career progression by eliminating the learning opportunities at each rung while simultaneously enabling people to perform above their experience level, Alasdair Allan explained in his talk Engineering Progression When AI Ate the Middle at QCon London. Fewer junior developers join...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-ai-for-real-estate-with-ben-miller" target="_blank" rel="noopener">Generative AI in the Real World: AI for Real Estate with Ben Miller</a></h4>
-  <p>A typical apartment building generates data on everything from leaking toilet flappers to tenant demographics, yet most of the real estate industry still runs its analysis by hand in spreadsheets. Fundrise co-founder and RealAI CEO Ben Miller argues the missing piece isn&amp;#8217;t a better AI model...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 305);color:oklch(0.88 0.08 305)">OR</span><span>O&#x27;Reilly Radar</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements" target="_blank" rel="noopener">Recovery strategies to meet data residency requirements</a></h4>
-  <p>Learn three strategies for achieving disaster recovery while meeting data residency requirements. Ranging from encryption-based controls on multi-Region replication to fully in-country architectures, these patterns help you balance recovery objectives with regulatory constraints.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 348);color:oklch(0.88 0.08 348)">AA</span><span>AWS Architecture Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/mistral-third-party-open-models" target="_blank" rel="noopener">Five European companies just agreed to buy AI compute that doesn’t exist yet</a></h4>
-  <p>Mistral AI, the French AI company that built its reputation releasing open-weight models, wants companies to use its infrastructure even The post Five European companies just agreed to buy AI compute that doesn&amp;#8217;t exist yet appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/code-review-taste-problem" target="_blank" rel="noopener">Code review is a taste problem</a></h4>
-  <p>Code review is becoming the most important decision-making surface in software engineering, and it&amp;#8217;s outgrowing the diff. The assumption was The post Code review is a taste problem appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/vercel-v0-api" target="_blank" rel="noopener">Vercel Launches v0 API for Headless App Building</a></h4>
-  <p>Vercel has made the v0 API generally available, enabling developers and AI agents to programmatically generate, iterate on, preview, and deploy applications through API calls. By Daniel Dominguez</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles" target="_blank" rel="noopener">Track generative AI costs with Amazon Bedrock inference profiles</a></h4>
-  <p>Learn how to track generative AI costs by department using Amazon Bedrock application inference profiles and AWS cost allocation tags. Create tagged profiles for each team and view per-department cost breakdowns in AWS Cost Explorer.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 348);color:oklch(0.88 0.08 348)">AA</span><span>AWS Architecture Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/ai-pipeline-token-optimization" target="_blank" rel="noopener">Why your AI pipeline costs 10x more after the demo</a></h4>
-  <p>Every token has a price. The problem is that most AI systems don’t reveal the bill until they reach production. The post Why your AI pipeline costs 10x more after the demo appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.oreilly.com/radar/prompt-debt-and-fighting-the-weights" target="_blank" rel="noopener">Prompt Debt and “Fighting the Weights”</a></h4>
-  <p>Drew Breunig is one of the smartest voices writing about AI today. He&amp;#8217;s the CEO and co-founder of cmpnd.ai, and a long-time hacker with a depth of experience from several eras, which is a surprisingly valuable asset these days. He&amp;#8217;s also got a book on the way, The Context Engineering...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 305);color:oklch(0.88 0.08 305)">OR</span><span>O&#x27;Reilly Radar</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/deepseek-harness-open-source-plugins" target="_blank" rel="noopener">DeepSeek open sources an agent harness where everything is a plugin</a></h4>
-  <p>DeepSeek on Thursday open sourced the DeepSeek Harness, a new agent runtime for developers. The Node.js-based harness is now available The post DeepSeek open sources an agent harness where everything is a plugin appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/rubrik-mythos-learnings" target="_blank" rel="noopener">Rubrik’s lessons from one month with Mythos Preview</a></h4>
-  <p>After it joined Project Glasswing and gained access to experiment with Mythos Preview, security and AI company Rubrik learned it The post Rubrik’s lessons from one month with Mythos Preview appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/openai-chatgpt-computer-history" target="_blank" rel="noopener">ChatGPT can now remember what you did on your Mac — without screenshots</a></h4>
-  <p>OpenAI is launching a new feature for ChatGPT Work and Codex on macOS that sounds quite useful but may also The post ChatGPT can now remember what you did on your Mac — without screenshots appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://thenewstack.io/gemini-3-7-flash-agents" target="_blank" rel="noopener">The AI model that just scored 65% on DeepSWE isn’t the one Google promised.</a></h4>
-  <p>Google has a new Gemini model, and no, it is not Gemini 3.5 Pro. Gemini 3.7 Flash launched Thursday as The post The AI model that just scored 65% on DeepSWE isn&amp;#8217;t the one Google promised. appeared first on The New Stack.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 193);color:oklch(0.88 0.08 193)">TN</span><span>The New Stack</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-infrastructure-security" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>Infrastructure &amp; Security</h3>
-    <span class="count">2 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://blog.cloudflare.com/certificate-transparency-monitoring-ga" target="_blank" rel="noopener">Certificate Transparency Monitoring is now generally available</a></h4>
-  <p>Cloudflare&#x27;s Certificate Transparency Monitoring is now generally available. The biggest change: we no longer email you about certificates Cloudflare issued for your domain, so when an alert lands in your inbox, it&#x27;s worth a look.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 305);color:oklch(0.88 0.08 305)">CB</span><span>Cloudflare Blog</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal" target="_blank" rel="noopener">Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal</a></h4>
-  <p>Cloudflare&#x27;s data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 305);color:oklch(0.88 0.08 305)">CB</span><span>Cloudflare Blog</span></div>
+  <h4><a href="https://landing.ai/blog/understanding-parse-output" target="_blank" rel="noopener">Understanding Parse Output: Markdown, Structure, and Metadata</a></h4>
+  <p>A DPT-3 parse returns three top-level fields — markdown to read the document, structure to locate every block, and metadata to account for the job. Grounding rides inline on each block, so every value traces back to the exact line and box it came from.</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 241);color:oklch(0.88 0.08 241)">LA</span><span>Landing AI Blog</span></div>
 </article>
   </div>
 </section>
