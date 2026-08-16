@@ -2704,6 +2704,11 @@
     "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI"
   },
+  "255fe1a54d": {
+    "first_seen": "2026-08-16",
+    "link": "https://simonwillison.net/2026/Aug/16/dario-amodei",
+    "title": "Quoting Dario Amodei"
+  },
   "25655d1c11": {
     "first_seen": "2026-06-02",
     "link": "https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools",
@@ -6239,6 +6244,11 @@
     "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
     "title": "Introducing new capabilities to GPT-Rosalind"
   },
+  "533a69586f": {
+    "first_seen": "2026-08-16",
+    "link": "https://www.infoq.com/news/2026/08/meta-muse-glimmer",
+    "title": "Meta Open-Sources Muse Glimmer: a 30B Local Agentic Model Optimised for On-Device Execution"
+  },
   "5346d32388": {
     "first_seen": "2026-06-01",
     "link": "https://blog.cloudflare.com/optimizing-core-unit-boot-time",
@@ -6418,6 +6428,11 @@
     "first_seen": "2026-07-29",
     "link": "https://www.cncf.io/blog/2026/07/28/how-japans-250-training-surge-is-shaping-global-ai-talent",
     "title": "How Japan\u2019s 250% Training Surge is Shaping Global AI Talent"
+  },
+  "55ab4a03bd": {
+    "first_seen": "2026-08-16",
+    "link": "https://blog.dailydoseofds.com/p/a-cheaper-model-does-not-imply-a",
+    "title": "A Cheaper Model Does Not Imply a Cheaper Turn"
   },
   "55dffdd3a1": {
     "first_seen": "2026-05-13",
@@ -8388,6 +8403,11 @@
     "first_seen": "2026-06-06",
     "link": "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents",
     "title": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents"
+  },
+  "6fd15409ce": {
+    "first_seen": "2026-08-16",
+    "link": "https://www.infoq.com/news/2026/08/pgsimcity",
+    "title": "How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation"
   },
   "6fd3882c91": {
     "first_seen": "2026-06-10",
@@ -11989,6 +12009,11 @@
     "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
     "title": "Attackers Weaponize RubyGems for Data Dead Drops"
   },
+  "a01b26c1ea": {
+    "first_seen": "2026-08-16",
+    "link": "https://www.infoq.com/news/2026/08/npm-12-released",
+    "title": "npm 12 Released: Install Scripts off by Default as Registry Moves to Explicit Trust"
+  },
   "a0669834e8": {
     "first_seen": "2026-08-11",
     "link": "https://www.infoq.com/news/2026/08/lightwell-ai-open-source",
@@ -12393,6 +12418,11 @@
     "first_seen": "2026-07-18",
     "link": "https://www.latent.space/p/ainews-not-much-happened-today-830",
     "title": "[AINews] not much happened today"
+  },
+  "a59835ed51": {
+    "first_seen": "2026-08-16",
+    "link": "https://simonwillison.net/2026/Aug/15/cors-chat",
+    "title": "CORS Chat"
   },
   "a59a550461": {
     "first_seen": "2026-07-09",
@@ -14124,6 +14154,11 @@
     "link": "https://simonwillison.net/2026/Jun/1/may-newsletter",
     "title": "May 2026 newsletter"
   },
+  "bd56afd985": {
+    "first_seen": "2026-08-16",
+    "link": "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy",
+    "title": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls"
+  },
   "bd71860b88": {
     "first_seen": "2026-05-15",
     "link": "https://simonwillison.net/2026/May/15/qr-code-generator",
@@ -15533,6 +15568,11 @@
     "first_seen": "2026-05-25",
     "link": "https://simonwillison.net/2026/May/24/datasette",
     "title": "datasette 1.0a30"
+  },
+  "d17357dbdf": {
+    "first_seen": "2026-08-16",
+    "link": "https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec",
+    "title": "LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags behind"
   },
   "d1a167bede": {
     "first_seen": "2026-05-19",
@@ -18328,6 +18368,11 @@
     "first_seen": "2026-08-07",
     "link": "https://www.oreilly.com/radar/building-organizational-intelligence",
     "title": "Building Organizational Intelligence"
+  },
+  "f7f02381c3": {
+    "first_seen": "2026-08-16",
+    "link": "https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search",
+    "title": "AWS Introduces Native Vector Search for DynamoDB"
   },
   "f80ef78aa5": {
     "first_seen": "2026-05-18",
