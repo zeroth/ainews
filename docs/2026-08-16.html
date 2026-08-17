@@ -387,7 +387,7 @@ footer.endmark .closing {
     <div class="dateline"><span>Sunday, August 16, 2026</span><span class="sep">—</span><span>No. 131</span></div>
     <div class="section-rule">
       <div class="bar"></div>
-      <div class="links"><a href="#sec-ai-tools-models">AI Tools &amp; Models</a><a href="#sec-ml-model-development">ML &amp; Model Development</a><a href="#sec-software-architecture">Software Architecture</a></div>
+      <div class="links"><a href="#sec-ai-tools-models">AI Tools &amp; Models</a></div>
       <div class="bar"></div>
     </div>
     <div class="subnav">
@@ -395,54 +395,30 @@ footer.endmark .closing {
         <a class="tab active" href="index.html">Today</a>
         <a class="tab" href="archive.html">Archives</a>
       </div>
-      <div class="stats">5 stories · fetched 21:15 UTC</div>
+      <div class="stats">2 stories · fetched 21:21 UTC</div>
     </div>
   </header>
   <main>
 <article class="hero">
   <div class="hero-tag">Cover Story · AI Tools &amp; Models</div>
-  <h2><a href="https://simonwillison.net/2026/Aug/16/dario-amodei" target="_blank" rel="noopener">Quoting Dario Amodei</a></h2>
-  <p class="summary">I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis of trust. I think that ordinary people don’t trust companies, governments, or...</p>
+  <h2><a href="https://simonwillison.net/2026/Aug/16/qwen-38-27b" target="_blank" rel="noopener">Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</a></h2>
+  <p class="summary">Friday&#x27;s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba&#x27;s Qwen research lab. I&#x27;ve been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen&#x27;s...</p>
   <div class="hero-foot">
     <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
-    <a class="read-link" href="https://simonwillison.net/2026/Aug/16/dario-amodei" target="_blank" rel="noopener">Read article →</a>
+    <a class="read-link" href="https://simonwillison.net/2026/Aug/16/qwen-38-27b" target="_blank" rel="noopener">Read article →</a>
   </div>
 </article>
-<section id="sec-ml-model-development" class="section-block">
+<section id="sec-ai-tools-models" class="section-block">
   <div class="section-head">
     <span class="glyph">§</span>
-    <h3>ML &amp; Model Development</h3>
+    <h3>AI Tools &amp; Models</h3>
     <span class="count">1 piece</span>
   </div>
   <div class="section-grid cols-1">
 <article class="article">
-  <h4><a href="https://blog.dailydoseofds.com/p/a-cheaper-model-does-not-imply-a" target="_blank" rel="noopener">A Cheaper Model Does Not Imply a Cheaper Turn</a></h4>
-  <p>The practical implications of model routing, clearly explained.</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 91);color:oklch(0.88 0.08 91)">DD</span><span>Daily Dose of Data Science</span></div>
-</article>
-  </div>
-</section>
-<section id="sec-software-architecture" class="section-block">
-  <div class="section-head">
-    <span class="glyph">§</span>
-    <h3>Software Architecture</h3>
-    <span class="count">3 pieces</span>
-  </div>
-  <div class="section-grid cols-2">
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/pgsimcity" target="_blank" rel="noopener">How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation</a></h4>
-  <p>Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser. It assists backend developers and site reliability engineers in understanding SQL and the dynamics of kernel execution. The project is...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search" target="_blank" rel="noopener">AWS Introduces Native Vector Search for DynamoDB</a></h4>
-  <p>Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from DynamoDB without using a separate vector database. The feature supports filtered similarity searches and...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
-</article>
-<article class="article">
-  <h4><a href="https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy" target="_blank" rel="noopener">AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls</a></h4>
-  <p>AWS has open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules can reason about an agent&#x27;s prior tool calls rather than one request in isolation. It covers approvals, rate limits and running totals, ships under Apache 2.0, and is supported in AgentCore Policy,...</p>
-  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 147);color:oklch(0.88 0.08 147)">IN</span><span>InfoQ</span></div>
+  <h4><a href="https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades" target="_blank" rel="noopener">Markdown SVG upgrades</a></h4>
+  <p>I started building my markdown-svg-renderer tool in May, but I&#x27;ve since added enough features to it that it&#x27;s worth talking about here again. It&#x27;s evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is...</p>
+  <div class="meta"><span class="source-glyph" style="background:oklch(0.32 0.06 63);color:oklch(0.88 0.08 63)">SW</span><span>Simon Willison&#x27;s Weblog</span></div>
 </article>
   </div>
 </section>
