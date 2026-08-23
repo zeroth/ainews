@@ -3094,6 +3094,11 @@
     "link": "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
     "title": "ChatGPT vs Gemini vs Claude: How They Differ"
   },
+  "27c0b50f22": {
+    "first_seen": "2026-08-23",
+    "link": "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm",
+    "title": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability"
+  },
   "27d714ed25": {
     "first_seen": "2026-08-04",
     "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
@@ -4158,6 +4163,11 @@
     "first_seen": "2026-06-20",
     "link": "https://www.infoq.com/news/2026/06/cognito-replication-aws",
     "title": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service"
+  },
+  "34f7de9079": {
+    "first_seen": "2026-08-23",
+    "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+    "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk"
   },
   "351c7dfe61": {
     "first_seen": "2026-06-11",
@@ -8524,6 +8534,11 @@
     "link": "https://www.oreilly.com/radar/prompt-injection-to-data-exfil-in-3-hops",
     "title": "Prompt Injection to Data Exfil in 3 Hops"
   },
+  "6a82c19a7d": {
+    "first_seen": "2026-08-23",
+    "link": "https://simonwillison.net/2026/Aug/23/drew-breunig",
+    "title": "Quoting Drew Breunig"
+  },
   "6a967984a9": {
     "first_seen": "2026-05-11",
     "link": "https://www.infoq.com/articles/local-first-ai-inference-cloud",
@@ -11359,6 +11374,11 @@
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
     "title": "Brazilian Banking Trojan Actively Spreading in Portugal"
   },
+  "8e6a897780": {
+    "first_seen": "2026-08-23",
+    "link": "https://thenewstack.io/ai-coding-agent-security",
+    "title": "One pull to wipe them all"
+  },
   "8e807b677d": {
     "first_seen": "2026-07-29",
     "link": "https://arxiv.org/abs/2607.24779",
@@ -12013,6 +12033,11 @@
     "first_seen": "2026-07-02",
     "link": "https://www.latent.space/p/autoresearch-introspection",
     "title": "Autoresearch: The feedback loop behind self-improving agents"
+  },
+  "963138f30d": {
+    "first_seen": "2026-08-23",
+    "link": "https://thenewstack.io/real-time-ai-scale",
+    "title": "Why real-time AI at scale is so hard"
   },
   "9640c3f28f": {
     "first_seen": "2026-06-04",
@@ -12894,6 +12919,11 @@
     "link": "https://thenewstack.io/bun-developers-complaints-anthropic",
     "title": "\u201cReal maturity problems\u201d: Not every developer is thrilled with Bun after Anthropic acquisition"
   },
+  "a0956499c1": {
+    "first_seen": "2026-08-23",
+    "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+    "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near"
+  },
   "a09cfa95c5": {
     "first_seen": "2026-08-17",
     "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -13398,6 +13428,11 @@
     "first_seen": "2026-08-01",
     "link": "https://thenewstack.io/designing-apis-for-agents",
     "title": "Designing APIs for agents"
+  },
+  "a69c8cfb16": {
+    "first_seen": "2026-08-23",
+    "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+    "title": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive"
   },
   "a6aee7e771": {
     "first_seen": "2026-08-17",
@@ -15068,6 +15103,11 @@
     "first_seen": "2026-06-02",
     "link": "https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai",
     "title": "Cloud native is now AI-native: Engineering production-ready AI"
+  },
+  "bbddf13328": {
+    "first_seen": "2026-08-23",
+    "link": "https://www.infoq.com/news/2026/08/amd-memory-exploit",
+    "title": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation"
   },
   "bbf34f9da4": {
     "first_seen": "2026-06-19",
@@ -19088,6 +19128,11 @@
     "first_seen": "2026-05-29",
     "link": "https://newsletter.aipolicybulletin.org/p/ai-cybersecurity-needs-an-anti-money",
     "title": "AI Cybersecurity Needs an Anti-Money Laundering Playbook"
+  },
+  "f043147ee6": {
+    "first_seen": "2026-08-23",
+    "link": "https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise",
+    "title": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure"
   },
   "f05079a6bf": {
     "first_seen": "2026-05-18",
