@@ -3149,6 +3149,11 @@
     "link": "https://www.kdnuggets.com/stop-wasting-tokens-a-smarter-alternative-to-json-for-llm-pipelines",
     "title": "Stop Wasting Tokens: A Smarter Alternative to JSON for LLM Pipelines"
   },
+  "2677a172b4": {
+    "first_seen": "2026-09-05",
+    "link": "https://www.infoq.com/news/2026/09/blume-docs-ai",
+    "title": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website"
+  },
   "269ae0e9b1": {
     "first_seen": "2026-09-04",
     "link": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -5819,6 +5824,11 @@
     "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "title": "OpenAI Campus Network: Student club interest form"
   },
+  "44cd75ceba": {
+    "first_seen": "2026-09-05",
+    "link": "https://thenewstack.io/gpt6-astra-developer-access-delayed",
+    "title": "\u201cSorry for the messy rollout\u201d: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling"
+  },
   "44d118b0c7": {
     "first_seen": "2026-05-27",
     "link": "https://newsletter.pragmaticengineer.com/p/opencode",
@@ -7144,6 +7154,11 @@
     "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
     "title": "Safe Events Start With Threat Intel and Digital Security"
   },
+  "5384614e9b": {
+    "first_seen": "2026-09-05",
+    "link": "https://www.infoq.com/news/2026/09/google-beyond-zero",
+    "title": "Beyond Zero: Google Publishes Successor to BeyondCorp"
+  },
   "538464277b": {
     "first_seen": "2026-07-20",
     "link": "https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development",
@@ -7678,6 +7693,11 @@
     "first_seen": "2026-08-07",
     "link": "https://blog.cloudflare.com/ai-search-easier",
     "title": "Cloudflare AI Search: give your agents a search engine for your data"
+  },
+  "59ea84b6c6": {
+    "first_seen": "2026-09-05",
+    "link": "https://thenewstack.io/claude-fable-upgrade-tested",
+    "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn\u2019t tell them apart."
   },
   "59fc2b808d": {
     "first_seen": "2026-07-29",
@@ -9133,6 +9153,11 @@
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
     "title": "Instructure Breach Exposes Schools' Vendor Dependence"
+  },
+  "6bc7ea9bb3": {
+    "first_seen": "2026-09-05",
+    "link": "https://openai.com/index/gpt-6-astra",
+    "title": "GPT-6 Astra: A new generation of intelligence"
   },
   "6bf655340c": {
     "first_seen": "2026-06-30",
@@ -11088,6 +11113,11 @@
     "first_seen": "2026-07-29",
     "link": "https://thenewstack.io/modus-enterprise-context-warehouse",
     "title": "Modus\u2019s operandi: To give AI agents just the right amount of context"
+  },
+  "829c3b114d": {
+    "first_seen": "2026-09-05",
+    "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+    "title": "Using Blender with coding agents on macOS"
   },
   "829e79f920": {
     "first_seen": "2026-06-03",
@@ -13439,6 +13469,11 @@
     "link": "https://arxiv.org/abs/2606.17405",
     "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation"
   },
+  "9e7b19653b": {
+    "first_seen": "2026-09-05",
+    "link": "https://thenewstack.io/building-trust-agentic-rag",
+    "title": "Building trust in agentic RAG starts with evidence"
+  },
   "9e7fb24e83": {
     "first_seen": "2026-07-09",
     "link": "https://www.stepsecurity.io/blog/introducing-secret-exfiltration-protection-for-github-actions",
@@ -15678,6 +15713,11 @@
     "first_seen": "2026-08-11",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
     "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
+  },
+  "b7e5e66438": {
+    "first_seen": "2026-09-05",
+    "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+    "title": "The Pelican comparison grid for Astra is pretty interesting"
   },
   "b8002670df": {
     "first_seen": "2026-07-17",
@@ -18339,6 +18379,11 @@
     "link": "https://blog.dailydoseofds.com/p/loop-engineering-design-the-system",
     "title": "Loop Engineering: Design the System That Prompts Agents"
   },
+  "d96d28ac31": {
+    "first_seen": "2026-09-05",
+    "link": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
+    "title": "EP224: MCP vs RAG vs AI Agents"
+  },
   "d97858d3fb": {
     "first_seen": "2026-08-20",
     "link": "https://thenewstack.io/warp-software-factory-infrastructure",
@@ -19989,6 +20034,11 @@
     "link": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs",
     "title": "Presentation: The Free-Lunch Guide to Idea Circularity"
   },
+  "eef601ea72": {
+    "first_seen": "2026-09-05",
+    "link": "https://www.infoq.com/news/2026/09/jupyter-gis-extension",
+    "title": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS"
+  },
   "eef9cac05d": {
     "first_seen": "2026-07-11",
     "link": "https://arxiv.org/abs/2607.07916",
@@ -20699,6 +20749,11 @@
     "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
     "title": "The Pulse: Grok\u2019s CLI caught uploading all your local files to the cloud"
   },
+  "f71e8f88fc": {
+    "first_seen": "2026-09-05",
+    "link": "https://www.latent.space/p/grok-bot",
+    "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot"
+  },
   "f72749a0ed": {
     "first_seen": "2026-07-27",
     "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli",
@@ -21033,6 +21088,11 @@
     "first_seen": "2026-06-22",
     "link": "https://www.infoq.com/news/2026/06/java-news-roundup-jun15-2026",
     "title": "Java News Roundup: Spring Tools, Helidon, Open Liberty, TomEE, JobRunr, Hibernate, Commonhaus"
+  },
+  "fa4a59c45c": {
+    "first_seen": "2026-09-05",
+    "link": "https://www.infoq.com/presentations/ai-predictions-2030",
+    "title": "Presentation: A Few Predicted Talks From QConAI 2030"
   },
   "fa51a77279": {
     "first_seen": "2026-05-21",
