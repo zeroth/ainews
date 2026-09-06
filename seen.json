@@ -5094,6 +5094,11 @@
     "link": "https://arxiv.org/abs/2606.12702",
     "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System"
   },
+  "3ba1c4209a": {
+    "first_seen": "2026-09-06",
+    "link": "https://simonwillison.net/2026/Sep/6/zach-kehs",
+    "title": "Quoting Zach Kehs"
+  },
   "3ba56e7fd2": {
     "first_seen": "2026-08-13",
     "link": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
@@ -5288,6 +5293,11 @@
     "first_seen": "2026-06-11",
     "link": "https://thenewstack.io/ai-training-data-quality",
     "title": "Cleaner AI training data, fewer bugs: Sonar\u2019s SonarSweep explained"
+  },
+  "3e437110eb": {
+    "first_seen": "2026-09-06",
+    "link": "https://blog.dailydoseofds.com/p/kv-cache-engineering-for-llm-serving",
+    "title": "KV Cache Engineering for LLM Serving"
   },
   "3e487370d4": {
     "first_seen": "2026-05-25",
@@ -7714,6 +7724,11 @@
     "link": "https://simonwillison.net/2026/Jun/29/safari-tab-count",
     "title": "Count the number of Safari tabs"
   },
+  "5a255e2f88": {
+    "first_seen": "2026-09-06",
+    "link": "https://thenewstack.io/polars-streaming-row-order",
+    "title": "Polars 2.0 pre-release comes with a 5x speed boost \u2014 but it could change row order"
+  },
   "5a36139296": {
     "first_seen": "2026-05-27",
     "link": "https://thenewstack.io/snowflake-aws-6b-commitment",
@@ -9178,6 +9193,11 @@
     "first_seen": "2026-06-23",
     "link": "https://www.dataengineeringweekly.com/p/you-dont-graduate-from-data-engineering",
     "title": "You Don't Graduate From Data Engineering: Why We Built aide for Continuous Learning"
+  },
+  "6bff6a2bc4": {
+    "first_seen": "2026-09-06",
+    "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get",
+    "title": "There's No Limit to How Bad Code Can Get"
   },
   "6c0e9b5e64": {
     "first_seen": "2026-06-09",
@@ -14284,6 +14304,11 @@
     "link": "https://arxiv.org/abs/2605.27571",
     "title": "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems"
   },
+  "a7141f15ce": {
+    "first_seen": "2026-09-06",
+    "link": "https://www.infoq.com/news/2026/09/freecore-truenas-fork",
+    "title": "FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD"
+  },
   "a72c4ef8b1": {
     "first_seen": "2026-08-13",
     "link": "https://thenewstack.io/rubrik-mythos-learnings",
@@ -15724,6 +15749,11 @@
     "link": "https://thenewstack.io/1password-agent-authentication-framework",
     "title": "1Password\u2019s new browser integration for Claude changes how AI uses your credentials"
   },
+  "b81058e64d": {
+    "first_seen": "2026-09-06",
+    "link": "https://www.infoq.com/news/2026/09/figma-security-agents",
+    "title": "How Figma Uses AI Agents for Security"
+  },
   "b81f488518": {
     "first_seen": "2026-08-18",
     "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
@@ -15743,6 +15773,11 @@
     "first_seen": "2026-05-06",
     "link": "https://simonwillison.net/2026/May/6/code-w-claude-2026",
     "title": "Live blog: Code w/ Claude 2026"
+  },
+  "b835ff82c6": {
+    "first_seen": "2026-09-06",
+    "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams",
+    "title": "The purpose of DNS is to spread scams"
   },
   "b83fb3566c": {
     "first_seen": "2026-08-24",
@@ -17474,6 +17509,11 @@
     "link": "https://openai.com/index/australian-payments-plus",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex"
   },
+  "cdd2663f13": {
+    "first_seen": "2026-09-06",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "title": "Research acceleration: The view inside OpenAI"
+  },
   "cddc095dfd": {
     "first_seen": "2026-05-13",
     "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
@@ -17813,6 +17853,11 @@
     "first_seen": "2026-06-08",
     "link": "https://arxiv.org/abs/2606.06529",
     "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety"
+  },
+  "d29fd961c4": {
+    "first_seen": "2026-09-06",
+    "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers",
+    "title": "Introducing GPT-6 Astra for developers"
   },
   "d2a5ebf5c7": {
     "first_seen": "2026-06-16",
@@ -18604,6 +18649,11 @@
     "link": "https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss-c3aeaf49d8a4------2",
     "title": "VMAF v1: Good Is Not Good Enough"
   },
+  "dc9688396f": {
+    "first_seen": "2026-09-06",
+    "link": "https://openai.com/index/an-alien-mind",
+    "title": "An Alien Mind"
+  },
   "dca577167f": {
     "first_seen": "2026-05-06",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
@@ -19033,6 +19083,11 @@
     "first_seen": "2026-05-19",
     "link": "https://thenewstack.io/rag-retrieval-scaling-architecture",
     "title": "Why production RAG systems give confident, wrong answers at scale"
+  },
+  "e2e9330d75": {
+    "first_seen": "2026-09-06",
+    "link": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan",
+    "title": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives"
   },
   "e2f19219c5": {
     "first_seen": "2026-05-06",
